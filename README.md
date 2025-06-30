@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @geershatisaxena
+- 👋 Hi, I’m Geershati Saxena
 - 👀 I’m interested in Python Programming
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on data science related projects
