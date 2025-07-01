@@ -34,6 +34,9 @@
 ![Statistical Analysis](https://img.shields.io/badge/-Statistical%20Analysis-2C3E50?logo=apachespark&logoColor=white)
 ![Business Intelligence](https://img.shields.io/badge/-Business%20Intelligence-34495E?logo=googlebigquery&logoColor=white)
 ![Data-Driven Decision Making](https://img.shields.io/badge/-Data--Driven%20Decisions-28B463?logo=docusign&logoColor=white)
+![IBM Cognos](https://img.shields.io/badge/-IBM%20Cognos%20Analytics-052FAD?logo=ibm&logoColor=white)
+![IBM SPSS Modeler](https://img.shields.io/badge/-IBM%20SPSS%20Modeler-00264D?logo=ibm&logoColor=white)
+
 
 
 # My Soft Skills
