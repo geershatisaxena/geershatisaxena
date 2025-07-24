@@ -1,12 +1,5 @@
 Hello there! I'm Geershati Saxena, a dynamic and forward-thinking student currently pursuing a Bachelor of Computer Application (B.C.A) with a keen interest in the fascinating realms of Data Science and Artificial Intelligence. With a robust foundation in Python, SQL, HTML, Pandas, and Matplotlib, I am dedicated to exploring the intersection of technology and data to drive meaningful insights and innovation.
 
-My journey in data science began with a curiosity to decode patterns and extract actionable intelligence from complex datasets. Through hands-on projects and coursework, I've honed my skills in Python for data analysis and manipulation, leveraging libraries such as Pandas for efficient data handling and Matplotlib for insightful visualizations.
-
-Driven by a desire to uncover hidden trends and unlock the potential of data, I thrive in collaborative environments where I can apply my analytical mindset to solve real-world problems. Whether it's querying databases to extract valuable information or designing interactive visualizations to communicate findings effectively, I am committed to leveraging technology to make data-driven decisions that propel organizations forward.
-
-As I continue to expand my knowledge and expertise, I am eager to connect with like-minded professionals, mentors, and industry leaders to exchange ideas, collaborate on projects, and contribute to the ever-evolving landscape of data science and AI.
-
-Let's connect and explore opportunities to create impact together!
 # My Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
