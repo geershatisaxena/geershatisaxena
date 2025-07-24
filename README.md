@@ -1,4 +1,4 @@
-Hello there! I'm Geershati Saxena, a dynamic and forward-thinking student currently pursuing a Bachelor of Computer Application (B.C.A) with a keen interest in the fascinating realms of Data Science and Artificial Intelligence. With a robust foundation in Python, SQL, HTML, Pandas, and Matplotlib, I am dedicated to exploring the intersection of technology and data to drive meaningful insights and innovation.
+Hello there! I'm Geershati Saxena, a dynamic and forward-thinking student currently pursuing a Bachelor of Computer Application (B.C.A) with a keen interest in the fascinating realms of Data Science and Artificial Intelligence.
 
 # My Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
