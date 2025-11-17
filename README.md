@@ -39,6 +39,8 @@ Hello there! I'm Geershati Saxena, a dynamic and forward-thinking student curren
 [![Google Bard](https://img.shields.io/badge/-Bard-4285F4?logo=google&logoColor=white)](https://bard.google.com/)
 [![Anthropic Claude](https://img.shields.io/badge/-Claude-7c3aed?logo=anthropic&logoColor=white)](https://www.anthropic.com/)
 [![GitHub Copilot](https://img.shields.io/badge/-Copilot-7b61ff?logo=github&logoColor=white)](https://github.com/features/copilot)
+[![DeepSeek](https://img.shields.io/badge/-DeepSeek-000000?logo=deepseek&logoColor=white)](https://www.deepseek.com/)
+
 
 
 
