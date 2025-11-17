@@ -40,6 +40,8 @@ Hello there! I'm Geershati Saxena, a dynamic and forward-thinking student curren
 [![Anthropic Claude](https://img.shields.io/badge/-Claude-7c3aed?logo=anthropic&logoColor=white)](https://www.anthropic.com/)
 [![GitHub Copilot](https://img.shields.io/badge/-Copilot-7b61ff?logo=github&logoColor=white)](https://github.com/features/copilot)
 [![DeepSeek](https://img.shields.io/badge/-DeepSeek-000000?logo=deepseek&logoColor=white)](https://www.deepseek.com/)
+[![Python Turtle](https://img.shields.io/badge/-Python_Turtle-2E8B57?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTExLjkgMmMtMS40IDAtMi41IDEuMS0yLjUgMi41djEuNWMtMi4zLjEtNC4yIDEuOS00LjIgNC4yczEuOSAzLjkgNC4yIDQuMnYxLjVjMCAxLjQgMS4xIDIuNSAyLjUgMi41czIuNS0xLjEgMi41LTIuNXYtMS41YzIuMy0uMSA0LjItMS45IDQuMi00LjJzLTEuOS0zLjktNC4yLTQuMnYtMS41YzAtMS40LTEuMS0yLjUtMi41LTIuNXpNMTIgMTdjLS44IDAtMS41LS43LTEuNS0xLjVzLjctMS41IDEuNS0xLjUgMS41LjcgMS41IDEuNS0uNyAxLjUtMS41IDEuNXoiLz48L3N2Zz4=)](https://docs.python.org/3/library/turtle.html)
+
 
 
 
