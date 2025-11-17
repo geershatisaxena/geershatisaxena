@@ -97,6 +97,12 @@ Hello there! I'm Geershati Saxena, a dynamic and forward-thinking student curren
 ![Openness to Criticism](https://img.shields.io/badge/-Openness%20to%20Criticism-CA6F1E?logo=gitbook&logoColor=white)
 ![Organizational Skills](https://img.shields.io/badge/-Organizational%20Skills-1F618D?logo=notion&logoColor=white)
 ![Accountability](https://img.shields.io/badge/-Accountability-5DADE2?logo=dependabot&logoColor=white)
+[![ChatGPT](https://img.shields.io/badge/-ChatGPT-150458?logo=openai&logoColor=white)](https://chat.openai.com/)
+[![GPT-4](https://img.shields.io/badge/-GPT--4-0ea5a4?logo=openai&logoColor=white)](https://chat.openai.com/)
+[![DALL·E](https://img.shields.io/badge/-DALL%E2%B7%8F-EA580C?logo=openai&logoColor=white)](https://labs.openai.com/)
+[![Google Bard](https://img.shields.io/badge/-Bard-4285F4?logo=google&logoColor=white)](https://bard.google.com/)
+[![Anthropic Claude](https://img.shields.io/badge/-Claude-7c3aed?logo=anthropic&logoColor=white)](https://www.anthropic.com/)
+[![GitHub Copilot](https://img.shields.io/badge/-Copilot-7b61ff?logo=github&logoColor=white)](https://github.com/features/copilot)
 
 
 
