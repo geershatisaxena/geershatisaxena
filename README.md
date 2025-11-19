@@ -115,6 +115,7 @@ Hello there! I'm Geershati Saxena, a dynamic and forward-thinking student curren
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/geershati_saxena/)
 [![Credly](https://img.shields.io/badge/Credly-FF6F00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/geershati-saxena.4540b108)
 [![GitHub](https://img.shields.io/badge/GitHub-121013?logo=github&logoColor=white)](https://github.com/geershatisaxenahttps://github.com/geershatisaxena)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Geershati_Saxena_110/)
 
 
 
