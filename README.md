@@ -113,9 +113,7 @@ Hello there! I'm Geershati Saxena, a dynamic and forward-thinking student curren
 ![Organizational Skills](https://img.shields.io/badge/-Organizational%20Skills-1F618D?logo=notion&logoColor=white)
 ![Accountability](https://img.shields.io/badge/-Accountability-5DADE2?logo=dependabot&logoColor=white)
 
-## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
