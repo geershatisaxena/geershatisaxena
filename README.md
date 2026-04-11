@@ -1,36 +1,95 @@
-<h1 align="center">Hi 👋, I'm Geershati Saxena</h1>
+<h1 align="center">⚡ Geershati Saxena ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=BCA+Student;Data+Science+Enthusiast;AI+Learner;Future+Data+Scientist;Python+Developer" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=700&lines=Data+Scientist+in+Progress;AI+%7C+ML+Explorer;Cyberpunk+Developer;Building+Smart+Systems" />
 </p>
 
 ---
 
-# 💫 About Me:
+<!-- 🌌 CYBERPUNK GLASS HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F700FF&size=18&center=true&vCenter=true&width=800&lines=Dynamic+BCA+Student;Passionate+about+Data+Science+%26+AI;Building+Intelligent+Solutions;Always+Learning+New+Technologies" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Welcome%20to%20My%20Digital%20World&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
 </p>
-
-Hello there! I'm **Geershati Saxena**, a forward-thinking BCA student passionate about **Data Science & Artificial Intelligence** 🚀  
-I love turning data into insights and building smart solutions.
 
 ---
 
-# 🌐 Socials (Animated Glow)
+# 💫 🧊 Glassmorphism About Me
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+✨ **Geershati Saxena**  
+🎓 BCA Student  
+🧠 Data Science + AI Enthusiast  
+🚀 Passionate about building intelligent systems  
+
+💡 *"Turning data into decisions & ideas into reality"*
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🎮 ⚡ Interactive Dashboard
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=geershatisaxena&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=ff00ff" height="180"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geershatisaxena&theme=tokyonight&hide_border=true&background=0d1117&ring=00f7ff&fire=ff00ff" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=geershatisaxena&theme=react-dark&bg_color=0d1117&color=00f7ff&line=ff00ff&point=ffffff&hide_border=true"/>
+</p>
+
+---
+
+# 🌌 💻 Neon Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql,git,github,vscode,vercel&theme=dark"/>
+</p>
+
+---
+
+# 📊 🚀 Live Project Showcase (Glass Cards)
+
+<p align="center">
+
+<a href="https://github.com/geershatisaxena">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=geershatisaxena&repo=your-repo-1&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/geershatisaxena">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=geershatisaxena&repo=your-repo-2&theme=tokyonight&hide_border=true"/>
+</a>
+
+</p>
+
+---
+
+# 🐍 ⚡ Neon Snake Animation
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 🌐 🔗 Cyber Social Hub
 
 <p align="center">
   <a href="https://instagram.com/geershati_saxena">
-    <img src="https://img.shields.io/badge/Instagram-ff0080?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-ff00ff?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/geershati-saxena">
     <img src="https://img.shields.io/badge/LinkedIn-00f7ff?style=for-the-badge&logo=linkedin&logoColor=black"/>
-  </a>
-  <a href="https://pinterest.com/geershati">
-    <img src="https://img.shields.io/badge/Pinterest-ff0000?style=for-the-badge&logo=pinterest&logoColor=white"/>
   </a>
   <a href="mailto:geershatisaxena110@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-ffaa00?style=for-the-badge&logo=gmail&logoColor=black"/>
@@ -39,58 +98,18 @@ I love turning data into insights and building smart solutions.
 
 ---
 
-# 💻 Tech Stack (Animated Icons)
+# 🧠 ⚡ AI Tools Zone
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,git,github,vercel,vscode&theme=dark" />
+  <img src="https://img.shields.io/badge/ChatGPT-00f7ff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GPT--4-ff00ff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Claude-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Copilot-00ff99?style=for-the-badge"/>
 </p>
 
 ---
 
-# 📊 GitHub Stats (Live + Animated)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=geershatisaxena&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geershatisaxena&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geershatisaxena&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-# ⚡ Tools & Technologies (Glowing Badges)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-00f7ff?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/Data%20Science-ff00ff?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI-00ff99?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-ffaa00?style=for-the-badge"/>
-</p>
-
----
-
-# 🧠 Soft Skills (Animated Style)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Problem%20Solving-ff4d4d?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Leadership-00c3ff?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Creativity-ffcc00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Communication-00ffcc?style=for-the-badge"/>
-</p>
-
----
-
-# ✍️ Random Dev Quote (Animated)
+# ✍️ 💡 Dev Quote Engine
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
@@ -98,14 +117,14 @@ I love turning data into insights and building smart solutions.
 
 ---
 
-# 👀 Profile Views Counter
+# 👁️ Visitor Counter
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=geershatisaxena&icon=5&color=12"/>
+  <img src="https://visitcount.itsvg.in/api?id=geershatisaxena&icon=6&color=12"/>
 </p>
 
 ---
 
-# 🚀 EXTRA (Wave Animation Footer)
+# 🌊 ⚡ Cyberpunk Footer
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:ff00ff&height=120&section=footer"/>
