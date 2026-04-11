@@ -63,7 +63,7 @@
 <p align="center">
 
 <a href="https://github.com/geershatisaxena/my-portfoli">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=geershatisaxena&repo=your-repo-1&theme=tokyonight&hide_border=true"/>
+  <img src="https://github.com/geershatisaxena/my-portfoli/blob/main/README.md"/>
 </a>
 
 <a href="https://github.com/geershatisaxena">
