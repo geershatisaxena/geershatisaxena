@@ -62,7 +62,7 @@
 
 <p align="center">
 
-<a href="https://github.com/geershatisaxena">
+<a href="https://github.com/geershatisaxena/GeerVibes">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=geershatisaxena&repo=your-repo-1&theme=tokyonight&hide_border=true"/>
 </a>
 
