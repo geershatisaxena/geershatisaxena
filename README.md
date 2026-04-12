@@ -1,46 +1,35 @@
 <h1 align="center">⚡ Geershati Saxena ⚡</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=700&lines=Data+Scientist+in+Progress;AI+%7C+ML+Explorer;Cyberpunk+Developer;Building+Smart+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=32&center=true&vCenter=true&width=750&lines=Future+Data+Scientist;AI+%7C+ML+Enthusiast;Building+Intelligent+Systems;Turning+Data+into+Decisions" />
+</p>
+
+---
+<!-- Cyberpunk Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F7FF,100:8A2BE2,200:FF00FF&height=220&section=header&text=Welcome%20to%20My%20Digital%20Realm&fontSize=38&fontColor=ffffff&animation=fadeIn&stroke=00F7FF"/>
 </p>
 
 ---
 
-<!-- 🌌 CYBERPUNK GLASS HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Welcome%20to%20My%20Digital%20World&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
-</p>
-
----
-
-# 💫 🧊 Glassmorphism About Me
+### 💫 Glassmorphism About Me
 
 <div align="center">
 
-<table>
-<tr>
-<td>
-
-✨ **Geershati Saxena**  
-🎓 BCA Student  
-🧠 Data Science + AI Enthusiast  
-🚀 Passionate about building intelligent systems  
-
-💡 *"Turning data into decisions & ideas into reality"*
-
-</td>
-</tr>
-</table>
+| ✨ **Geershati Saxena** |
+|-----------------------|
+| 🎓 BCA Student |
+| 🧠 Aspiring Data Scientist & AI Engineer |
+| 🚀 Passionate about building intelligent, data-driven systems |
+| 💡 *"Transforming raw data into meaningful impact"* |
 
 </div>
 
 ---
 
-# 🎮 ⚡ Interactive Dashboard
+### 🎮 Interactive Dashboard
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=geershatisaxena&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=ff00ff" height="180"/>
-  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=geershatisaxena&theme=tokyonight&hide_border=true&background=0d1117&ring=00f7ff&fire=ff00ff" height="180"/>
 </p>
 
@@ -50,66 +39,67 @@
 
 ---
 
-# 🌌 💻 Neon Tech Stack
+### 🌌 Neon Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql,git,github,vscode,vercel&theme=dark"/>
+  <br>
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,scikit-learn,tensorflow,matplotlib,seaborn,tableau, powerbi&theme=dark"/>
 </p>
 
 ---
 
-# 📊 🚀 Live Project Showcase (Glass Cards)
+### 📊 Live Project Showcase
 
 <p align="center">
-
-<a href="https://github.com/geershatisaxena/my-portfoli">
-  <img src="https://github.com/geershatisaxena/my-portfoli/blob/main/README.md"/>
-</a>
-
-<a href="https://github.com/geershatisaxena">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=geershatisaxena&repo=your-repo-2&theme=tokyonight&hide_border=true"/>
-</a>
-
+  <a href="https://github.com/geershatisaxena/my-portfoli">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=geershatisaxena&repo=my-portfoli&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff"/>
+  </a>
+  <a href="https://github.com/geershatisaxena">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=geershatisaxena&repo=your-repo-name&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff"/>
+  </a>
 </p>
+
+> 💡 **Replace `your-repo-name`** with your actual project repositories
 
 ---
 
-# 🐍 ⚡ Neon Snake Animation
+### 🐍 Neon Snake Animation
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 </p>
 
 ---
 
-# 🌐 🔗 Cyber Social Hub
+### 🌐 Cyber Social Hub
 
 <p align="center">
   <a href="https://instagram.com/geershati_saxena">
-    <img src="https://img.shields.io/badge/Instagram-ff00ff?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/geershati-saxena">
-    <img src="https://img.shields.io/badge/LinkedIn-00f7ff?style=for-the-badge&logo=linkedin&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:geershatisaxena110@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ffaa00?style=for-the-badge&logo=gmail&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-# 🧠 ⚡ AI Tools Zone
+### 🧠 AI Tools & Frameworks
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ChatGPT-00f7ff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ChatGPT-00F7FF?style=for-the-badge&logo=openai&logoColor=black"/>
   <img src="https://img.shields.io/badge/GPT--4-ff00ff?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Claude-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Copilot-00ff99?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-00ff99?style=for-the-badge"/>
 </p>
 
 ---
 
-# ✍️ 💡 Dev Quote Engine
+### ✍️ Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
@@ -117,7 +107,7 @@
 
 ---
 
-# 👁️ Visitor Counter
+### 👁️ Visitor Count
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=geershatisaxena&icon=6&color=12"/>
@@ -125,6 +115,11 @@
 
 ---
 
-# 🌊 ⚡ Cyberpunk Footer
+<!-- Cyberpunk Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2,200:FF00FF&height=140&section=footer&text=Let%27s%20Build%20The%20Future%20Together&fontSize=22&fontColor=ffffff"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:ff00ff&height=120&section=footer"/>
+---
+
+**Kaise lag raha hai bhai?**
+
+Agar kuch change chahiye (jaise color, extra section, project links update, etc.) toh batao — turant update kar dunga.
