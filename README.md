@@ -1,130 +1,82 @@
-<h1 align="center">⚡ Geershati Saxena ⚡</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=35&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=600&lines=Geershati+Saxena;BCA+Student;Data+Science+%26+AI+Practitioner" alt="Professional Title" />
+</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=700&lines=Data+Scientist+in+Progress;AI+%7C+ML+Explorer;Cyberpunk+Developer;Building+Smart+Systems" />
+---
+
+## Professional Summary
+
+Data Science and Artificial Intelligence enthusiast pursuing a Bachelor of Computer Applications (BCA). Demonstrated aptitude for transforming complex datasets into actionable business insights. Committed to continuous learning and the development of intelligent, data-driven solutions.
+
+---
+
+## Technical Proficiencies
+
+**Core Competencies:**
+- Data Analysis & Visualization
+- Machine Learning Fundamentals
+- Statistical Modeling
+- Database Management
+
+**Programming & Tools:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,git,github,vercel,vscode&theme=dark" />
+</p>
+
+**Data Science Stack:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
 ---
 
-<!-- 🌌 CYBERPUNK GLASS HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Welcome%20to%20My%20Digital%20World&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
-</p>
+## Professional Development
+
+- **Current Focus:** Advanced Machine Learning techniques and production-ready data pipelines
+- **Learning Path:** Deep Learning architectures and MLOps practices
+- **Project Direction:** Building scalable data solutions with practical business applications
 
 ---
 
-# 💫 🧊 Glassmorphism About Me
+## Professional Profiles
 
-<div align="center">
-
-<table>
-<tr>
-<td>
-
-✨ **Geershati Saxena**  
-🎓 BCA Student  
-🧠 Data Science + AI Enthusiast  
-🚀 Passionate about building intelligent systems  
-
-💡 *"Turning data into decisions & ideas into reality"*
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-# 🎮 ⚡ Interactive Dashboard
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=geershatisaxena&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=ff00ff" height="180"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geershatisaxena&theme=tokyonight&hide_border=true&background=0d1117&ring=00f7ff&fire=ff00ff" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=geershatisaxena&theme=react-dark&bg_color=0d1117&color=00f7ff&line=ff00ff&point=ffffff&hide_border=true"/>
-</p>
-
----
-
-# 🌌 💻 Neon Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql,git,github,vscode,vercel&theme=dark"/>
-</p>
-
----
-
-# 📊 🚀 Live Project Showcase (Glass Cards)
-
-<p align="center">
-
-<a href="https://github.com/geershatisaxena">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=geershatisaxena&repo=your-repo-1&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/geershatisaxena">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=geershatisaxena&repo=your-repo-2&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
-
----
-
-# 🐍 ⚡ Neon Snake Animation
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-# 🌐 🔗 Cyber Social Hub
-
-<p align="center">
-  <a href="https://instagram.com/geershati_saxena">
-    <img src="https://img.shields.io/badge/Instagram-ff00ff?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+<p align="left">
   <a href="https://linkedin.com/in/geershati-saxena">
-    <img src="https://img.shields.io/badge/LinkedIn-00f7ff?style=for-the-badge&logo=linkedin&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/geershatisaxena">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:geershatisaxena110@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ffaa00?style=for-the-badge&logo=gmail&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-# 🧠 ⚡ AI Tools Zone
+## GitHub Activity Metrics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ChatGPT-00f7ff?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GPT--4-ff00ff?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Claude-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Copilot-00ff99?style=for-the-badge"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=geershatisaxena&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00F7FF&icon_color=F700FF" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geershatisaxena&theme=dark&hide_border=true&background=0d1117&stroke=00F7FF&ring=F700FF&fire=00F7FF" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geershatisaxena&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00F7FF"/>
 </p>
 
 ---
 
-# ✍️ 💡 Dev Quote Engine
+## Professional Philosophy
+
+> *"Transforming data into intelligence, one algorithm at a time."*
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:F700FF&height=100&section=footer"/>
 </p>
-
----
-
-# 👁️ Visitor Counter
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=geershatisaxena&icon=6&color=12"/>
-</p>
-
----
-
-# 🌊 ⚡ Cyberpunk Footer
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:ff00ff&height=120&section=footer"/>
