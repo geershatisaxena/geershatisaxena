@@ -52,35 +52,23 @@
 ### 📊 Live Project Showcase
 
 <p align="center">
-  <a href="https://github.com/geershatisaxena/GeerVibes">
+  <a href="https://github.com/geershatisaxena/GeerVibes" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=geershatisaxena&repo=GeerVibes&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=ff00ff&show_owner=true" 
          alt="GeerVibes" 
-         height="150"/>
+         height="165" 
+         style="border-radius: 12px;"/>
   </a>
 </p>
 
 <p align="center">
-  <em>GeerVibes — Intelligent Data Dashboard / AI Project</em>
+  <strong>🔥 GeerVibes</strong><br>
+  <em>Intelligent Data Dashboard & AI Project</em>
 </p>
 
 ---
 
-### 🐍 Neon Snake Animation
+(Baaki sections same rakh sakte ho jaise snake, social, footer etc.)
 
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
-</p>
+**Ab yeh paste karke check karo.**
 
----
-
-### 🌐 Cyber Social Hub + AI Tools + Quote + Footer (same as before)
-*(baaki sab same rakh sakte ho)*
-
----
-
-**Ab try karke batao** — abhi bhi nahi aa raha toh mujhe batao:
-
-1. Kya repo **public** hai?
-2. Kya error aa raha hai (blank box, broken image, ya kuch nahi dikh raha)?
-
-Main aur better solution de dunga.
+Agar ab bhi sirf folder icon aa raha hai, toh batao — main ek **simple stylish card** bana dunga jo guaranteed kaam karega (without depending on stats API).
