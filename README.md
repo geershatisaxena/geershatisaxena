@@ -4,10 +4,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
   <title>Geershati Saxena · Cyberpunk Data Science README</title>
-  <!-- Google Fonts + Font Awesome (for icons & socials) -->
+  <!-- Google Fonts + Font Awesome (premium icons) -->
   <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,300;14..32,400;14..32,600;14..32,700;14..32,800&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-  <!-- Animate.css CDN for extra class-based animations if needed, but we'll use custom keyframes for precision -->
   <style>
     * {
       margin: 0;
@@ -50,7 +49,7 @@
       transition: all 0.3s ease;
     }
 
-    /* cyberpunk glitch text effect for main title */
+    /* glitch effect for main title */
     .glitch {
       font-size: 3rem;
       font-weight: 800;
@@ -396,7 +395,7 @@
   <div class="quote-block animated-section">
     <i class="fas fa-quote-left" style="color:#0affbc; margin-right: 10px;"></i> 
     <strong>✦ RANDOM DEV QUOTE ✦</strong><br>
-    <!-- dynamic quote via API but also fallback to static random-ish? but we use github-readme quotes API? We'll embed via iframe or image, but better to embed standard widget as image to keep dynamic? We'll use standard markdown compatible image but it's HTML, so we can embed the quotes API url as an img -->
+    <!-- dynamic quote via API but also fallback to static random-ish? we use github-readme quotes API? We'll embed via iframe or image, but better to embed standard widget as image to keep dynamic? We'll use standard markdown compatible image but it's HTML, so we can embed the quotes API url as an img -->
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" style="max-width:100%; margin-top: 12px; border-radius: 20px; background: #00000040; padding: 5px;">
   </div>
 
