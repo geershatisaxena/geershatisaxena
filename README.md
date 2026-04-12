@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=35&duration=3000&pause=500&color=E84393&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Geershati+Saxena" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=35&duration=3000&pause=500&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Geershati+Saxena" />
 </h1>
 
 <p align="center">
