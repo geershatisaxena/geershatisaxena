@@ -44,7 +44,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql,git,github,vscode,vercel&theme=dark"/>
   <br>
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,scikit-learn,tensorflow,matplotlib,seaborn,tableau, powerbi&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,scikit-learn,tensorflow,matplotlib,seaborn,tableau,powerbi&theme=dark"/>
 </p>
 
 ---
@@ -52,15 +52,10 @@
 ### 📊 Live Project Showcase
 
 <p align="center">
-  <a href="https://github.com/geershatisaxena/my-portfoli">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=geershatisaxena&repo=my-portfoli&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff"/>
-  </a>
-  <a href="https://github.com/geershatisaxena">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=geershatisaxena&repo=your-repo-name&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff"/>
+  <a href="https://github.com/geershatisaxena/GeerVibes">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=geershatisaxena&repo=GeerVibes&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=ff00ff"/>
   </a>
 </p>
-
-> 💡 **Replace `your-repo-name`** with your actual project repositories
 
 ---
 
@@ -120,6 +115,8 @@
 
 ---
 
-**Kaise lag raha hai bhai?**
+**Bas copy-paste kar do** apne `README.md` mein.
 
-Agar kuch change chahiye (jaise color, extra section, project links update, etc.) toh batao — turant update kar dunga.
+Agar aur ek-do projects add karne hain future mein, toh bata dena, main uske hisaab se section ko multi-card bana dunga.  
+
+Kaisa laga yeh version? 🔥
