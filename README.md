@@ -106,7 +106,7 @@ Hello there! I'm **Geershati Saxena**, a dynamic and forward-thinking student pu
 
 ## 👀 Profile Views
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=geershatisaxena&icon=5&color=12" alt="Visitor Count"/>
+  <img src="https://visitcount.itsvg.in/api?id=geershatisaxena&icon=5&color=12&rand=${Math.random()}" alt="Visitor Count"/>
 </p>
 
 ---
