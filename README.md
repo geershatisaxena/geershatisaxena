@@ -80,6 +80,17 @@ Hello there! I'm **Geershati Saxena**, a dynamic and forward-thinking student pu
   <img src="https://img.shields.io/badge/Adaptability-2ECC71?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Time%20Management-E67E22?style=for-the-badge"/>
 </p>
+---
+# 📊 GitHub Stats (Live + Animated)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=geershatisaxena&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geershatisaxena&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geershatisaxena&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
