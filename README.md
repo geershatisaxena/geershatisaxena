@@ -90,9 +90,7 @@ Hello there! I'm **Geershati Saxena**, a dynamic and forward-thinking student pu
 
 ## ✍️ Random Dev Quote
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=geershatisaxena&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
 
 ## 🐍 Contribution Snake
@@ -105,7 +103,7 @@ Hello there! I'm **Geershati Saxena**, a dynamic and forward-thinking student pu
 
 ## 👀 Profile Views
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=geershatisaxena&icon=5&color=12&rand=${Math.random()}" alt="Visitor Count"/>
+  <img src="https://komarev.com/ghpvc/?username=geershatisaxena&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
