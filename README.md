@@ -11,7 +11,7 @@
 ## 💫 About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=30&duration=3500&pause=500&color=F5EFF0&center=true&vCenter=true&width=800&lines=📊+BCA+Graduate+%7C+Data+Science+%26+AI+Enthusiast;🐍+Python+Developer+%7C+Machine+Learning+Explorer;📈+Turning+Data+into+Intelligent+Insights;🚀+Always+Learning+%7C+Building+the+Future"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=30&duration=3500&pause=500&color=C4155D&center=true&vCenter=true&width=800&lines=📊+BCA+Graduate+%7C+Data+Science+%26+AI+Enthusiast;🐍+Python+Developer+%7C+Machine+Learning+Explorer;📈+Turning+Data+into+Intelligent+Insights;🚀+Always+Learning+%7C+Building+the+Future"/>
 </p>
 
 Hello there! I'm **Geershati Saxena**, a dynamic and forward-thinking student pursuing a **Bachelor of Computer Application (B.C.A)** with a deep passion for **Data Science** and **Artificial Intelligence**. I love transforming raw data into actionable insights and building intelligent solutions that make a difference.
