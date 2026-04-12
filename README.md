@@ -59,6 +59,8 @@ Hello there! I'm **Geershati Saxena**, a dynamic and forward-thinking student pu
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=geershatisaxena&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00F7FF&icon_color=F700FF" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geershatisaxena&theme=tokyonight&hide_border=true&background=0d1117&stroke=00F7FF&ring=F700FF&fire=00F7FF" height="180"/>
+</p>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=geershatisaxena&theme=tokyonight&hide_border=true&background=0d1117&ring=00f7ff&fire=ff00ff" height="180"/>
 </p>
