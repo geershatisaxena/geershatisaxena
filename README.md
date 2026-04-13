@@ -40,6 +40,9 @@ With a solid foundation in programming and analytical thinking, I am continuousl
   <a href="https://leetcode.com/u/geershati_saxena/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
+  <a href="https://www.snapchat.com/@geershatisaxena?share_id=9NZ2ia1lhOk&locale=en-GB">
+  <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black"/>
+</a>
 </p>
 
 
