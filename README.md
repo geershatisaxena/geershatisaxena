@@ -25,7 +25,7 @@ With a solid foundation in programming and analytical thinking, I am continuousl
   <a href="https://instagram.com/geershati_saxena">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&color=ff0080&labelColor=ff0080"/>
   </a>
-  <a href="https://linkedin.com/in/geershati-saxena">
+  <a href="https://www.linkedin.com/in/geershati-saxena-8b915b306/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00f7ff&labelColor=00f7ff"/>
   </a>
   <a href="https://pinterest.com/geershati">
