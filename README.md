@@ -82,19 +82,19 @@ With a solid foundation in programming and analytical thinking, I am continuousl
 ## 🧠 Soft Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Problem%20Solving-2563EB?style=for-the-badge&logo=target&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Leadership-DC2626?style=for-the-badge&logo=leaderprice&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Creativity-F59E0B?style=for-the-badge&logo=adobecreativecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Communication-06B6D4?style=for-the-badge&logo=wechat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Critical%20Thinking-7C3AED?style=for-the-badge&logo=brain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Teamwork-EC4899?style=for-the-badge&logo=teamspeak&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adaptability-10B981?style=for-the-badge&logo=shuffle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Time%20Management-F97316?style=for-the-badge&logo=clockify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data%20Analysis-0EA5E9?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-9333EA?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Problem%20Analysis-14B8A6?style=for-the-badge&logo=analyse&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-2563EB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Leadership-DC2626?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Creativity-F59E0B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Communication-06B6D4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Critical%20Thinking-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Teamwork-EC4899?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Adaptability-10B981?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Time%20Management-F97316?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Emotional%20Intelligence-0EA5E9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Decision%20Making-9333EA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Conflict%20Resolution-14B8A6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Active%20Listening-22C55E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Work%20Ethic-E11D48?style=for-the-badge"/>
 </p>
 
 ---
