@@ -112,40 +112,8 @@ With a solid foundation in programming and analytical thinking, I am continuousl
 
 ---
 
-<!-- Interactive Profile Views Section -->
 <p align="center">
-  
-  <!-- Views Badge with Emoji -->
-  <img src="https://komarev.com/ghpvc/?username=geershatisaxena&label=🔥%20PROFILE%20VIEWS&color=ff69b4&style=flat-square" />
-  
-  <br/><br/>
-
-  <!-- Interactive Collapsible Section -->
-  <details align="center">
-    <summary><b>👇 CLICK TO REVEAL SURPRISE 👇</b></summary>
-    <br/>
-    
-    <p>
-      🎯 <strong>You're visitor #</strong><br/>
-      <img src="https://komarev.com/ghpvc/?username=geershatisaxena&label=&color=0e75b6&style=flat-square" alt="Counter"/><br/>
-      <em>(Yes, that's you! 👆)</em>
-    </p>
-    
-    <hr width="50%"/>
-    
-    <p>
-      🌟 <strong>Want to interact more?</strong><br/>
-      ⭐ <a href="https://github.com/geershatisaxena?tab=repositories">Star a repo</a> • 
-      👥 <a href="https://github.com/geershatisaxena?tab=followers">Follow me</a> • 
-      💬 <a href="https://github.com/geershatisaxena/geershatisaxena/issues">Leave a message</a>
-    </p>
-    
-    <p>
-      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
-      <strong>Thanks for visiting!</strong>
-    </p>
-  </details>
-  
+  <img src="https://komarev.com/ghpvc/?username=geershatisaxena&label=👁️&color=blue&style=flat" />
 </p>
 ---
 
