@@ -120,5 +120,6 @@ With a solid foundation in programming and analytical thinking, I am continuousl
 ---
 
 <p align="center">
+  <p> Let's Connect</p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:F700FF&height=100&section=footer"/>
 </p>
