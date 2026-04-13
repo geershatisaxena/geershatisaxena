@@ -112,10 +112,46 @@ With a solid foundation in programming and analytical thinking, I am continuousl
 
 ---
 
-## 👀 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=geershatisaxena&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+<div align="center">
+  <h3>👀 Profile Views</h3>
+  <div id="viewCounter" style="font-size: 2rem; font-weight: bold; padding: 10px 20px; border-radius: 30px; background: linear-gradient(135deg, #0e75b6, #0a5a8a); color: white; display: inline-block; cursor: pointer; transition: transform 0.2s;">
+    Loading...
+  </div>
+  <p id="funFact" style="margin-top: 10px; font-style: italic; color: #555;"></p>
+  <p style="margin-top: 5px; font-size: 0.8rem;">✨ Click the badge to increment! ✨</p>
+</div>
+
+<script>
+  // Get current view count from localStorage (or start at 1000 for demo)
+  let views = localStorage.getItem('profileViews') ? parseInt(localStorage.getItem('profileViews')) : 1000;
+
+  // Function to update display
+  function updateDisplay() {
+    document.getElementById('viewCounter').innerHTML = `👁️ ${views.toLocaleString()} views`;
+    document.getElementById('funFact').innerHTML = getFunFact(views);
+  }
+
+  // Fun facts based on view count
+  function getFunFact(count) {
+    if (count < 1000) return "⭐ Just getting started!";
+    if (count < 5000) return "🔥 You're gaining attention!";
+    if (count < 10000) return "🚀 Halfway to 10K!";
+    return "🏆 Popular profile!";
+  }
+
+  // Increment on click (interactive)
+  document.getElementById('viewCounter').addEventListener('click', function() {
+    views++;
+    localStorage.setItem('profileViews', views);
+    updateDisplay();
+    // Simulate confetti effect
+    console.log("🎉 +1 view! Total:", views);
+    alert(`🎉 You just added a view! Total: ${views}`);
+  });
+
+  // Initial load
+  updateDisplay();
+</script>
 
 ---
 
