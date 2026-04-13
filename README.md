@@ -32,10 +32,13 @@ With a solid foundation in programming and analytical thinking, I am continuousl
     <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white"/>
   </a>
   <a href="mailto:geershatisaxena110@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="mailto:geershatisaxena110@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
----
+
 
 ## 💻 Tech Stack
 
