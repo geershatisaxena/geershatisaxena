@@ -37,6 +37,9 @@ With a solid foundation in programming and analytical thinking, I am continuousl
  <a href="mailto:geershatisaxena110@outlook.com">
   <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
 </a>
+  <a href="https://leetcode.com/u/geershati_saxena/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 </p>
 
 
