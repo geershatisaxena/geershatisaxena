@@ -112,8 +112,9 @@ With a solid foundation in programming and analytical thinking, I am continuousl
 
 ---
 
+## 👀 Profile Views
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=geershatisaxena&label=👁️&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=geershatisaxena&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 ---
 
