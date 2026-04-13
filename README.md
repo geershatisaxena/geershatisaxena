@@ -113,33 +113,40 @@ With a solid foundation in programming and analytical thinking, I am continuousl
 ---
 
 <!-- Interactive Profile Views Section -->
-<div align="center">
+<p align="center">
   
-  <a href="https://github.com/geershatisaxena">
-    <img src="https://komarev.com/ghpvc/?username=geershatisaxena&label=👁️%20PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  </a>
+  <!-- Views Badge with Emoji -->
+  <img src="https://komarev.com/ghpvc/?username=geershatisaxena&label=🔥%20PROFILE%20VIEWS&color=ff69b4&style=flat-square" />
   
-  <br/>
-  <br/>
-  
-  <details>
-    <summary>✨ <strong>Click to interact</strong> ✨</summary>
+  <br/><br/>
+
+  <!-- Interactive Collapsible Section -->
+  <details align="center">
+    <summary><b>👇 CLICK TO REVEAL SURPRISE 👇</b></summary>
     <br/>
+    
     <p>
-      👋 <strong>Hey there!</strong> Thanks for stopping by!<br/>
-      🌟 You're one of <strong><code>${Math.floor(Math.random() * 1000) + 1}</code></strong> awesome people checking out this profile today!<br/>
-      🚀 <em>Want to connect? Star this repo or follow me for more cool stuff!</em>
+      🎯 <strong>You're visitor #</strong><br/>
+      <img src="https://komarev.com/ghpvc/?username=geershatisaxena&label=&color=0e75b6&style=flat-square" alt="Counter"/><br/>
+      <em>(Yes, that's you! 👆)</em>
+    </p>
+    
+    <hr width="50%"/>
+    
+    <p>
+      🌟 <strong>Want to interact more?</strong><br/>
+      ⭐ <a href="https://github.com/geershatisaxena?tab=repositories">Star a repo</a> • 
+      👥 <a href="https://github.com/geershatisaxena?tab=followers">Follow me</a> • 
+      💬 <a href="https://github.com/geershatisaxena/geershatisaxena/issues">Leave a message</a>
+    </p>
+    
+    <p>
+      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+      <strong>Thanks for visiting!</strong>
     </p>
   </details>
   
-</div>
-
-<!-- Optional: Add a live counter widget (if platform allows JS/iframe) -->
-<!-- 
-<p align="center">
-  <img src="https://hit.yhype.me/github/profile?user_id=geershatisaxena" alt="Real-time views" />
 </p>
--->
 ---
 
 <p align="center">
