@@ -34,9 +34,9 @@ With a solid foundation in programming and analytical thinking, I am continuousl
   <a href="mailto:geershatisaxena110@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="mailto:geershatisaxena110@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+ <a href="mailto:geershatisaxena110@outlook.com">
+  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+</a>
 </p>
 
 
