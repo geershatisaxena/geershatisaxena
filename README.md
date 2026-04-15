@@ -101,6 +101,8 @@ With a solid foundation in programming and analytical thinking, I am continuousl
 
 ## ✍️ Random Dev Quote
 
+
+
 <!-- 🌌 Hindi Quotes - Section 1 -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=4000&pause=2000&color=00F5FF&center=true&vCenter=true&width=900&lines=
@@ -149,11 +151,6 @@ With a solid foundation in programming and analytical thinking, I am continuousl
 <!-- ✨ Neon Divider -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,100:00F5FF&height=2"/>
-</p>
-
-<!-- ✨ Neon Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:FF00FF&height=2"/>
 </p>
 ---
 
