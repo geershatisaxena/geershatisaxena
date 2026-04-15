@@ -101,7 +101,32 @@ With a solid foundation in programming and analytical thinking, I am continuousl
 
 ## ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&author=Mahatma%20Gandhi)
+<!-- 🌌 Neon Cyberpunk Indian Quotes -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&duration=4000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=🇮🇳+Indian+Wisdom+%7C+Timeless+Intelligence;💡+Data+Meets+Philosophy;⚡+Think+Deep+Build+Smart+Stay+Curious" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&author=Mahatma%20Gandhi" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&author=APJ%20Abdul%20Kalam" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&author=Swami%20Vivekananda" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&author=Rabindranath%20Tagore" />
+</p>
+
+<!-- ✨ Neon Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:FF00FF&height=2"/>
+</p>
 ---
 
 ## 🐍 Contribution Snake
