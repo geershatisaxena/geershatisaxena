@@ -101,7 +101,21 @@ With a solid foundation in programming and analytical thinking, I am continuousl
 
 ## ✍️ Random Dev Quote
 
-![Indian Dev Quote](https://img.shields.io/badge/Quote-India%20Codes%20Bright-green)
+<!-- 🌌 Neon Cyberpunk Hindi Quotes -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&duration=4000&pause=1000&color=FF00FF&center=true&vCenter=true&width=900&lines=🇮🇳+भारतीय+विचार+%7C+शक्ति+और+ज्ञान;💡+सोचो+गहराई+से+बनाओ+स्मार्ट;⚡+Data+Science+Meets+Desi+Wisdom" />
+</p>
+
+<!-- ✨ Hindi Quote Cards -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=5000&pause=2000&color=00F5FF&center=true&vCenter=true&width=900&lines=“आप+वह+बदलाव+बनिए+जो+आप+दुनिया+में+देखना+चाहते+हैं।”+—+Mahatma+Gandhi;“सपने+वह+नहीं+जो+आप+सोते+समय+देखते+हैं,+सपने+वह+हैं+जो+आपको+सोने+नहीं+देते।”+—+APJ+Abdul+Kalam;“उठो,+जागो+और+तब+तक+नहीं+रुको+जब+तक+लक्ष्य+प्राप्त+न+हो+जाए।”+—+Swami+Vivekananda;“जहां+मन+निर्भय+हो,+वही+सच्ची+स्वतंत्रता+है।”+—+Rabindranath+Tagore" />
+</p>
+
+<!-- ✨ Neon Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,100:00F5FF&height=2"/>
+</p>
 ---
 
 ## 🐍 Contribution Snake
