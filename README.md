@@ -101,7 +101,7 @@ With a solid foundation in programming and analytical thinking, I am continuousl
 
 ## ✍️ Random Dev Quote
 
-![Indian Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quoteType=indian)
+![Indian Dev Quote](https://img.shields.io/badge/Quote-India%20Codes%20Bright-green)
 ---
 
 ## 🐍 Contribution Snake
