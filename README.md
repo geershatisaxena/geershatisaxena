@@ -101,7 +101,7 @@ With a solid foundation in programming and analytical thinking, I am continuousl
 
 ## ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&author=Mahatma%20Gandhi)
 ---
 
 ## 🐍 Contribution Snake
