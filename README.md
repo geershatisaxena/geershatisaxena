@@ -101,57 +101,7 @@ With a solid foundation in programming and analytical thinking, I am continuousl
 
 ## ✍️ Random Dev Quote
 
-
-
-<!-- 🌌 Hindi Quotes - Section 1 -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=4000&pause=2000&color=00F5FF&center=true&vCenter=true&width=900&lines=
-आप+वह+बदलाव+बनिए+जो+आप+दुनिया+में+देखना+चाहते+हैं।;
-सपने+वह+नहीं+जो+आप+सोते+समय+देखते+हैं,+सपने+वह+हैं+जो+आपको+सोने+नहीं+देते।;
-उठो,+जागो+और+तब+तक+नहीं+रुको+जब+तक+लक्ष्य+प्राप्त+न+हो+जाए।;
-कड़ी+मेहनत+का+कोई+विकल्प+नहीं+है।;
-असफलता+ही+सफलता+की+सीढ़ी+है।;
-ज्ञान+ही+सबसे+बड़ी+शक्ति+है।;
-हर+दिन+एक+नया+अवसर+है।;
-डर+के+आगे+जीत+है।;
-मेहनत+कभी+व्यर्थ+नहीं+जाती।;
-सीखना+कभी+बंद+मत+करो।" />
-</p>
-
-<!-- 🌌 Hindi Quotes - Section 2 -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=4000&pause=2000&color=FF00FF&center=true&vCenter=true&width=900&lines=
-आत्मविश्वास+सफलता+की+कुंजी+है।;
-कर्म+ही+पूजा+है।;
-हर+मुश्किल+एक+सीख+है।;
-समय+सबसे+कीमती+है।;
-सकारात्मक+सोच+रखो।;
-हार+मत+मानो।;
-खुद+को+बेहतर+बनाते+रहो।;
-अनुशासन+सफलता+का+आधार+है।;
-हर+दिन+सीखो,+हर+दिन+बढ़ो।;
-कठिनाइयाँ+आपको+मजबूत+बनाती+हैं।" />
-</p>
-
-<!-- 🌌 Hindi Quotes - Section 3 -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=4000&pause=2000&color=00F5FF&center=true&vCenter=true&width=900&lines=
-लक्ष्य+बड़ा+रखो।;
-सोच+बड़ी+रखो।;
-समर्पण+ही+सफलता+है।;
-प्रेरणा+अंदर+से+आती+है।;
-समय+की+कदर+करो।;
-जो+करना+है,+अभी+करो।;
-सपनों+का+पीछा+करो।;
-हर+दिन+नया+मौका+है।;
-असफलता+से+मत+डरो।;
-जीवन+एक+यात्रा+है।" />
-</p>
-
-<!-- ✨ Neon Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,100:00F5FF&height=2"/>
-</p>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
 
 ## 🐍 Contribution Snake
