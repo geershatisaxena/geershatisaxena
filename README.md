@@ -15,7 +15,7 @@
 </p>
 
 <p align = justify>I am a dynamic and forward thinking <b>BCA graduate</b> with a strong passion for <b>Data Science and Artificial Intelligence</b>. I enjoy exploring the power of data, transforming raw information into meaningful insights, and building intelligent solutions that solve real world problems.
-With a solid foundation in programming and analytical thinking, I am continuously learning and adapting to new technologies in order to stay ahead in this rapidly evolving field. I am particularly interested in creating <b>data driven applications</b> that are not only efficient but also impactful and user-friendly. My goal is to leverage data and AI to drive innovation, enhance decision making, and contribute to meaningful technological advancement.</p>
+With a solid foundation in programming and analytical thinking, I am continuously learning and adapting to new technologies in order to stay ahead in this rapidly evolving field. I am particularly interested in creating <b>data driven applications</b> that are not only efficient but also impactful and user-friendly. My goal is to leverage data and Artificial Intelligence to drive innovation, enhance decision making, and contribute to meaningful technological advancement.</p>
 
 ---
 
