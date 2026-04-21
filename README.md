@@ -119,7 +119,8 @@ With a solid foundation in programming and analytical thinking, I am continuousl
 ---
 
 <p align="center">
-  <strong>🌐 Let's Connect</strong>
+  <strong>✨ Let's Connect & Collaborate ✨</strong>
   <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:F700FF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8&height=120&section=footer&text=💬&fontSize=40&fontAlignY=85" 
+       alt="wave footer">
 </p>
