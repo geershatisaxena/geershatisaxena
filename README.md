@@ -69,16 +69,16 @@ With a solid foundation in programming and analytical thinking, I am continuousl
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geershatisaxena&layout=donut&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=ff6ac6&text_color=e0e0e0&border_radius=20&size_weight=0.5&count_weight=0.5" width="420"/>
       </td>
       <td align="left">
-      <samp>
-  <b>╭──────────────────────────────────────────────────────────╮</b><br>
-  <b>│                    📊 LANGUAGE BREAKDOWN                    │</b><br>
-  <b>├──────────────────────────────────────────────────────────┤</b><br>
-  <b>│  🐍 Python      │  85%  │  Data Science & Machine Learning  │</b><br>
-  <b>│  🌐 HTML/CSS    │  75%  │  Frontend Design & Responsive UI  │</b><br>
-  <b>│  ⚡ JavaScript  │  65%  │  Interactive Web Applications     │</b><br>
-  <b>│  🗄️ SQL         │  70%  │  Database Management & Queries    │</b><br>
-  <b>│  🔧 Others      │  50%  │  Scripting, Automation & Tools    │</b><br>
-  <b>╰──────────────────────────────────────────────────────────╯</b>
+    <samp>
+  <b><span style="color:#00F7FF;">╭──────────────────────────────────────────────────────────────╮</span></b><br>
+  <b><span style="color:#F700FF;">│                    📊 LANGUAGE BREAKDOWN                    │</span></b><br>
+  <b><span style="color:#00F7FF;">├──────────────────────────────────────────────────────────────┤</span></b><br>
+  <b><span style="color:#00F7FF;">│  🐍 Python      │  ████████████████████ 85%  │  Data Science & ML      │</span></b><br>
+  <b><span style="color:#00F7FF;">│  🌐 HTML/CSS    │  █████████████████     75%  │  Frontend Design        │</span></b><br>
+  <b><span style="color:#00F7FF;">│  ⚡ JavaScript  │  ███████████████       65%  │  Interactive Web        │</span></b><br>
+  <b><span style="color:#00F7FF;">│  🗄️ SQL         │  ████████████████      70%  │  Database Management    │</span></b><br>
+  <b><span style="color:#00F7FF;">│  🔧 Others      │  ████████████          50%  │  Scripting & Tools      │</span></b><br>
+  <b><span style="color:#F700FF;">╰──────────────────────────────────────────────────────────────╯</span></b>
 </samp>
       </td>
     </tr>
