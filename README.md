@@ -69,13 +69,16 @@ With a solid foundation in programming and analytical thinking, I am continuousl
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geershatisaxena&layout=donut&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=ff6ac6&text_color=e0e0e0&border_radius=20&size_weight=0.5&count_weight=0.5" width="420"/>
       </td>
       <td align="center">
-       <samp>
-  <b>▸ LANGUAGE BREAKDOWN</b><br><br>
-  <b>🐍 Python</b>      <span style="color:#94A3B8">→  Data Science & ML</span><br>
-  <b>🌐 HTML/CSS</b>    <span style="color:#94A3B8">→  Frontend Design</span><br>
-  <b>⚡ JavaScript</b>   <span style="color:#94A3B8">→  Interactive Web</span><br>
-  <b>🗄️ SQL</b>         <span style="color:#94A3B8">→  Database Management</span><br>
-  <b>🔧 Others</b>      <span style="color:#94A3B8">→  Scripting & Tools</span>
+    <samp>
+  <b>╭─────────────────────────────────────────────────╮</b><br>
+  <b>│              📊 LANGUAGE BREAKDOWN              │</b><br>
+  <b>├─────────────────────────────────────────────────┤</b><br>
+  <b>│  🐍 Python      │  85%  │  Data Science & ML      │</b><br>
+  <b>│  🌐 HTML/CSS    │  75%  │  Frontend Design        │</b><br>
+  <b>│  ⚡ JavaScript  │  65%  │  Interactive Web        │</b><br>
+  <b>│  🗄️ SQL        │  70%  │  Database Management    │</b><br>
+  <b>│  🔧 Others      │  50%  │  Scripting & Tools      │</b><br>
+  <b>╰─────────────────────────────────────────────────╯</b>
 </samp>
       </td>
     </tr>
