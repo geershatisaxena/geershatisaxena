@@ -79,17 +79,38 @@ With a solid foundation in programming and analytical thinking, I am continuousl
 ## 📊 Languages Used by Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geershatisaxena&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=ffffff&langs_count=8"/>
+  <table align="center" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geershatisaxena&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=C084FC&text_color=94A3B8&langs_count=8&border_radius=15"/>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=py,html,css,js,mysql&theme=dark&perline=1" height="200"/>
+      </td>
+    </tr>
+  </table>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1e1e2e"/>
+  <!-- HTML5 -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1e1e2e"/>
+  <!-- CSS3 -->
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1e1e2e"/>
+  <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1e1e2e"/>
+  <!-- SQL -->
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1e1e2e"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/🐍%20Primary-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/📄%20Markup-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🎨%20Styling-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/⚡%20Logic-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/🗄️%20Database-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
 
 ## 🧠 Soft Skills
 
