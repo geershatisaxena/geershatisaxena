@@ -79,30 +79,34 @@ With a solid foundation in programming and analytical thinking, I am continuousl
 ## 📊 Languages Used by Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geershatisaxena&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=ff6ac6&text_color=e0e0e0&langs_count=6&border_radius=20&card_width=400"/>
+  <table align="center" border="0" style="border-collapse: collapse; background: transparent;">
+    <tr>
+      <td align="center" width="150">
+        <img src="https://img.shields.io/badge/🐍-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        <br>
+        <img src="https://progress-bar.dev/85/?width=120&color=3776AB" alt="85%"/>
+      </td>
+      <td align="center" width="150">
+        <img src="https://img.shields.io/badge/🌐-HTML/CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+        <br>
+        <img src="https://progress-bar.dev/75/?width=120&color=E34F26" alt="75%"/>
+      </td>
+      <td align="center" width="150">
+        <img src="https://img.shields.io/badge/⚡-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+        <br>
+        <img src="https://progress-bar.dev/65/?width=120&color=F7DF1E" alt="65%"/>
+      </td>
+      <td align="center" width="150">
+        <img src="https://img.shields.io/badge/🗄️-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+        <br>
+        <img src="https://progress-bar.dev/70/?width=120&color=4479A1" alt="70%"/>
+      </td>
+    </tr>
+  </table>
 </p>
 
-<br>
-
 <p align="center">
-  <samp>
-    <b>⚡ Primary Language</b> &nbsp;&nbsp;→&nbsp;&nbsp; <code>Python</code>
-    <br><br>
-    <b>🎨 Frontend</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→&nbsp;&nbsp; <code>HTML5</code> · <code>CSS3</code> · <code>JavaScript</code>
-    <br><br>
-    <b>🗄️ Database</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→&nbsp;&nbsp; <code>MySQL</code> · <code>SQL</code>
-  </samp>
-</p>
-
-<br>
-
-<p align="center">
-  <!-- Animated gradient badges -->
-  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=25"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&logoWidth=25"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&logoWidth=25"/>
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoWidth=25"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&logoWidth=25"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geershatisaxena&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=C084FC&text_color=94A3B8&langs_count=6&border_radius=10&card_width=450"/>
 </p>
 
 ## 🧠 Soft Skills
