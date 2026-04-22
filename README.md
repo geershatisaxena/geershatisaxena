@@ -70,7 +70,7 @@ With a solid foundation in programming and analytical thinking, I am continuousl
       </td>
       <td align="left">
   <samp>
- ## ▸ LANGUAGE BREAKDOWN
+ <h3> LANGUAGE BREAKDOWN</h3>
  
 | Icon | Language | Domain |
 |:----:|:---------|:-------|
