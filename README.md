@@ -73,15 +73,15 @@ With a solid foundation in programming and analytical thinking, I am continuousl
       </td>
       <td align="left" style="background: #0a0a0a; border-radius: 20px; padding: 20px;">
         <samp>
-          <b><span style="color:#ff6ac6;">┌────────────────────────────────────┐</span></b><br>
-          <b><span style="color:#ff6ac6;">│       📊 LANGUAGE BREAKDOWN        │</span></b><br>
-          <b><span style="color:#ff6ac6;">├────────────────────────────────────┤</span></b><br>
-          <b><span style="color:#3776AB;">│  🐍 Python      │  Data Science & ML  │</span></b><br>
-          <b><span style="color:#E34F26;">│  🌐 HTML/CSS    │  Frontend Design    │</span></b><br>
-          <b><span style="color:#F7DF1E;">│  ⚡ JavaScript  │  Interactive Web    │</span></b><br>
-          <b><span style="color:#4479A1;">│  🗄️ SQL         │  Database Mgmt      │</span></b><br>
-          <b><span style="color:#10B981;">│  🔧 Others      │  Scripting & Tools  │</span></b><br>
-          <b><span style="color:#ff6ac6;">└────────────────────────────────────┘</span></b>
+          ## ▸ LANGUAGE BREAKDOWN
+
+| Icon | Language      | Domain                |
+|:----:|:--------------|:----------------------|
+| 🐍   | **Python**    | Data Science & ML     |
+| 🌐   | **HTML / CSS**| Frontend Design       |
+| ⚡   | **JavaScript**| Interactive Web       |
+| 🗄️  | **SQL**       | Database Management   |
+| 🔧   | **Others**    | Scripting & Tools     |
         </samp>
       </td>
     </tr>
