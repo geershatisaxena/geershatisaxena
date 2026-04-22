@@ -62,21 +62,6 @@ With a solid foundation in programming and analytical thinking, I am continuousl
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
----
-
-# 🎮 ⚡ Interactive Dashboard
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=geershatisaxena&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00F7FF&icon_color=F700FF" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geershatisaxena&theme=tokyonight&hide_border=true&background=0d1117&stroke=00F7FF&ring=F700FF&fire=00F7FF" height="200"/>
-</p>
-  <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=geershatisaxena&theme=react-dark&bg_color=0d1117&color=00f7ff&line=ff00ff&point=ffffff&hide_border=true"/>
-</p>
-
----
-## 📊 Languages Used by Me
-
 <p align="center">
   <table border="0" cellpadding="15">
     <tr>
@@ -97,9 +82,24 @@ With a solid foundation in programming and analytical thinking, I am continuousl
    </table>
 </p>
 
+---
+
+# 🎮 ⚡ Interactive Dashboard
+
 <p align="center">
-  <img src="https://img.shields.io/badge/🎯%20Primary%20Focus-Python%20%7C%20Data%20Science-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=geershatisaxena&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00F7FF&icon_color=F700FF" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geershatisaxena&theme=tokyonight&hide_border=true&background=0d1117&stroke=00F7FF&ring=F700FF&fire=00F7FF" height="200"/>
 </p>
+  <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=geershatisaxena&theme=react-dark&bg_color=0d1117&color=00f7ff&line=ff00ff&point=ffffff&hide_border=true"/>
+</p>
+
+---
+## 📊 Languages Used by Me
+
+
+
+
 ---
 ## 🧠 Soft Skills
 
