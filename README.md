@@ -22,25 +22,27 @@ With a solid foundation in programming and analytical thinking, I am continuousl
 ##  Social Media
 <p align="center">
   <a href="https://www.linkedin.com/in/geershati-saxena-8b915b306/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://leetcode.com/u/geershati_saxena/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   <a href="mailto:geershatisaxena110@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="mailto:geershatisaxena110@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Outlook"/>
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/>
   </a>
   <a href="https://instagram.com/geershati_saxena" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://pinterest.com/geershati" target="_blank">
-    <img src="https://img.shields.io/badge/Pinterest-BD081C?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest"/>
+    <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"/>
+  </a>
+  <a href="https://www.snapchat.com/add/geershatisaxena" target="_blank">
+    <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat"/>
   </a>
 </p>
-
 
 ## 💻 Tech Stack
 
