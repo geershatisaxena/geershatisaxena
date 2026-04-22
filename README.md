@@ -69,11 +69,7 @@ With a solid foundation in programming and analytical thinking, I am continuousl
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geershatisaxena&layout=donut&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=ff6ac6&text_color=e0e0e0&border_radius=20&size_weight=0.5&count_weight=0.5" width="420"/>
       </td>
       <td align="center">
-## 📊 Languages Used by Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geershatisaxena&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=94A3B8&border_radius=20&size_weight=0.5&count_weight=0.5"/>
-</p>
 
 <br>
 
