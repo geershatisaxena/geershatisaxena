@@ -70,17 +70,16 @@ With a solid foundation in programming and analytical thinking, I am continuousl
       </td>
       <td align="left">
       <samp>
-          <b>╭──────────────────────────────────────────╮</b><br>
-          <b>│          📊 LANGUAGE BREAKDOWN           │</b><br>
-          <b>├──────────────────────────────────────────┤</b><br>
-          <b>│  🐍 Python      ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰  85%  │</b><br>
-          <b>│  🌐 HTML/CSS    ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰     75%  │</b><br>
-          <b>│  ⚡ JavaScript  ▰▰▰▰▰▰▰▰▰▰▰▰▰        65%  │</b><br>
-          <b>│  🗄️ SQL        ▰▰▰▰▰▰▰▰▰▰▰▰▰▰      70%  │</b><br>
-          <b>│  🔧 Others      ▰▰▰▰▰▰▰▰▰▰          50%  │</b><br>
-          <b>╰──────────────────────────────────────────╯</b><br>
-          <b>     🎯 Primary: Python for Data Science</b>
-        </samp>
+  <b>╭──────────────────────────────────────────────────────────╮</b><br>
+  <b>│                    📊 LANGUAGE BREAKDOWN                    │</b><br>
+  <b>├──────────────────────────────────────────────────────────┤</b><br>
+  <b>│  🐍 Python      │  85%  │  Data Science & Machine Learning  │</b><br>
+  <b>│  🌐 HTML/CSS    │  75%  │  Frontend Design & Responsive UI  │</b><br>
+  <b>│  ⚡ JavaScript  │  65%  │  Interactive Web Applications     │</b><br>
+  <b>│  🗄️ SQL         │  70%  │  Database Management & Queries    │</b><br>
+  <b>│  🔧 Others      │  50%  │  Scripting, Automation & Tools    │</b><br>
+  <b>╰──────────────────────────────────────────────────────────╯</b>
+</samp>
       </td>
     </tr>
   </table>
