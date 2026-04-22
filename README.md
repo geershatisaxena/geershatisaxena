@@ -19,7 +19,7 @@ With a solid foundation in programming and analytical thinking, I am continuousl
 
 ---
 
-## 🌐 Socials
+##  Social Media
 
 <p align="center">
   <a href="https://instagram.com/geershati_saxena">
