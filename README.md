@@ -73,6 +73,7 @@ With a solid foundation in programming and analytical thinking, I am continuousl
       </td>
       <td align="left">
         <samp>
+          ** Language Breakdown
          | Language | Domain |
 |:---------|:-------|
 | 🐍 **Python** | Data Science & ML |
