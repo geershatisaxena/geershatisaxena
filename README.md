@@ -63,24 +63,21 @@ With a solid foundation in programming and analytical thinking, I am continuousl
 </p>
 
 <div align="center">
-🧑‍💻 Languages I Work With
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geershatisaxena&layout=donut&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=16&size_weight=0.5&count_weight=0.5&langs_count=8" width="420"/>
-</div>
-  <samp>
- <h3> LANGUAGE BREAKDOWN</h3>
+## 🧑‍💻 Languages I Work With
  
-| Icon | Language | Domain |
-|:----:|:---------|:-------|
-| 🐍 | **Python** | Data Science & ML |
-| 🌐 | **HTML / CSS** | Frontend Design |
-| ⚡ | **JavaScript** | Interactive Web |
-| 🗄️ | **SQL** | Database Management |
-| 🔧 | **Others** | Scripting & Tools |
-</samp>
-      </td>
-    </tr>
-  </table>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geershatisaxena&layout=donut&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=16&size_weight=0.5&count_weight=0.5&langs_count=8" width="420"/>
+<br/>
+## 📊 Language Breakdown
+ 
+| Language | Domain |
+|:--------:|:-------|
+| 🐍 **Python** | Data Science & ML |
+| 🌐 **HTML / CSS** | Frontend Design |
+| ⚡ **JavaScript** | Interactive Web |
+| 🗄️ **SQL** | Database Management |
+| 🔧 **Others** | Scripting & Tools |
+ 
+</div>
 
 ---
 
