@@ -94,9 +94,6 @@ With a solid foundation in programming and analytical thinking, I am continuousl
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=geershatisaxena&theme=react-dark&bg_color=0d1117&color=00f7ff&line=ff00ff&point=ffffff&hide_border=true"/>
 </p>
 
----
-## 📊 Languages Used by Me
-
 
 
 
