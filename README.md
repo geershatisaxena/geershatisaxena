@@ -69,17 +69,27 @@ With a solid foundation in programming and analytical thinking, I am continuousl
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geershatisaxena&layout=donut&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=ff6ac6&text_color=e0e0e0&border_radius=20&size_weight=0.5&count_weight=0.5" width="420"/>
       </td>
       <td align="center">
-   <samp>
-  <b>✦ ──── LANGUAGES & FOCUS ──── ✦</b><br><br>
-  
-  <code style="color:#FFD43B">◆</code> <b style="color:#3776AB">Python</b>      <span style="color:#6B7280">//</span>  Data Science • Machine Learning • Automation<br>
-  <code style="color:#FFD43B">◆</code> <b style="color:#E34F26">HTML/CSS</b>    <span style="color:#6B7280">//</span>  Responsive Design • Flex/Grid • Animations<br>
-  <code style="color:#FFD43B">◆</code> <b style="color:#F7DF1E">JavaScript</b>  <span style="color:#6B7280">//</span>  DOM Manipulation • APIs • Interactive UI<br>
-  <code style="color:#FFD43B">◆</code> <b style="color:#4479A1">SQL</b>         <span style="color:#6B7280">//</span>  Complex Queries • Database Optimization<br>
-  <code style="color:#FFD43B">◆</code> <b style="color:#10B981">Tools</b>       <span style="color:#6B7280">//</span>  Git • Pandas • NumPy • Scikit-learn<br>
+## 📊 Languages Used by Me
 
-  <br><b>✦ ───────────────────────── ✦</b>
-</samp>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geershatisaxena&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=94A3B8&border_radius=20&size_weight=0.5&count_weight=0.5"/>
+</p>
+
+<br>
+
+<p align="center">
+  <samp>
+    <b>✦ ──── LANGUAGES & FOCUS ──── ✦</b><br><br>
+    
+    <code style="color:#FFD43B">◆</code> <b style="color:#3776AB">Python</b>      <span style="color:#6B7280">//</span>  Data Science • Machine Learning • Automation<br>
+    <code style="color:#FFD43B">◆</code> <b style="color:#E34F26">HTML/CSS</b>    <span style="color:#6B7280">//</span>  Responsive Design • Flex/Grid • Animations<br>
+    <code style="color:#FFD43B">◆</code> <b style="color:#F7DF1E">JavaScript</b>  <span style="color:#6B7280">//</span>  DOM Manipulation • APIs • Interactive UI<br>
+    <code style="color:#FFD43B">◆</code> <b style="color:#4479A1">SQL</b>         <span style="color:#6B7280">//</span>  Complex Queries • Database Optimization<br>
+    <code style="color:#FFD43B">◆</code> <b style="color:#10B981">Tools</b>       <span style="color:#6B7280">//</span>  Git • Pandas • NumPy • Scikit-learn<br>
+
+    <br><b>✦ ───────────────────────── ✦</b>
+  </samp>
+</p>
       </td>
     </tr>
    </table>
