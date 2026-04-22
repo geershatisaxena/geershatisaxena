@@ -8,7 +8,7 @@
 
 ---
 
-## 💫 About Me
+##  About Me
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=30&duration=3500&pause=500&color=E84393&center=true&vCenter=true&width=800&lines=+BCA+Graduate+%7C+Data+Science+%26+AI+Enthusiast;+Python+Developer+%7C+Machine+Learning+Explorer;+Turning+Data+into+Intelligent+Insights;+Always+Learning+%7C+Building+the+Future"/>
