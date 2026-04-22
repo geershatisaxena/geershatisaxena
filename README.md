@@ -66,25 +66,26 @@ With a solid foundation in programming and analytical thinking, I am continuousl
 ## 📊 Languages Used by Me
 
 <p align="center">
-  <table border="0" cellpadding="15">
+  <table border="0" cellpadding="20" style="background: transparent;">
     <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geershatisaxena&layout=donut&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=ff6ac6&text_color=e0e0e0&border_radius=20&size_weight=0.5&count_weight=0.5" width="420"/>
+      <td align="center" style="background: #0a0a0a; border-radius: 20px; padding: 20px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geershatisaxena&layout=donut&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=ff6ac6&text_color=e0e0e0&border_radius=20&size_weight=0.5&count_weight=0.5" width="400"/>
       </td>
-      <td align="left">
+      <td align="left" style="background: #0a0a0a; border-radius: 20px; padding: 20px;">
         <samp>
-          ** Language Breakdown
-         | Language | Domain |
-|:---------|:-------|
-| 🐍 **Python** | Data Science & ML |
-| 🌐 **HTML / CSS** | Frontend Design |
-| ⚡ **JavaScript** | Interactive Web |
-| 🗄️ **SQL** | Database Management |
-| 🔧 **Others** | Scripting & Tools |
+          <b><span style="color:#ff6ac6;">┌────────────────────────────────────┐</span></b><br>
+          <b><span style="color:#ff6ac6;">│       📊 LANGUAGE BREAKDOWN        │</span></b><br>
+          <b><span style="color:#ff6ac6;">├────────────────────────────────────┤</span></b><br>
+          <b><span style="color:#3776AB;">│  🐍 Python      │  Data Science & ML  │</span></b><br>
+          <b><span style="color:#E34F26;">│  🌐 HTML/CSS    │  Frontend Design    │</span></b><br>
+          <b><span style="color:#F7DF1E;">│  ⚡ JavaScript  │  Interactive Web    │</span></b><br>
+          <b><span style="color:#4479A1;">│  🗄️ SQL         │  Database Mgmt      │</span></b><br>
+          <b><span style="color:#10B981;">│  🔧 Others      │  Scripting & Tools  │</span></b><br>
+          <b><span style="color:#ff6ac6;">└────────────────────────────────────┘</span></b>
         </samp>
       </td>
     </tr>
-   </table>
+  </table>
 </p>
 
 
