@@ -70,7 +70,7 @@ With a solid foundation in programming and analytical thinking, I am continuousl
       </td>
       <td align="center">
         <samp>
-          <h2>📈 Language Breakdown</h2><br><br>
+          <b>Language Breakdown</b><br><br>
           🟣 <b>Python</b> → Data Science & ML<br>
           🔴 <b>HTML/CSS</b> → Frontend Design<br>
           🟡 <b>JavaScript</b> → Interactive Web<br>
