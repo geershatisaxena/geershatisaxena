@@ -79,36 +79,28 @@ With a solid foundation in programming and analytical thinking, I am continuousl
 ## 📊 Languages Used by Me
 
 <p align="center">
-  <table align="center" border="0" style="border-collapse: collapse; background: transparent;">
-    <tr>
-      <td align="center" width="150">
-        <img src="https://img.shields.io/badge/🐍-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-        <br>
-        <img src="https://progress-bar.dev/85/?width=120&color=3776AB" alt="85%"/>
-      </td>
-      <td align="center" width="150">
-        <img src="https://img.shields.io/badge/🌐-HTML/CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-        <br>
-        <img src="https://progress-bar.dev/75/?width=120&color=E34F26" alt="75%"/>
-      </td>
-      <td align="center" width="150">
-        <img src="https://img.shields.io/badge/⚡-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-        <br>
-        <img src="https://progress-bar.dev/65/?width=120&color=F7DF1E" alt="65%"/>
-      </td>
-      <td align="center" width="150">
-        <img src="https://img.shields.io/badge/🗄️-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-        <br>
-        <img src="https://progress-bar.dev/70/?width=120&color=4479A1" alt="70%"/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geershatisaxena&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=C084FC&text_color=94A3B8&border_radius=15&size_weight=0.5&count_weight=0.5"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geershatisaxena&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=C084FC&text_color=94A3B8&langs_count=6&border_radius=10&card_width=450"/>
+  <i>✨ Language proficiency distribution ✨</i>
 </p>
 
+<p align="center">
+  <table align="center" border="0">
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🐍%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🌐%20Web%20Tech-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🗄️%20Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+      </td>
+    </tr>
+   </table>
+</p>
 ## 🧠 Soft Skills
 
 <p align="center">
