@@ -58,7 +58,7 @@ With a solid foundation in programming and analytical thinking, I am continuousl
 </p>
 
 
-## 📊 Languages Used by Me
+## Languages Used by Me
 
 <p align="center">
   <table border="0" cellpadding="20" style="background: transparent;">
@@ -87,7 +87,7 @@ With a solid foundation in programming and analytical thinking, I am continuousl
 
 ---
 
-# 🎮 ⚡ Interactive Dashboard
+#  Interactive Dashboard
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=geershatisaxena&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00F7FF&icon_color=F700FF" height="180"/>
@@ -101,7 +101,7 @@ With a solid foundation in programming and analytical thinking, I am continuousl
 
 
 ---
-## 🧠 Soft Skills
+##  Soft Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/Problem%20Solving-2563EB?style=for-the-badge"/>
@@ -121,12 +121,12 @@ With a solid foundation in programming and analytical thinking, I am continuousl
 
 ---
 
-## ✍️ Random Dev Quote
+##  Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
@@ -141,7 +141,7 @@ With a solid foundation in programming and analytical thinking, I am continuousl
 ---
 
 <p align="center">
-  <strong>✨ Let's Connect & Collaborate ✨</strong>
+  <strong> Let's Connect & Collaborate </strong>
   <br><br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8&height=120&section=footer&text=💬&fontSize=40&fontAlignY=85" 
        alt="wave footer">
