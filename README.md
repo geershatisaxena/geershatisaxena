@@ -61,23 +61,22 @@ With a solid foundation in programming and analytical thinking, I am continuousl
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
-
-<div align="center">
-## 🧑‍💻 Languages I Work With
- 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geershatisaxena&layout=donut&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=16&size_weight=0.5&count_weight=0.5&langs_count=8" width="420"/>
-<br/>
-## 📊 Language Breakdown
+<p align="center">
+  <table border="0" cellpadding="15">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geershatisaxena&layout=donut&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=ff6ac6&text_color=e0e0e0&border_radius=20&size_weight=0.5&count_weight=0.5" width="420"/>
+      </td>
+## 📊 LANGUAGE BREAKDOWN
  
 | Language | Domain |
-|:--------:|:-------|
+|:---------|:-------|
 | 🐍 **Python** | Data Science & ML |
 | 🌐 **HTML / CSS** | Frontend Design |
 | ⚡ **JavaScript** | Interactive Web |
 | 🗄️ **SQL** | Database Management |
 | 🔧 **Others** | Scripting & Tools |
  
-</div>
 
 ---
 
