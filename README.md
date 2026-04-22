@@ -41,7 +41,7 @@ With a solid foundation in programming and analytical thinking, I am continuousl
   </a>
 </p>
 
-## 💻 Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,git,github,vercel,vscode&theme=dark" />
