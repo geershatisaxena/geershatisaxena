@@ -82,9 +82,7 @@ With a solid foundation in programming and analytical thinking, I am continuousl
 | ⚡   | **JavaScript**| Interactive Web       |
 | 🗄️  | **SQL**       | Database Management   |
 | 🔧   | **Others**    | Scripting & Tools     |
-        </samp>
-      </td>
-    </tr>
+     
   </table>
 </p>
 
