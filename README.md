@@ -61,7 +61,7 @@ With a solid foundation in programming and analytical thinking, I am continuousl
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
-## 📊 Languages Used by Me
+
 
 ## 📊 Languages Used by Me
 
@@ -73,29 +73,22 @@ With a solid foundation in programming and analytical thinking, I am continuousl
       </td>
       <td align="left">
         <samp>
-          <b>📈 Language Breakdown</b><br><br>
-          🟣 <b>Python</b> → Data Science & ML<br>
-          🔴 <b>HTML/CSS</b> → Frontend Design<br>
-          🟡 <b>JavaScript</b> → Interactive Web<br>
-          🔵 <b>SQL</b> → Database Management<br>
-          🟢 <b>Others</b> → Scripting & Tools
-        </samp>
-      </td>
-    </tr>
-   </table>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🎯%20Primary%20Focus-Python%20%7C%20Data%20Science-3776AB?style=flat-square&logo=python&logoColor=white"/>
-</p>
- 
-| Language | Domain |
+         | Language | Domain |
 |:---------|:-------|
 | 🐍 **Python** | Data Science & ML |
 | 🌐 **HTML / CSS** | Frontend Design |
 | ⚡ **JavaScript** | Interactive Web |
 | 🗄️ **SQL** | Database Management |
 | 🔧 **Others** | Scripting & Tools |
+        </samp>
+      </td>
+    </tr>
+   </table>
+</p>
+
+
+ 
+
  
 
 ---
