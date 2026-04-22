@@ -70,12 +70,15 @@ With a solid foundation in programming and analytical thinking, I am continuousl
       </td>
       <td align="left">
   <samp>
-  <b>▸ LANGUAGE BREAKDOWN</b><br><br>
-  <b>🐍 Python</b>      <span style="color:#94A3B8">→  Data Science & ML</span><br>
-  <b>🌐 HTML/CSS</b>    <span style="color:#94A3B8">→  Frontend Design</span><br>
-  <b>⚡ JavaScript</b>   <span style="color:#94A3B8">→  Interactive Web</span><br>
-  <b>🗄️ SQL</b>         <span style="color:#94A3B8">→  Database Management</span><br>
-  <b>🔧 Others</b>      <span style="color:#94A3B8">→  Scripting & Tools</span>
+ ## ▸ LANGUAGE BREAKDOWN
+ 
+| Icon | Language | Domain |
+|:----:|:---------|:-------|
+| 🐍 | **Python** | Data Science & ML |
+| 🌐 | **HTML / CSS** | Frontend Design |
+| ⚡ | **JavaScript** | Interactive Web |
+| 🗄️ | **SQL** | Database Management |
+| 🔧 | **Others** | Scripting & Tools |
 </samp>
       </td>
     </tr>
