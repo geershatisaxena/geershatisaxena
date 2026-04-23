@@ -14,7 +14,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=30&duration=3500&pause=500&color=E84393&center=true&vCenter=true&width=800&lines=+BCA+Graduate+%7C+Data+Science+%26+AI+Enthusiast;+Python+Developer+%7C+Machine+Learning+Explorer;+Turning+Data+into+Intelligent+Insights;+Always+Learning+%7C+Building+the+Future"/>
 </p>
 
-<p align = justify>I am a dynamic and forward thinking <b>BCA graduate</b> with a strong passion for <b>Data Science and Artificial Intelligence</b>. I enjoy exploring the power of data, transforming raw information into meaningful insights, and building intelligent solutions that solve real world problems.
+<p align = justify>I am a dynamic and forward thinking <b style="color: green;">BCA graduate</b> with a strong passion for <b>Data Science and Artificial Intelligence</b>. I enjoy exploring the power of data, transforming raw information into meaningful insights, and building intelligent solutions that solve real world problems.
 With a solid foundation in programming and analytical thinking, I am continuously learning and adapting to new technologies in order to stay ahead in this rapidly evolving field. I am particularly interested in creating <b>data driven applications</b> that are not only efficient but also impactful and user-friendly. My goal is to leverage data and Artificial Intelligence to drive innovation, enhance decision making, and contribute to meaningful technological advancement.</p>
 
 ---
