@@ -19,7 +19,7 @@ With a solid foundation in programming and analytical thinking, I am continuousl
 
 ---
 
-##  Social Media
+#  ***Social Media***
 <p align="center">
   <a href="https://www.linkedin.com/in/geershati-saxena-8b915b306/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
