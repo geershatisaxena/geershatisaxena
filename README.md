@@ -58,7 +58,7 @@ With a solid foundation in programming and analytical thinking, I am continuousl
 </p>
 
 
-## Languages Used by Me
+# ***Languages Used by Me***
 
 <p align="center">
   <table border="0" cellpadding="20" style="background: transparent;">
