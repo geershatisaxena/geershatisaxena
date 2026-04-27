@@ -104,19 +104,53 @@ With a solid foundation in programming and analytical thinking, I am continuousl
 #  ***Soft Skills***
 
 <p align="center">
+  <!-- Core Soft Skills -->
   <img src="https://img.shields.io/badge/Problem%20Solving-2563EB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Leadership-DC2626?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Creativity-F59E0B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Communication-06B6D4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Critical%20Thinking-7C3AED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Teamwork-EC4899?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Adaptability-10B981?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Time%20Management-F97316?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Emotional%20Intelligence-0EA5E9?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Decision%20Making-9333EA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Creativity-F59E0B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Adaptability-10B981?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Resilience-059669?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <!-- Leadership & Management -->
+  <img src="https://img.shields.io/badge/Leadership-DC2626?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Teamwork-EC4899?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Conflict%20Resolution-14B8A6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Mentoring-8B5CF6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Strategic%20Planning-6366F1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Delegation-4F46E5?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <!-- Communication & Interpersonal -->
+  <img src="https://img.shields.io/badge/Communication-06B6D4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Active%20Listening-22C55E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Emotional%20Intelligence-0EA5E9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Negotiation-3B82F6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Presentation-EA580C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Public%20Speaking-DB2777?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <!-- Productivity & Work Habits -->
+  <img src="https://img.shields.io/badge/Time%20Management-F97316?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Work%20Ethic-E11D48?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Organization-84CC16?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Multitasking-A855F7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Attention%20to%20Detail-06B6D4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Accountability-EF4444?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <!-- Additional Modern Workplace Skills -->
+  <img src="https://img.shields.io/badge/Remote%20Collaboration-0891B2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Literacy-0D9488?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Agile%20Mindset-16A34A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Embrace%20Feedback-F59E0B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Continuous%20Learning-0284C7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Empathy-64748B?style=for-the-badge"/>
 </p>
 
 ---
