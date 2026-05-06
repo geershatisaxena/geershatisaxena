@@ -66,7 +66,8 @@ With a solid foundation in programming and analytical thinking, I am continuousl
 <p align="center">
   <table border="0" cellpadding="20" style="background: transparent;">
     <tr>
-     <td align="center" style="background: #0d1117; border-radius: 20px; padding: 20px;"></tr>  <img src="https://github-readme-stats.vercel.app/api/top-langs/username=geershatisaxena&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_radius=20&size_weight=0.5&count_weight=0.5" width="400"/>
+     <td align="center" style="background: #0d1117; border-radius: 20px; padding: 20px;"></tr>
+    <img src="https://githubreadmestats.vercel.app/api/toplangs/username=geershatisaxena&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_radius=20&size_weight=0.5&count_weight=0.5" width="400"/>
       <td align="left" style="background: #0a0a0a; border-radius: 20px; padding: 20px;"></td> 
         <samp>
           ## ▸ LANGUAGE BREAKDOWN
