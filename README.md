@@ -7,20 +7,21 @@
 </p>
 
 ---
-#  ***About Me***
+
+# ***About Me***
 
 <p align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=30&duration=3500&pause=500&color=E84393&center=true&vCenter=true&width=800&lines=+BCA+Graduate+%7C+Data+Science+%26+AI+Enthusiast;+Python+Developer+%7C+Machine+Learning+Explorer;+Turning+Data+into+Intelligent+Insights;+Always+Learning+%7C+Building+the+Future"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=30&duration=3500&pause=500&color=E84393&center=true&vCenter=true&width=800&lines=BCA+Graduate+%7C+Data+Science+%26+AI+Enthusiast;Python+Developer+%7C+Machine+Learning+Explorer;Turning+Data+into+Intelligent+Insights;Always+Learning+%7C+Building+the+Future"/>
   
 </p>
 
-<p align = justify>I am a dynamic and forward thinking <b style="color: green;">BCA graduate</b> with a strong passion for <b>Data Science and Artificial Intelligence</b>. I enjoy exploring the power of data, transforming raw information into meaningful insights, and building intelligent solutions that solve real world problems.
+<p align="justify">I am a dynamic and forward thinking <b style="color: green;">BCA graduate</b> with a strong passion for <b>Data Science and Artificial Intelligence</b>. I enjoy exploring the power of data, transforming raw information into meaningful insights, and building intelligent solutions that solve real world problems.
 With a solid foundation in programming and analytical thinking, I am continuously learning and adapting to new technologies in order to stay ahead in this rapidly evolving field. I am particularly interested in creating <b>data driven applications</b> that are not only efficient but also impactful and user-friendly. My goal is to leverage data and Artificial Intelligence to drive innovation, enhance decision making, and contribute to meaningful technological advancement.</p>
 
 ---
 
-#  ***Social Media***
+# ***Social Media***
 <p align="center">
   <a href="https://www.linkedin.com/in/geershati-saxena-8b915b306/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
@@ -42,8 +43,9 @@ With a solid foundation in programming and analytical thinking, I am continuousl
   </a>
 </p>
 
-#  ***Tech Stack***
+---
 
+# ***Tech Stack***
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,git,github,vercel,vscode&theme=dark" />
@@ -59,16 +61,17 @@ With a solid foundation in programming and analytical thinking, I am continuousl
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
+---
 
 # ***Languages Used by Me***
-
 
 <p align="center">
   <table border="0" cellpadding="20" style="background: transparent;">
     <tr>
-     <td align="center" style="background: #0d1117; border-radius: 20px; padding: 20px;"></tr>
-    <img src="https://githubreadmestats.vercel.app/api/toplangs/username=geershatisaxena&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_radius=20&size_weight=0.5&count_weight=0.5" width="400"/>
-      <td align="left" style="background: #0a0a0a; border-radius: 20px; padding: 20px;"></td> 
+      <td align="center" style="background: #0d1117; border-radius: 20px; padding: 20px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geershatisaxena&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_radius=20&size_weight=0.5&count_weight=0.5" width="400"/>
+      </td>
+      <td align="left" style="background: #0a0a0a; border-radius: 20px; padding: 20px;">
         <samp>
           ## ▸ LANGUAGE BREAKDOWN
 
@@ -79,30 +82,32 @@ With a solid foundation in programming and analytical thinking, I am continuousl
 | ⚡   | **JavaScript**| Interactive Web       |
 | 🗄️  | **SQL**       | Database Management   |
 | 🔧   | **Others**    | Scripting & Tools     |
-     
+        </samp>
+      </td>
+    </tr>
   </table>
 </p>
 
+---
 
- 
+# ***Interactive Dashboard***
 
- 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=geershatisaxena&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00F7FF&icon_color=F700FF&ring_color=F700FF" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geershatisaxena&theme=tokyonight&hide_border=true&background=0d1117&stroke=00F7FF&ring=F700FF&fire=00F7FF" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=geershatisaxena&theme=react-dark&bg_color=0d1117&color=00f7ff&line=ff00ff&point=ffffff&hide_border=true&area=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geershatisaxena&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=8b949e" width="400"/>
+</p>
 
 ---
 
-#  ***Interactive Dashboard***
-
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=geershatisaxena&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00F7FF&icon_color=F700FF" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geershatisaxena&theme=tokyonight&hide_border=true&background=0d1117&stroke=00F7FF&ring=F700FF&fire=00F7FF" height="200"/> </p>
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=geershatisaxena&theme=react-dark&bg_color=0d1117&color=00f7ff&line=ff00ff&point=ffffff&hide_border=true"/> </p>
-
-
-
-
----
-#  ***Soft Skills***
-
+# ***Soft Skills***
 
 <p align="center">
   <!-- Core Soft Skills -->
@@ -158,26 +163,33 @@ With a solid foundation in programming and analytical thinking, I am continuousl
 
 # ***Random Dev Quote***
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
 ---
 
 # ***Contribution Snake***
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
 
 # ***Profile Views***
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=geershatisaxena&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://visitcount.itsvg.in/api?id=geershatisaxena&label=Profile%20Views&color=6&icon=5&pretty=true" alt="Profile Views"/>
 </p>
+
 ---
 
 <p align="center">
-  <strong> <h1><b>Let's Connect & Collaborate</b></h1> </strong>
+  <strong><h1 align="center"><b>Let's Connect & Collaborate</b></h1></strong>
   <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8&height=120&section=footer&text💬&fontSize=40&fontAlignY=85" 
-       alt="wave footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8&height=120&section=footer&text=💬&fontSize=40&fontAlignY=85" alt="wave footer">
 </p>
