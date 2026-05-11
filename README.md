@@ -64,27 +64,31 @@ With a solid foundation in programming and analytical thinking, I am continuousl
 ---
 
 # ***Languages Used by Me***
-<div align="center">
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geershatisaxena&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_radius=20&size_weight=0.5&count_weight=0.5" width="400">
+      </td>
 
-<table>
-  <tr>
-    <td align="center">
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=geershatisaxena&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_radius=20&size_weight=0.5&count_weight=0.5" 
-        width="400"
-      />
-    </td>
+      <td align="left">
+        <samp>
 
-<td align="left">
+## ▸ LANGUAGE BREAKDOWN
 
-```text
-▸ LANGUAGE BREAKDOWN
+| Icon | Language | Domain |
+|:---:|:---|:---|
+| 🐍 | **Python** | Data Science & ML |
+| 🌐 | **HTML / CSS** | Frontend Design |
+| ⚡ | **JavaScript** | Interactive Web |
+| 🗄️ | **SQL** | Database Management |
+| 🔧 | **Others** | Scripting & Tools |
 
-🐍 Python       → Data Science & ML
-🌐 HTML / CSS   → Frontend Design
-⚡ JavaScript   → Interactive Web
-🗄️ SQL          → Database Management
-🔧 Others       → Scripting & Tools
+        </samp>
+      </td>
+    </tr>
+  </table>
+</p>
       
 ---
 
