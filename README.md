@@ -64,7 +64,6 @@ With a solid foundation in programming and analytical thinking, I am continuousl
 ---
 
 # ***Languages Used by Me***
-
 <p align="center">
   <table style="border: none; background: transparent;">
     <tr>
