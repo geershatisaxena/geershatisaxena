@@ -66,10 +66,10 @@ With a solid foundation in programming and analytical thinking, I am continuousl
 # ***Languages Used by Me***
 
 <p align="center">
-  <table border="0" cellpadding="20" style="background: transparent;">
+  <table style="border: none; background: transparent;">
     <tr>
       <td align="center" style="background: #0d1117; border-radius: 20px; padding: 20px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geershatisaxena&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_radius=20&size_weight=0.5&count_weight=0.5" width="400"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geershatisaxena&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_radius=20&size_weight=0.5&count_weight=0.5" width="400">
       </td>
       <td align="left" style="background: #0a0a0a; border-radius: 20px; padding: 20px;">
         <samp>
@@ -83,6 +83,11 @@ With a solid foundation in programming and analytical thinking, I am continuousl
 | 🗄️  | **SQL**       | Database Management   |
 | 🔧   | **Others**    | Scripting & Tools     |
         </samp>
+      </td>
+    </tr>
+  </table>
+</p>
+
       
 ---
 
