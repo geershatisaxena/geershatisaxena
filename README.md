@@ -67,8 +67,8 @@ With a solid foundation in programming and analytical thinking, I am continuousl
   <table>
     <tr>
       <td align="center">
-    <img src="https://github-readme-stats-pi.vercel.app/api/top-langs/?username=geershatisaxena&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_radius=20&size_weight=0.5&count_weight=0.5" width="400" />
-
+<img src="https://github-readme-stats-pi.vercel.app/api/top-langs/?username=geershatisaxena&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_radius=20&size_weight=0.5&count_weight=0.5" width="400" />
+        
 ## ▸ LANGUAGE BREAKDOWN
 
 | Icon | Language | Domain |
