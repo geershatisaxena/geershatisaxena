@@ -86,15 +86,13 @@ With a solid foundation in programming and analytical thinking, I am continuousl
 
 # ***Interactive Dashboard***
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=geershatisaxena&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF"
-    height="180"
-  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geershatisaxena&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=geershatisaxena&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF"
-    height="180"
-  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geershatisaxena&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=geershatisaxena&theme=tokyonight&hide_border=true"/>
 </p>
 
 
