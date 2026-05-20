@@ -180,7 +180,7 @@ With a solid foundation in programming and analytical thinking, I am continuousl
 
 # ***Profile Views***
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=geershatisaxena&label=Profile%20Views&color=6&icon=5&pretty=true" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=geershatisaxena&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
