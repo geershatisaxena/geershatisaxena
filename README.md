@@ -85,15 +85,15 @@ With a solid foundation in programming and analytical thinking, I am continuousl
 ---
 
 # ***Interactive Dashboard***
-<!-- Donut Chart -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geershatisaxena&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_radius=20&size_weight=0.5&count_weight=0.5" width="400" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geershatisaxena&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<!-- Pie Chart -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geershatisaxena&layout=pie&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_radius=20&size_weight=0.5&count_weight=0.5" width="400" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geershatisaxena&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-<!-- Donut Vertical -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geershatisaxena&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_radius=20&size_weight=0.5&count_weight=0.5" width="400" />
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=geershatisaxena&theme=tokyonight&hide_border=true"/>
+</p>
 
 
 <p align="center">
