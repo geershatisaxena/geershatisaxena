@@ -9,7 +9,7 @@
 
 <!-- ANIMATED TYPING SVG - MAIN INTRO -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=800&size=44&duration=3000&pause=500&color=FF1493&center=true&vCenter=true&width=900&lines=%F0%9F%8C%88+Welcome+to+My+Digital+World;%F0%9F%9A%80+I'm+Geershati+Saxena;%F0%9F%92%BB+BCA+Graduate+%7C+Data+Science+%7C+AI;%F0%9F%8D%80+Building+Intelligent+Systems+with+Code;%E2%9C%A8+Let's+Turn+Data+into+Magic" alt="Typing SVG Main"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=800&size=20&duration=3000&pause=500&color=FF1493&center=true&vCenter=true&width=900&lines=%F0%9F%8C%88+Welcome+to+My+Digital+World;%F0%9F%9A%80+I'm+Geershati+Saxena;%F0%9F%92%BB+BCA+Graduate+%7C+Data+Science+%7C+AI;%F0%9F%8D%80+Building+Intelligent+Systems+with+Code;%E2%9C%A8+Let's+Turn+Data+into+Magic" alt="Typing SVG Main"/>
 </h1>
 
 <!-- ANIMATED CODING BANNER WITH PULSE EFFECT -->
