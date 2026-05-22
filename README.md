@@ -1,34 +1,38 @@
-<!-- GLOWING RAINBOW HEADER -->
+<!-- GLOWING HEADER WITH NAME VISIBLE IN DARK THEME -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=250&section=header&text=✨%20GEERSHATI%20SAXENA%20✨&fontSize=65&fontAlignY=40&animation=twinkling&fontColor=white&desc=Data%20Scientist%20%7C%20AI%20Explorer%20%7C%20Python%20Wizard&descAlignY=60&descSize=22"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=250&section=header&text=✨%20GEERSHATI%20SAXENA%20✨&fontSize=65&fontAlignY=40&animation=twinkling&fontColor=ffffff&desc=Data%20Scientist%20%7C%20AI%20Explorer%20%7C%20Python%20Wizard&descAlignY=60&descSize=22"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=250&section=header&text=✨%20GEERSHATI%20SAXENA%20✨&fontSize=65&fontAlignY=40&animation=twinkling&fontColor=0d1117&desc=Data%20Scientist%20%7C%20AI%20Explorer%20%7C%20Python%20Wizard&descAlignY=60&descSize=22"/>
+    <img alt="Header Banner" src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=250&section=header&text=✨%20GEERSHATI%20SAXENA%20✨&fontSize=65&fontAlignY=40&animation=twinkling&fontColor=ffffff&desc=Data%20Scientist%20%7C%20AI%20Explorer%20%7C%20Python%20Wizard&descAlignY=60&descSize=22"/>
+  </picture>
 </p>
 
 <!-- ANIMATED TYPING SVG - MAIN INTRO -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=800&size=44&duration=3500&pause=500&color=FF1493&center=true&vCenter=true&width=900&lines=%F0%9F%8C%88+Welcome+to+My+Digital+World+%F0%9F%8C%88;%F0%9F%9A%80+I'm+Geershati+Saxena+%F0%9F%92%BB;%F0%9F%93%8A+BCA+Graduate+%7C+Data+Science+%7C+AI;%F0%9F%8D%80+Building+Intelligent+Systems+with+Code;%E2%9C%A8+Let's+Turn+Data+into+Magic+%E2%9C%A8" alt="Typing SVG Main"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=800&size=44&duration=3000&pause=500&color=FF1493&center=true&vCenter=true&width=900&lines=%F0%9F%8C%88+Welcome+to+My+Digital+World;%F0%9F%9A%80+I'm+Geershati+Saxena;%F0%9F%92%BB+BCA+Graduate+%7C+Data+Science+%7C+AI;%F0%9F%8D%80+Building+Intelligent+Systems+with+Code;%E2%9C%A8+Let's+Turn+Data+into+Magic" alt="Typing SVG Main"/>
 </h1>
 
-<!-- ANIMATED CODING BANNER WITH GLOW -->
+<!-- ANIMATED CODING BANNER WITH PULSE EFFECT -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif" style="border-radius: 30px; box-shadow: 0 0 30px rgba(255,20,147,0.5);"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif" style="border-radius: 30px; box-shadow: 0 0 30px rgba(255,20,147,0.5); animation: pulse 2s infinite;"/>
 </p>
 
-<!-- RAINBOW DIVIDER WITH ANIMATION -->
+<!-- ANIMATED DIVIDER -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&duration=1&pause=100&color=FF1493&center=true&vCenter=true&width=900&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="divider"/>
 </p>
 
 ---
 
-# <p align="center">🌈 <b><span style="background: linear-gradient(135deg, #FF0080, #FF8C00, #FFD700, #32CD32, #00CED1, #1E90FF, #9400D3); -webkit-background-clip: text; background-clip: text; color: transparent; font-size: 2.2em;">⭐ ABOUT ME ⭐</span></b> 🌈</p>
+# <p align="center">⭐ <b><span style="background: linear-gradient(135deg, #FF0080, #FF8C00, #FFD700, #32CD32, #00CED1, #1E90FF, #9400D3); -webkit-background-clip: text; background-clip: text; color: transparent; font-size: 2.2em;">ABOUT ME</span></b> ⭐</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=950&lines=🌟+BCA+Graduate+%7C+Data+Science+%26+AI+Enthusiast;🐍+Python+Developer+%7C+Machine+Learning+Explorer;📈+Turning+Data+into+Intelligent+Insights;🚀+Always+Learning+%7C+Building+the+Future;💡+Problem+Solver+%7C+Creative+Thinker" alt="About Me Typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=950&lines=%F0%9F%8C%9F+BCA+Graduate+%7C+Data+Science+%26+AI+Enthusiast;%F0%9F%90%8D+Python+Developer+%7C+Machine+Learning+Explorer;%F0%9F%93%88+Turning+Data+into+Intelligent+Insights;%F0%9F%9A%80+Always+Learning+%7C+Building+the+Future;%F0%9F%92%A1+Problem+Solver+%7C+Creative+Thinker" alt="About Me Typing"/>
 </p>
 
 <!-- GLOWING TEXT BOX -->
 <div align="center">
-  <table style="background: linear-gradient(135deg, rgba(255,0,128,0.1), rgba(0,255,255,0.1)); border-radius: 30px; padding: 20px; border: 1px solid rgba(255,20,147,0.3);">
+  <table style="background: linear-gradient(135deg, rgba(255,0,128,0.1), rgba(0,255,255,0.1)); border-radius: 30px; padding: 20px; border: 1px solid rgba(255,20,147,0.3); backdrop-filter: blur(5px);">
     <tr>
       <td>
         <p align="justify">I am a dynamic and forward-thinking <b style="background: linear-gradient(135deg, #FF0080, #FF8C00); -webkit-background-clip: text; background-clip: text; color: transparent;">BCA graduate</b> with a strong passion for <b style="background: linear-gradient(135deg, #40E0D0, #8A2BE2); -webkit-background-clip: text; background-clip: text; color: transparent;">Data Science and Artificial Intelligence</b>. I enjoy exploring the power of data, transforming raw information into meaningful insights, and building intelligent solutions that solve real world problems.</p>
@@ -40,7 +44,7 @@
 
 <br>
 
-<!-- RAINBOW DIVIDER -->
+<!-- ANIMATED DIVIDER -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&duration=1&pause=100&color=FFD700&center=true&vCenter=true&width=900&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="divider"/>
 </p>
@@ -50,17 +54,17 @@
 # <p align="center">💫 <b><span style="background: linear-gradient(135deg, #FF1493, #FF4500, #FFD700, #32CD32); -webkit-background-clip: text; background-clip: text; color: transparent; font-size: 2.2em;">CURRENTLY WORKING ON</span></b> 💫</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=26&duration=2500&pause=600&color=FFA500&center=true&vCenter=true&width=850&lines=🤖+Building+AI-Powered+Applications;📊+Advanced+Machine+Learning+Models;🐍+Python+Automation+Projects;🌐+Interactive+Data+Dashboards;🧠+Deep+Learning+Exploration;⚡+Real-time+Data+Processing" alt="Working On"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=26&duration=2000&pause=600&color=FFA500&center=true&vCenter=true&width=850&lines=%F0%9F%A4%96+Building+AI-Powered+Applications;%F0%9F%93%8A+Advanced+Machine+Learning+Models;%F0%9F%90%8D+Python+Automation+Projects;%F0%9F%8C%90+Interactive+Data+Dashboards;%F0%9F%A7%A0+Deep+Learning+Exploration;%E2%9A%A1+Real-time+Data+Processing" alt="Working On"/>
 </p>
 
-<!-- PROGRESS BARS FOR PROJECTS -->
+<!-- ANIMATED PROGRESS BARS -->
 <p align="center">
-  <b>🤖 AI Applications</b> <img src="https://progress-bar.dev/75" height="18"> &nbsp;&nbsp;
-  <b>📊 ML Models</b> <img src="https://progress-bar.dev/60" height="18"> &nbsp;&nbsp;
-  <b>🐍 Python Projects</b> <img src="https://progress-bar.dev/85" height="18">
+  <b>🤖 AI Applications</b> <img src="https://progress-bar.dev/75" height="18" style="animation: slideIn 1s ease-in-out;"> &nbsp;&nbsp;
+  <b>📊 ML Models</b> <img src="https://progress-bar.dev/60" height="18" style="animation: slideIn 1.2s ease-in-out;"> &nbsp;&nbsp;
+  <b>🐍 Python Projects</b> <img src="https://progress-bar.dev/85" height="18" style="animation: slideIn 1.4s ease-in-out;">
 </p>
 
-<!-- RAINBOW DIVIDER -->
+<!-- ANIMATED DIVIDER -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&duration=1&pause=100&color=32CD32&center=true&vCenter=true&width=900&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="divider"/>
 </p>
@@ -74,7 +78,7 @@
   <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,git,github,vercel,vscode&theme=dark&perline=9" />
 </p>
 
-<!-- COLORFUL BADGES WITH GLOW -->
+<!-- ANIMATED COLORFUL BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/🐼_Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=150458"/>
   <img src="https://img.shields.io/badge/🔢_NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=013243"/>
@@ -95,7 +99,7 @@
   <img src="https://img.shields.io/badge/⚡_JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E"/>
 </p>
 
-<!-- RAINBOW DIVIDER -->
+<!-- ANIMATED DIVIDER -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&duration=1&pause=100&color=00CED1&center=true&vCenter=true&width=900&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="divider"/>
 </p>
@@ -104,19 +108,19 @@
 
 # <p align="center">📊 <b><span style="background: linear-gradient(135deg, #FF6B6B, #4ECDC4, #45B7D1, #FF1493); -webkit-background-clip: text; background-clip: text; color: transparent; font-size: 2.2em;">GITHUB STATS & ANALYTICS</span></b> 📊</p>
 
-<!-- STATS CARDS WITH CUSTOM RADICAL THEME -->
+<!-- STATS CARDS WITH ANIMATIONS -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=geershatisaxena&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=00FFFF&text_color=FFFFFF&border_radius=20&ring_color=FF1493" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=geershatisaxena&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=00FFFF&text_color=FFFFFF&border_radius=20&ring_color=FF1493&cache_seconds=1800" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=geershatisaxena&theme=radical&hide_border=true&background=0D1117&stroke=FF00FF&ring=FF69B4&fire=FFA500&currStreakNum=FFFFFF&sideNums=00FFFF&currStreakLabel=FF69B4&sideLabels=FFA500&dates=CCCCCC&border_radius=20" />
 </p>
 
-<!-- TOP LANGUAGES WITH RAINBOW GRADIENT EFFECT -->
+<!-- MOST USED LANGUAGES - DONUT CHART -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geershatisaxena&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&border_radius=20" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geershatisaxena&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=FFFFFF&border_radius=20" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geershatisaxena&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=FFFFFF&border_radius=20" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geershatisaxena&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&border_radius=20" />
 </p>
 
-<!-- CONTRIBUTION ACTIVITY GRAPH -->
+<!-- CONTRIBUTION ACTIVITY GRAPH WITH ANIMATION -->
 <p align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=geershatisaxena&theme=react-dark&bg_color=0D1117&color=FF69B4&line=00FFFF&point=FFA500&hide_border=true&area=true&area_color=FF1493" />
 </p>
@@ -126,7 +130,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=geershatisaxena&theme=radical&no-frame=true&row=2&column=4&margin-w=20&margin-h=20" />
 </p>
 
-<!-- RAINBOW DIVIDER -->
+<!-- ANIMATED DIVIDER -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&duration=1&pause=100&color=1E90FF&center=true&vCenter=true&width=900&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="divider"/>
 </p>
@@ -136,7 +140,7 @@
 # <p align="center">📚 <b><span style="background: linear-gradient(135deg, #FFD700, #FF69B4, #00FFFF, #9400D3); -webkit-background-clip: text; background-clip: text; color: transparent; font-size: 2.2em;">LANGUAGE BREAKDOWN</span></b> 📚</p>
 
 <p align="center">
-  <table border="0" style="background: linear-gradient(135deg, rgba(255,0,128,0.05), rgba(0,255,255,0.05)); border-radius: 30px; padding: 15px;">
+  <table border="0" style="background: linear-gradient(135deg, rgba(255,0,128,0.05), rgba(0,255,255,0.05)); border-radius: 30px; padding: 15px; backdrop-filter: blur(5px);">
     <tr>
       <td align="center" style="padding: 10px;"><span style="font-size: 2.5em;">🐍</span></td>
       <td><b style="color: #00FF87;">Python</b></td>
@@ -170,7 +174,7 @@
   </table>
 </p>
 
-<!-- RAINBOW DIVIDER -->
+<!-- ANIMATED DIVIDER -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&duration=1&pause=100&color=9400D3&center=true&vCenter=true&width=900&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="divider"/>
 </p>
@@ -179,7 +183,7 @@
 
 # <p align="center">🎯 <b><span style="background: linear-gradient(135deg, #FF8C00, #FF1493, #9400D3, #00CED1); -webkit-background-clip: text; background-clip: text; color: transparent; font-size: 2.2em;">SOFT SKILLS</span></b> 🎯</p>
 
-<!-- GLOWING SOFT SKILLS BADGES -->
+<!-- ANIMATED SOFT SKILLS BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/✨_Problem_Solving-FF1493?style=for-the-badge&logo=lightbulb&logoColor=white"/>
   <img src="https://img.shields.io/badge/🧠_Critical_Thinking-9400D3?style=for-the-badge&logo=brain&logoColor=white"/>
@@ -205,7 +209,7 @@
   <img src="https://img.shields.io/badge/💡_Empathy-64748B?style=for-the-badge"/>
 </p>
 
-<!-- RAINBOW DIVIDER -->
+<!-- ANIMATED DIVIDER -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&duration=1&pause=100&color=FF4500&center=true&vCenter=true&width=900&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="divider"/>
 </p>
@@ -214,7 +218,7 @@
 
 # <p align="center">🌐 <b><span style="background: linear-gradient(135deg, #00CED1, #FF1493, #FFD700, #FF8C00); -webkit-background-clip: text; background-clip: text; color: transparent; font-size: 2.2em;">SOCIAL MEDIA</span></b> 🌐</p>
 
-<!-- ANIMATED SOCIAL BUTTONS WITH GLOW -->
+<!-- ANIMATED SOCIAL BUTTONS -->
 <p align="center">
   <a href="https://www.linkedin.com/in/geershati-saxena-8b915b306/" target="_blank">
     <img src="https://img.shields.io/badge/-🔵_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2"/>
@@ -244,7 +248,7 @@
   </a>
 </p>
 
-<!-- RAINBOW DIVIDER -->
+<!-- ANIMATED DIVIDER -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&duration=1&pause=100&color=FFD700&center=true&vCenter=true&width=900&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="divider"/>
 </p>
@@ -257,7 +261,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
-<!-- RAINBOW DIVIDER -->
+<!-- ANIMATED DIVIDER -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&duration=1&pause=100&color=FF69B4&center=true&vCenter=true&width=900&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="divider"/>
 </p>
@@ -274,7 +278,7 @@
   </picture>
 </p>
 
-<!-- RAINBOW DIVIDER -->
+<!-- ANIMATED DIVIDER -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&duration=1&pause=100&color=32CD32&center=true&vCenter=true&width=900&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="divider"/>
 </p>
@@ -287,7 +291,7 @@
   <img src="https://komarev.com/ghpvc/?username=geershatisaxena&label=✨+PROFILE+VIEWS+✨&color=FF69B4&style=for-the-badge&labelColor=0D1117" alt="Profile Views" />
 </p>
 
-<!-- RAINBOW DIVIDER -->
+<!-- ANIMATED DIVIDER -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&duration=1&pause=100&color=00FFFF&center=true&vCenter=true&width=900&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="divider"/>
 </p>
@@ -302,14 +306,22 @@
 
 <br>
 
-<!-- ANIMATED TYPING FOOTER -->
+<!-- MULTIPLE ANIMATED TYPING FOOTERS -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=500&size=16&duration=2000&pause=800&color=FFD700&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+⭐;Have+a+great+day!+🌈;Keep+coding!+🚀;Stay+awesome!+✨" alt="footer typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=500&size=16&duration=2000&pause=800&color=FF1493&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+⭐;Have+a+great+day!;Keep+coding!+🚀;Stay+awesome!+✨" alt="footer typing 1"/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=500&size=14&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Open+to+collaborations+🤝;Let's+build+something+amazing!+💡;Dream+it.+Code+it.+Ship+it.+🚢" alt="footer typing 2"/>
 </p>
 
 <br>
 
-<!-- RAINBOW WAVE FOOTER WITH GLOW -->
+<!-- ANIMATED WAVE FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=🌈&fontSize=50&fontAlignY=75&animation=twinkling" alt="wave footer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&fontSize=50&fontAlignY=75&animation=twinkling">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&fontSize=50&fontAlignY=75&animation=twinkling">
+    <img alt="Wave Footer" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&fontSize=50&fontAlignY=75&animation=twinkling">
+  </picture>
 </p>
+
