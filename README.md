@@ -444,7 +444,7 @@ model or a beautiful web interface, I believe **every creation deserves craft**.
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=13&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Dream+it.+%E2%9C%A8+Code+it.+%F0%9F%92%BB+Ship+it.+%F0%9F%9A%A2;Data+%2B+Design+%2B+Determination+%3D+%F0%9F%92%A1;Geershati+Saxena+%C2%A9+2025+%E2%80%94+All+systems+go." alt="footer sub" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=13&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Dream+it.+%E2%9C%A8+Code+it.+%F0%9F%92%BB+Ship+it.+%F0%9F%9A%A2;Data+%2B+Design+%2B+Determination+%3D+%F0%9F%92%A1;Geershati+Saxena+%C2%A9+2026+%E2%80%94+All+systems+go." alt="footer sub" />
 </div>
 
 <br/>
