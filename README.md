@@ -1,16 +1,11 @@
-
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!-- ║           GEERSHATI SAXENA — GITHUB PROFILE README          ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <!-- ░░░░░░░░░░░░░░░░░░░░ RAINBOW HEADER ░░░░░░░░░░░░░░░░░░░░ -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://capsule-render.vercel.app/api?type=venom&color=0:7f00ff,25:ff0080,50:ff8c00,75:00e5ff,100:39ff14&height=280&section=header&text=GEERSHATI%20SAXENA&fontSize=62&fontAlignY=42&animation=twinkling&fontColor=ffffff&desc=Data%20Scientist%20%E2%80%A2%20AI%20Explorer%20%E2%80%A2%20Python%20Wizard&descAlignY=62&descSize=21&descColor=ffffff" />
-    <img alt="Header"
-      src="https://capsule-render.vercel.app/api?type=venom&color=0:7f00ff,25:ff0080,50:ff8c00,75:00e5ff,100:39ff14&height=280&section=header&text=GEERSHATI%20SAXENA&fontSize=62&fontAlignY=42&animation=twinkling&fontColor=ffffff&desc=Data%20Scientist%20%E2%80%A2%20AI%20Explorer%20%E2%80%A2%20Python%20Wizard&descAlignY=62&descSize=21&descColor=ffffff" />
-  </picture>
+  <img alt="Header"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:7f00ff,25:ff0080,50:ff8c00,75:00e5ff,100:39ff14&height=280&section=header&text=GEERSHATI%20SAXENA&fontSize=62&fontAlignY=42&animation=twinkling&fontColor=ffffff&desc=Data%20Scientist%20%E2%80%A2%20AI%20Explorer%20%E2%80%A2%20Python%20Wizard&descAlignY=62&descSize=21&descColor=ffffff&stroke=000000&strokeWidth=2" />
 </div>
 
 <!-- ░░░░░░░░░░░░ MAIN ANIMATED TYPING INTRO ░░░░░░░░░░░░ -->
