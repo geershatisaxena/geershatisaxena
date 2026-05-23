@@ -51,7 +51,7 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-<p alignmeent = justified>I'm a **dynamic, forward-thinking BCA graduate** with an obsession for
+<p align = justified>I'm a **dynamic, forward-thinking BCA graduate** with an obsession for
 **Data Science, Artificial Intelligence**, and crafting pixel-perfect digital
 experiences. I thrive at the crossroads of data and design — transforming raw
 numbers into elegant, impactful solutions.
