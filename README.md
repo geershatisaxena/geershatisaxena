@@ -51,7 +51,7 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-I'm a **dynamic, forward-thinking BCA graduate** with an obsession for
+<p alignmeent = justified>I'm a **dynamic, forward-thinking BCA graduate** with an obsession for
 **Data Science, Artificial Intelligence**, and crafting pixel-perfect digital
 experiences. I thrive at the crossroads of data and design — transforming raw
 numbers into elegant, impactful solutions.
@@ -61,7 +61,7 @@ discovering new anime series or indie music tracks. Whether it's a predictive
 model or a beautiful web interface, I believe **every creation deserves craft**.
 
 🚀 Currently levelling up in **Deep Learning**, **interactive dashboards**, and
-**AI-powered web applications** — always chasing the next breakthrough.
+**AI-powered web applications** — always chasing the next breakthrough.</p>
 
 > *"Transforming data into intelligence, one line of code at a time."*
 
