@@ -51,17 +51,19 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-<p align = justified>I'm a **dynamic, forward-thinking BCA graduate** with an obsession for
-**Data Science, Artificial Intelligence**, and crafting pixel-perfect digital
+<p align="justify">
+I'm a <strong>dynamic, forward-thinking BCA graduate</strong> with an obsession for
+<strong>Data Science, Artificial Intelligence</strong>, and crafting pixel-perfect digital
 experiences. I thrive at the crossroads of data and design — transforming raw
 numbers into elegant, impactful solutions.
 
-🔬 I explore **Machine Learning** algorithms with the same curiosity I bring to
+🔬 I explore <strong>Machine Learning</strong> algorithms with the same curiosity I bring to
 discovering new anime series or indie music tracks. Whether it's a predictive
-model or a beautiful web interface, I believe **every creation deserves craft**.
+model or a beautiful web interface, I believe <strong>every creation deserves craft</strong>.
 
-🚀 Currently levelling up in **Deep Learning**, **interactive dashboards**, and
-**AI-powered web applications** — always chasing the next breakthrough.</p>
+🚀 Currently levelling up in <strong>Deep Learning</strong>, <strong>interactive dashboards</strong>, and
+<strong>AI-powered web applications</strong> — always chasing the next breakthrough.
+</p>
 
 > *"Transforming data into intelligence, one line of code at a time."*
 
