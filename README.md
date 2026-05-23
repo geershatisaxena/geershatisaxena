@@ -55,7 +55,7 @@
 I'm a <strong>dynamic, forward-thinking BCA graduate</strong> with an obsession for
 <strong>Data Science, Artificial Intelligence</strong>, and crafting pixel-perfect digital
 experiences. I thrive at the crossroads of data and design — transforming raw
-numbers into elegant, impactful solutions.
+numbers into elegant, impactful solutions.</p>
 
 🔬 I explore <strong>Machine Learning</strong> algorithms with the same curiosity I bring to
 discovering new anime series or indie music tracks. Whether it's a predictive
@@ -63,7 +63,7 @@ model or a beautiful web interface, I believe <strong>every creation deserves cr
 
 🚀 Currently levelling up in <strong>Deep Learning</strong>, <strong>interactive dashboards</strong>, and
 <strong>AI-powered web applications</strong> — always chasing the next breakthrough.
-</p>
+
 
 > *"Transforming data into intelligence, one line of code at a time."*
 
