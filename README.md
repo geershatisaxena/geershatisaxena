@@ -282,7 +282,7 @@ model or a beautiful web interface, I believe <strong>every creation deserves cr
 
 <!-- ░░░░░░░░░░░░░░░░ RAINBOW DIVIDER ░░░░░░░░░░░░░░░░ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff4500,25:ffd700,50:39ff14,75:00e5ff,100:7f00ff&height=4&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff4500,25:ffd700,50:39ff14,75:00e5ff,100:7f00ff&height=4" width="100%" />
 </div>
 
 <br/>
