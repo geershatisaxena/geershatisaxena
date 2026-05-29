@@ -43,11 +43,11 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  🌟  BCA Graduate · Data Science & AI Enthusiast             ║
-║  🐍  Python Developer · Machine Learning Explorer            ║
-║  🎨  UI/UX Fanatic · Open Source Contributor                 ║
-║  🎵  Music Lover · Anime Enthusiast                          ║
-║  📍  India  ·  Always learning, always building              ║
+║  🌟  BCA Graduate · Data Science & AI Enthusiast            ║
+║  🐍  Python Developer · Machine Learning Explorer           ║
+║  🎨  UI/UX Fanatic · Open Source Contributor                ║
+║  🎵  Music Lover · Anime Enthusiast                         ║
+║  📍  India  ·  Always learning, always building             ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
