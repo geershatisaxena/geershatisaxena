@@ -71,10 +71,9 @@ model or a beautiful web interface, I believe <strong>every creation deserves cr
 <td width="38%" align="center">
 
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=geershatisaxena&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=00FFFF&text_color=FFFFFF&border_radius=18&cache_seconds=1800" 
-  width="100%" 
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api?username=geershatisaxena&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=FF1493&icon_color=00FFFF&text_color=FFFFFF&custom_title=Geershati%20Saxena's%20GitHub%20Stats" 
 />
-
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=geershatisaxena&label=%E2%9C%A8+PROFILE+VIEWS&color=FF1493&style=for-the-badge&labelColor=0D1117" />
