@@ -71,12 +71,22 @@ model or a beautiful web interface, I believe <strong>every creation deserves cr
 <td width="38%" align="center">
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=gearshatisaxena&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=00FFFF&text_color=FFFFFF" 
-    alt="GitHub Stats"
-  />
+ <p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=gearshatisaxena&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=00FFFF&text_color=FFFFFF"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=gearshatisaxena&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=00FFFF&text_color=FFFFFF"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=gearshatisaxena&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=00FFFF&text_color=FFFFFF" 
+      alt="GitHub Stats"
+    />
+  </picture>
 </p>
-<br/>
 
 <img src="https://komarev.com/ghpvc/?username=geershatisaxena&label=%E2%9C%A8+PROFILE+VIEWS&color=FF1493&style=for-the-badge&labelColor=0D1117" />
 
