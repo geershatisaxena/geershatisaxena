@@ -70,7 +70,10 @@ model or a beautiful web interface, I believe <strong>every creation deserves cr
 </td>
 <td width="38%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=geershatisaxena&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=00FFFF&text_color=FFFFFF&border_radius=18&ring_color=FF1493&cache_seconds=1800" width="100%" />
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=geershatisaxena&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=00FFFF&text_color=FFFFFF&border_radius=18&cache_seconds=1800" 
+  width="100%" 
+/>
 
 <br/>
 
