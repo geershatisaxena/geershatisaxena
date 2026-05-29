@@ -72,8 +72,8 @@ model or a beautiful web interface, I believe <strong>every creation deserves cr
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=geershatisaxena&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=00FFFF&text_color=FFFFFF" 
-    width="100%" 
+    src="https://github-readme-stats.vercel.app/api?username=gearshatisaxena&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=00FFFF&text_color=FFFFFF" 
+    alt="GitHub Stats"
   />
 </p>
 <br/>
