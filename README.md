@@ -289,7 +289,7 @@ model or a beautiful web interface, I believe <strong>every creation deserves cr
 
 <!-- Trophies -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=geershatisaxena&theme=radical&no-frame=true&row=2&column=4&margin-w=18&margin-h=18" />
+  <img src="https://github-profile-trophy.vercel.app/?username=geershatisaxena&theme=radical&no-frame=true&no-bg=true&column=4" />
 </div>
 
 <br/>
