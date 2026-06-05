@@ -183,7 +183,7 @@ model or a beautiful web interface, I believe <strong>every creation deserves cr
 
 <!-- Databases & DevOps -->
 <div align="center">
-  <b>🗄️ Databases & DevOps</b><br/><br/>
+  <b> Databases & DevOps</b><br/><br/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -256,8 +256,9 @@ model or a beautiful web interface, I believe <strong>every creation deserves cr
 <br/>
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geershatisaxena&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=FFFFFF&border_radius=20" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geershatisaxena&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&border_radius=20" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geershatisaxena&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=FFFFFF&border_radius=20&langs_count=8" />
+  
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geershatisaxena&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&border_radius=20&langs_count=8" />
 </div>
 
 <h2 align="center">⚡ Development Activity ⚡</h2>
