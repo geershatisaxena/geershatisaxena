@@ -246,17 +246,30 @@ model or a beautiful web interface, I believe <strong>every creation deserves cr
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=30&duration=1&pause=999999&color=FF69B4&center=true&vCenter=true&width=600&lines=%F0%9F%93%8A+GITHUB+STATS+%26+ANALYTICS+%F0%9F%93%8A" alt="Stats" />
 </div>
 
-<br/>
+<br>
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=geershatisaxena&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=00FFFF&text_color=FFFFFF&border_radius=20&ring_color=FF1493&cache_seconds=1800" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=geershatisaxena&theme=radical&hide_border=true&background=0D1117&stroke=FF00FF&ring=FF69B4&fire=FFA500&currStreakNum=FFFFFF&sideNums=00FFFF&currStreakLabel=FF69B4&sideLabels=FFA500&dates=CCCCCC&border_radius=20" />
-</div>
+<table align="center">
+<tr>
+<td width="50%" align="center">
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=geershatisaxena&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=00FFFF&text_color=FFFFFF&border_radius=20&ring_color=FF1493&cache_seconds=1800" width="100%" />
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geershatisaxena&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=FFFFFF&border_radius=20&langs_count=8" />
+</td>
+<td width="50%" align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=geershatisaxena&theme=radical&hide_border=true&background=0D1117&stroke=FF00FF&ring=FF69B4&fire=FFA500&currStreakNum=FFFFFF&sideNums=00FFFF&currStreakLabel=FF69B4&sideLabels=FFA500&dates=CCCCCC&border_radius=20" width="100%" />
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geershatisaxena&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=FFFFFF&border_radius=20&langs_count=8" width="60%" />
+
+</td>
+</tr>
+</table>
   
  
 
