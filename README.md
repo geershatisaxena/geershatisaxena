@@ -258,8 +258,7 @@ model or a beautiful web interface, I believe <strong>every creation deserves cr
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geershatisaxena&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=FFFFFF&border_radius=20&langs_count=8" />
   
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geershatisaxena&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&border_radius=20&langs_count=8" />
-</div>
+ 
 
 <h2 align="center">⚡ Development Activity ⚡</h2>
 
