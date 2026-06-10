@@ -130,42 +130,56 @@ I'm a **data-driven developer** passionate about building systems where **design
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=geershatisaxena&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D9A3&text_color=FFFFFF&ring_color=FF6B6B&cache_seconds=1800" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geershatisaxena&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=00D9A3&currStreakLabel=6C63FF&sideLabels=FFD166&dates=AAAAAA" width="48%" />
-</div>
+<table align="center">
+<tr>
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=geershatisaxena&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D9A3&text_color=FFFFFF&ring_color=FF6B6B&cache_seconds=1800" width="100%" />
+</td>
+<td width="50%" align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=geershatisaxena&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=00D9A3&currStreakLabel=6C63FF&sideLabels=FFD166&dates=AAAAAA" width="100%" />
+</td>
+</tr>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geershatisaxena&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&langs_count=8" width="50%" />
-</div>
+<tr>
+<td colspan="2" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geershatisaxena&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&langs_count=8" width="55%" />
+</td>
+</tr>
 
-<br/>
+<tr>
+<td colspan="2" align="center">
+<h3>📈 Activity Overview</h3>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geershatisaxena&theme=tokyonight" width="100%" />
+</td>
+</tr>
 
-**Activity Overview**
+<tr>
+<td align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geershatisaxena&theme=tokyonight" width="100%" />
+</td>
+<td align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=geershatisaxena&theme=tokyonight" width="100%" />
+</td>
+</tr>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geershatisaxena&theme=tokyonight" width="96%" />
-</div>
+<tr>
+<td colspan="2" align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=geershatisaxena&theme=tokyo-night&bg_color=0D1117&color=6C63FF&line=00D9A3&point=FF6B6B&hide_border=true&area=true" width="100%" />
+</td>
+</tr>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geershatisaxena&theme=tokyonight" width="47%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=geershatisaxena&theme=tokyonight" width="47%" />
-</div>
+<tr>
+<td colspan="2" align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=geershatisaxena&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8" width="90%" />
+</td>
+</tr>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=geershatisaxena&theme=tokyo-night&bg_color=0D1117&color=6C63FF&line=00D9A3&point=FF6B6B&hide_border=true&area=true" width="96%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=geershatisaxena&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:FF6B6B,100:00D9A3&height=3&section=header" width="80%" />
-</div>
-
+<tr>
+<td colspan="2" align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:FF6B6B,100:00D9A3&height=3&section=header" width="80%" />
+</td>
+</tr>
+</table>
 ---
 
 ## 🎯 Soft Skills
