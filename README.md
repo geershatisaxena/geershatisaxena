@@ -61,66 +61,78 @@ I'm a **data-driven developer** passionate about building systems where **design
 
 ## ⚡ Tech Stack
 
-**Languages & Core Tools**
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,git,github,vscode,figma&theme=dark&perline=9" />
-</div>
+### 💻 Languages & Core Tools
 
-<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,git,github,vscode,figma&theme=dark&perline=3" />
+</p>
 
-**Data Science & Machine Learning**
+</td>
+<td width="50%" valign="top">
 
-<div align="center">
+### 📊 Data Science & Machine Learning
+
+<p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-3670A0?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
-</div>
+</p>
 
-<br/>
+</td>
+</tr>
 
-**Visualization & BI**
+<tr>
+<td valign="top">
 
-<div align="center">
+### 📈 Visualization & BI
+
+<p align="center">
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-</div>
+</p>
 
-<br/>
+</td>
+<td valign="top">
 
-**Databases & DevOps**
+### 🗄️ Databases & DevOps
 
-<div align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=vscode&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-</div>
+</p>
 
-<br/>
+</td>
+</tr>
 
-**Proficiency at a Glance**
+<tr>
+<td colspan="2">
 
-<div align="center">
+### 🎯 Proficiency at a Glance
 
 | Language / Tool | Domain | Proficiency |
-|:--|:--|:--|
-| 🐍 Python | Data Science & ML | `█████████░ 90%` |
-| 🌐 HTML / CSS | Frontend Design | `████████░░ 85%` |
-| 🗄️ SQL | Database Management | `████████░░ 85%` |
-| ⚡ JavaScript | Interactive Web Apps | `███████░░░ 75%` |
-| 🔧 Other Tools | Scripting & Automation | `███████░░░ 70%` |
+|:---|:---|:---:|
+| 🐍 Python | Data Science & ML | █████████░ 90% |
+| 🌐 HTML / CSS | Frontend Design | ████████░░ 85% |
+| 🗄️ SQL | Database Management | ████████░░ 85% |
+| ⚡ JavaScript | Interactive Web Apps | ███████░░░ 75% |
+| 🔧 Other Tools | Scripting & Automation | ███████░░░ 70% |
 
-</div>
-
-<br/>
+</td>
+</tr>
+</table>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:FF6B6B,100:00D9A3&height=3&section=header" width="80%" />
