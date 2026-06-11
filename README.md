@@ -18,7 +18,7 @@
 
 ## 👤 About Me
 
-```python
+
 class GeershatiSaxena:
     role       = "BCA Graduate | Data Scientist | AI Engineer"
     location   = "India 🇮🇳"
