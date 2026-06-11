@@ -148,7 +148,7 @@ I'm a **data-driven developer** passionate about building systems where **design
 
 <tr>
 <td colspan="2" align="center">
-## ***Activity Overview***
+<h2>Activity Overview<h2>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geershatisaxena&theme=tokyonight" width="100%" />
 </td>
 </tr>
