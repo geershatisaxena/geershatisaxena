@@ -21,7 +21,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=2500&color=6C63FF&center=true&vCenter=true&width=1000&lines=%F0%9F%91%8B+Hi%2C+I'm+Geershati+Saxena;BCA+Graduate+%7C+Data+Scientist+%7C+AI+Engineer;%F0%9F%87%AE%F0%9F%87%B3+Based+in+India;Machine+Learning+%7C+Deep+Learning+%7C+AI+Apps;%F0%9F%8E%A8+UI%2FUX+Design+%7C+Open+Source;%F0%9F%8E%B5+Anime+%7C+Music;%F0%9F%9A%80+Levelling+Up+in+Deep+Learning;%F0%9F%92%A1+Transforming+Data+into+Intelligence" alt="Typing SVG" />
 
-I'm a **data-driven developer** passionate about building systems where **design meets intelligence** — from predictive ML models to pixel-perfect web interfaces. I bring the same curiosity to exploring neural architectures as I do to discovering new indie tracks or anime series.
+I'm a **data-driven developer** passionate about building systems where **design meets intelligence**  from predictive ML models to pixel-perfect web interfaces. I bring the same curiosity to exploring neural architectures as I do to discovering new indie tracks or anime series.
 
 <br/>
 
