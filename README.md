@@ -37,7 +37,7 @@ I'm a **data driven developer** passionate about building systems where **design
 
 | Project | Stack | Status |
 |:--|:--|:--|
-| 🤖 AI-Powered Web App | Python · Streamlit · Scikit-Learn | `██████████░░░░ 75%` |
+| - AI-Powered Web App | Python · Streamlit · Scikit-Learn | `██████████░░░░ 75%` |
 | 📊 Interactive Dashboard | Plotly · Pandas · SQL | `████████░░░░░░ 65%` |
 | 🧠 Deep Learning Model | TensorFlow · NumPy | `███████░░░░░░░ 50%` |
 | 🌐 Portfolio Website | HTML · CSS · JavaScript | `████████████░░ 85%` |
