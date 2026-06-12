@@ -233,25 +233,7 @@ I'm a **data driven developer** passionate about building systems where **design
 
 ---
 
-##  Interests
 
-<div align="center">
-
-| 💻 Web Development | 🎨 UI/UX Design | 🤝 Open Source |
-|:--|:--|:--|
-| Building performant, beautiful web applications | Crafting pixel-perfect user experiences | Contributing to community-driven projects |
-| **🎵 Music** | **🎌 Anime** | **🤖 AI / ML** |
-| Indie · Electronic · Lo-fi | Attack on Titan · Death Note · HxH | Neural networks & intelligent systems |
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:FF6B6B,100:00D9A3&height=3&section=header" width="80%" />
-</div>
-
----
 
 ## 🐍 Contribution Graph
 
