@@ -151,7 +151,7 @@ I'm a **data driven developer** passionate about building systems where **design
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <table align="center">
 <tr>
