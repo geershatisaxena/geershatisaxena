@@ -131,7 +131,7 @@ I'm a **data driven developer** passionate about building systems where **design
 <tr>
 <td colspan="2">
 
-### 🎯 Proficiency at a Glance
+###  Proficiency at a Glance
 
 | Language / Tool | Domain | Proficiency |
 |:---|:---|:---:|
