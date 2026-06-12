@@ -58,7 +58,7 @@ I'm a **data driven developer** passionate about building systems where **design
 <tr>
 <td width="50%" valign="top">
 
-### 💻 Languages & Core Tools
+###  Languages & Core Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,git,github,vscode,figma&theme=dark&perline=3" />
