@@ -67,7 +67,7 @@ I'm a **data driven developer** passionate about building systems where **design
 </td>
 <td width="50%" valign="top">
 
-### 📊 Data Science & Machine Learning
+###  Data Science & Machine Learning
 
 <p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
