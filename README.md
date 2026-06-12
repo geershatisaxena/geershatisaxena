@@ -102,7 +102,7 @@ I'm a **data driven developer** passionate about building systems where **design
 <tr>
 <td valign="top">
 
-### 📈 Visualization & BI
+###  Visualization & BI
 
 <p align="center">
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
