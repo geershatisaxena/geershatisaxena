@@ -233,7 +233,7 @@ I'm a **data driven developer** passionate about building systems where **design
 
 ---
 
-## 🌟 Interests
+##  Interests
 
 <div align="center">
 
