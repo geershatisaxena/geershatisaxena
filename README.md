@@ -114,7 +114,7 @@ I'm a **data driven developer** passionate about building systems where **design
 </td>
 <td valign="top">
 
-### 🗄️ Databases & DevOps
+###  Databases & DevOps
 
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
