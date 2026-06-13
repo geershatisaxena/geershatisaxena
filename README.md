@@ -135,7 +135,7 @@ I'm a **data driven developer** passionate about building systems where **design
 
 | Language / Tool | Domain | Proficiency |
 |:---|:---|:---:|
-| 🐍 Python | Data Science & ML | █████████░ 90% |
+|  Python | Data Science & ML | █████████░ 90% |
 | 🌐 HTML / CSS | Frontend Design | ████████░░ 85% |
 | 🗄️ SQL | Database Management | ████████░░ 85% |
 | ⚡ JavaScript | Interactive Web Apps | ███████░░░ 75% |
