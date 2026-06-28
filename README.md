@@ -210,20 +210,26 @@ I'm a **data driven developer** passionate about building systems where **design
 
 ## 🎯 Soft Skills
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Problem%20Solving-6C63FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Critical%20Thinking-5856D6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Decision%20Making-FF6B6B?style=flat-square" />
-  <img src="https://img.shields.io/badge/Creativity-FFD166?style=flat-square&logoColor=black" />
-  <img src="https://img.shields.io/badge/Adaptability-00D9A3?style=flat-square" />
-  <img src="https://img.shields.io/badge/Resilience-06D6A0?style=flat-square" />
-  <img src="https://img.shields.io/badge/Leadership-FF6B6B?style=flat-square" />
-  <img src="https://img.shields.io/badge/Teamwork-6C63FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Communication-4895EF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Emotional%20Intelligence-FF6B6B?style=flat-square" />
-  <img src="https://img.shields.io/badge/Time%20Management-FFD166?style=flat-square&logoColor=black" />
-  <img src="https://img.shields.io/badge/Continuous%20Learning-00D9A3?style=flat-square" />
-</div>
+  <img src="https://img.shields.io/badge/Public%20Speaking-4895EF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Active%20Listening-06D6A0?style=flat-square" />
+  <img src="https://img.shields.io/badge/Conflict%20Resolution-FF6B6B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Negotiation-FFD166?style=flat-square&logoColor=black" />
+  <img src="https://img.shields.io/badge/Collaboration-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Accountability-5856D6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Work%20Ethic-00D9A3?style=flat-square" />
+  <img src="https://img.shields.io/badge/Attention%20to%20Detail-4895EF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Strategic%20Thinking-FF6B6B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Innovation-FFD166?style=flat-square&logoColor=black" />
+  <img src="https://img.shields.io/badge/Stress%20Management-06D6A0?style=flat-square" />
+  <img src="https://img.shields.io/badge/Self%20Motivation-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Networking-4895EF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Mentoring-FF6B6B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cross--Functional%20Collaboration-5856D6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Customer%20Focus-FFD166?style=flat-square&logoColor=black" />
+  <img src="https://img.shields.io/badge/Initiative-00D9A3?style=flat-square" />
+  <img src="https://img.shields.io/badge/Organization-4895EF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Professionalism-FF6B6B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Growth%20Mindset-6C63FF?style=flat-square" />
 
 <br/>
 
