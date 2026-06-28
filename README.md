@@ -210,6 +210,21 @@ I'm a **data driven developer** passionate about building systems where **design
 
 ## 🎯 Soft Skills
 
+  add 20 more softskills
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Problem%20Solving-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Critical%20Thinking-5856D6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Decision%20Making-FF6B6B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Creativity-FFD166?style=flat-square&logoColor=black" />
+  <img src="https://img.shields.io/badge/Adaptability-00D9A3?style=flat-square" />
+  <img src="https://img.shields.io/badge/Resilience-06D6A0?style=flat-square" />
+  <img src="https://img.shields.io/badge/Leadership-FF6B6B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Teamwork-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Communication-4895EF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Emotional%20Intelligence-FF6B6B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Time%20Management-FFD166?style=flat-square&logoColor=black" />
+  <img src="https://img.shields.io/badge/Continuous%20Learning-00D9A3?style=flat-square" />
   <img src="https://img.shields.io/badge/Public%20Speaking-4895EF?style=flat-square" />
   <img src="https://img.shields.io/badge/Active%20Listening-06D6A0?style=flat-square" />
   <img src="https://img.shields.io/badge/Conflict%20Resolution-FF6B6B?style=flat-square" />
@@ -230,6 +245,7 @@ I'm a **data driven developer** passionate about building systems where **design
   <img src="https://img.shields.io/badge/Organization-4895EF?style=flat-square" />
   <img src="https://img.shields.io/badge/Professionalism-FF6B6B?style=flat-square" />
   <img src="https://img.shields.io/badge/Growth%20Mindset-6C63FF?style=flat-square" />
+</div>
 
 <br/>
 
