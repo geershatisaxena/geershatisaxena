@@ -312,6 +312,12 @@ I'm a **data driven developer** passionate about building systems where **design
 
 <table align="center">
   <tr>
+      <td align="center">
+      <a href="https://www.linkedin.com/in/geershati-saxena-8b915b306/" target="_blank">
+        <img src="https://github.com/geershatisaxena/Healthtip-Data-Analysis/blob/main/pics/linkedin.png" width="40" alt="LinkedIn"/><br>
+        LinkedIn
+      </a>
+    </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/geershati-saxena-8b915b306/" target="_blank">
         <img src="https://github.com/geershatisaxena/Healthtip-Data-Analysis/blob/main/pics/linkedin.png" width="40" alt="LinkedIn"/><br>
