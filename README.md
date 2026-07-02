@@ -310,14 +310,62 @@ I'm a **data driven developer** passionate about building systems where **design
 
 ## 🌐 Let's Connect
 
-<div align="center">
-
-| | | | | |
-|:-:|:-:|:-:|:-:|:-:|
-| <a href="https://geershatisaxena.vercel.app/" target="_blank"><img src="https://github.com/geershatisaxena/my-portfoli/blob/main/logo.svg" width="40" alt="LinkedIn"/><br>Portfolio</a> | <a href="https://www.linkedin.com/in/geershati-saxena-8b915b306/" target="_blank"><img src="https://github.com/geershatisaxena/Healthtip-Data-Analysis/blob/main/pics/linkedin.png" width="40" alt="LinkedIn"/><br>LinkedIn</a> | <a href="https://github.com/geershatisaxena" target="_blank"><img src="https://github.com/geershatisaxena/Healthtip-Data-Analysis/blob/main/pics/github.jpg" width="40" alt="GitHub"/><br>GitHub</a> | <a href="https://leetcode.com/u/geershati_saxena/" target="_blank"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="40" alt="LeetCode"/><br>LeetCode</a> | <a href="mailto:geershatisaxena110@gmail.com"><img src="https://github.com/geershatisaxena/Healthtip-Data-Analysis/blob/main/pics/gmail.png" width="40" alt="Gmail"/><br>Gmail</a> |
-| <a href="mailto:geershatisaxena110@outlook.com"><img src="https://github.com/geershatisaxena/Healthtip-Data-Analysis/blob/main/pics/email.png" width="40" alt="Outlook"/><br>Outlook</a> | <a href="https://instagram.com/geershati_saxena" target="_blank"><img src="https://github.com/geershatisaxena/Healthtip-Data-Analysis/blob/main/pics/instagram.png" width="40" alt="Instagram"/><br>Instagram</a> | <a href="https://pinterest.com/geershati" target="_blank"><img src="https://cdn.simpleicons.org/pinterest/E60023" width="40" alt="Pinterest"/><br>Pinterest</a> | | |
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://geershatisaxena.vercel.app/" target="_blank">
+        <img src="https://github.com/geershatisaxena/my-portfoli/blob/main/logo.svg" width="40" alt="LinkedIn"/><br>
+        Portfolio
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/geershati-saxena-8b915b306/" target="_blank">
+        <img src="https://github.com/geershatisaxena/Healthtip-Data-Analysis/blob/main/pics/linkedin.png" width="40" alt="LinkedIn"/><br>
+        LinkedIn
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/geershatisaxena" target="_blank">
+        <img src="https://github.com/geershatisaxena/Healthtip-Data-Analysis/blob/main/pics/github.jpg" width="40" alt="GitHub"/><br>
+        GitHub
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://leetcode.com/u/geershati_saxena/" target="_blank">
+        <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="40" alt="LeetCode"/><br>
+        LeetCode
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:geershatisaxena110@gmail.com">
+        <img src="https://github.com/geershatisaxena/Healthtip-Data-Analysis/blob/main/pics/gmail.png" width="40" alt="Gmail"/><br>
+        Gmail
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="mailto:geershatisaxena110@outlook.com">
+        <img src="https://github.com/geershatisaxena/Healthtip-Data-Analysis/blob/main/pics/email.png" width="40" alt="Outlook"/><br>
+        Outlook
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://instagram.com/geershati_saxena" target="_blank">
+        <img src="https://github.com/geershatisaxena/Healthtip-Data-Analysis/blob/main/pics/instagram.png" width="40" alt="Instagram"/><br>
+        Instagram
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://pinterest.com/geershati" target="_blank">
+        <img src="https://cdn.simpleicons.org/pinterest/E60023" width="40" alt="Pinterest"/><br>
+        Pinterest
+      </a>
+    </td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+</table>
 
 
 <br/>
