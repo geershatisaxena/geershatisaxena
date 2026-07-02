@@ -342,8 +342,6 @@ I'm a **data driven developer** passionate about building systems where **design
         Gmail
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="mailto:geershatisaxena110@outlook.com">
         <img src="https://github.com/geershatisaxena/Healthtip-Data-Analysis/blob/main/pics/email.png" width="40" alt="Outlook"/><br>
@@ -362,8 +360,6 @@ I'm a **data driven developer** passionate about building systems where **design
         Pinterest
       </a>
     </td>
-    <td align="center"></td>
-    <td align="center"></td>
   </tr>
 </table>
 
