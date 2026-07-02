@@ -332,7 +332,7 @@ I'm a **data driven developer** passionate about building systems where **design
     </td>
     <td align="center">
       <a href="mailto:geershatisaxena110@gmail.com">
-        <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" alt="Gmail"/><br>
+        <img src="https://github.com/geershatisaxena/Healthtip-Data-Analysis/blob/main/pics/gmail.png" width="40" alt="Gmail"/><br>
         Gmail
       </a>
     </td>
