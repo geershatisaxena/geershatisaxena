@@ -357,12 +357,7 @@ I'm a **data driven developer** passionate about building systems where **design
         Pinterest
       </a>
     </td>
-    <td align="center">
-      <a href="https://www.geeksforgeeks.org/" target="_blank">
-        <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="40" alt="GeeksforGeeks"/><br>
-        GFG
-      </a>
-    </td>
+   
   </tr>
 </table>
 
