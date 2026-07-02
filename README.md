@@ -315,7 +315,7 @@ I'm a **data driven developer** passionate about building systems where **design
       <td align="center">
       <a href="https://geershatisaxena.vercel.app/" target="_blank">
         <img src="https://github.com/geershatisaxena/my-portfoli/blob/main/logo.svg" width="40" alt="LinkedIn"/><br>
-        Geershati Saxena
+        Portfolio
       </a>
     </td>
     <td align="center">
