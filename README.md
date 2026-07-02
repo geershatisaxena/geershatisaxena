@@ -310,39 +310,61 @@ I'm a **data driven developer** passionate about building systems where **design
 
 ## 🌐 Let's Connect
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/geershati-saxena-8b915b306/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/geershatisaxena" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="28" />
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/geershati_saxena/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" height="28" />
-  </a>
-  &nbsp;
-  <a href="mailto:geershatisaxena110@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="28" />
-  </a>
-  &nbsp;
-  <a href="mailto:geershatisaxena110@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" height="28" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/geershati_saxena" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="28" />
-  </a>
-  &nbsp;
-  <a href="https://x.com/geershati" target="_blank">
-    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=flat-square&logo=x&logoColor=white" height="28" />
-  </a>
-  &nbsp;
-  <a href="https://pinterest.com/geershati" target="_blank">
-    <img src="https://img.shields.io/badge/Pinterest-E60023?style=flat-square&logo=pinterest&logoColor=white" height="28" />
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/geershati-saxena-8b915b306/" target="_blank">
+        <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" alt="LinkedIn"/><br>
+        LinkedIn
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/geershatisaxena" target="_blank">
+        <img src="https://cdn.simpleicons.org/github/181717" width="40" alt="GitHub"/><br>
+        GitHub
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://leetcode.com/u/geershati_saxena/" target="_blank">
+        <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="40" alt="LeetCode"/><br>
+        LeetCode
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:geershatisaxena110@gmail.com">
+        <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" alt="Gmail"/><br>
+        Gmail
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="mailto:geershatisaxena110@outlook.com">
+        <img src="https://cdn.simpleicons.org/microsoftoutlook/0078D4" width="40" alt="Outlook"/><br>
+        Outlook
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://instagram.com/geershati_saxena" target="_blank">
+        <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" alt="Instagram"/><br>
+        Instagram
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://pinterest.com/geershati" target="_blank">
+        <img src="https://cdn.simpleicons.org/pinterest/E60023" width="40" alt="Pinterest"/><br>
+        Pinterest
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.geeksforgeeks.org/" target="_blank">
+        <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="40" alt="GeeksforGeeks"/><br>
+        GFG
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
