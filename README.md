@@ -320,7 +320,7 @@ I'm a **data driven developer** passionate about building systems where **design
     </td>
     <td align="center">
       <a href="https://github.com/geershatisaxena" target="_blank">
-        <img src="https://cdn.simpleicons.org/github/181717" width="40" alt="GitHub"/><br>
+        <img src="https://github.com/geershatisaxena/Healthtip-Data-Analysis/blob/main/pics/github.jpg" width="40" alt="GitHub"/><br>
         GitHub
       </a>
     </td>
