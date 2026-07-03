@@ -344,11 +344,11 @@ I'm a **data driven developer** passionate about building systems where **design
     </td>
     <td align="center">
       <a href="mailto:geershatisaxena110@outlook.com">
-        <img src="https://github.com/geershatisaxena/Healthtip-Data-Analysis/blob/main/pics/email.png" width="40" alt="Outlook"/><br>
-        Outlook
-      </a>
+        <img src="https://github.com/geershatisaxena/Healthtip-Data-Analysis/blob/main/pics/email.png" width="40" alt="Outlook"/><br></a>
     </td>
-    <td align="center">
+        Outlook
+      
+  <td align="center">
       <a href="https://instagram.com/geershati_saxena" target="_blank">
         <img src="https://github.com/geershatisaxena/Healthtip-Data-Analysis/blob/main/pics/instagram.png" width="40" alt="Instagram"/><br></a>
     </td>
