@@ -333,9 +333,9 @@ I'm a **data driven developer** passionate about building systems where **design
     <td align="center">
       <a href="https://leetcode.com/u/geershati_saxena/" target="_blank">
         <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="40" alt="LeetCode"/><br>
-        LeetCode
+        
       </a>
-    </td>
+  </td>
     <td align="center">
       <a href="mailto:geershatisaxena110@gmail.com">
         <img src="https://github.com/geershatisaxena/Healthtip-Data-Analysis/blob/main/pics/gmail.png" width="40" alt="Gmail"/><br></a>
