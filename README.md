@@ -350,11 +350,11 @@ I'm a **data driven developer** passionate about building systems where **design
     </td>
     <td align="center">
       <a href="https://instagram.com/geershati_saxena" target="_blank">
-        <img src="https://github.com/geershatisaxena/Healthtip-Data-Analysis/blob/main/pics/instagram.png" width="40" alt="Instagram"/><br>
-        Instagram
-      </a>
+        <img src="https://github.com/geershatisaxena/Healthtip-Data-Analysis/blob/main/pics/instagram.png" width="40" alt="Instagram"/><br></a>
     </td>
-    <td align="center">
+        
+      
+  <td align="center">
       <a href="https://pinterest.com/geershati" target="_blank">
         <img src="https://cdn.simpleicons.org/pinterest/E60023" width="40" alt="Pinterest"/><br></a>
     </td>
