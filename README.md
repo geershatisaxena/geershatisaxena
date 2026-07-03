@@ -356,10 +356,12 @@ I'm a **data driven developer** passionate about building systems where **design
     </td>
     <td align="center">
       <a href="https://pinterest.com/geershati" target="_blank">
-        <img src="https://cdn.simpleicons.org/pinterest/E60023" width="40" alt="Pinterest"/><br>
-        Pinterest
-      </a>
+        <img src="https://cdn.simpleicons.org/pinterest/E60023" width="40" alt="Pinterest"/><br></a>
     </td>
+        
+        
+      
+    
   </tr>
 </table>
 
