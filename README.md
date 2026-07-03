@@ -338,11 +338,11 @@ I'm a **data driven developer** passionate about building systems where **design
     </td>
     <td align="center">
       <a href="mailto:geershatisaxena110@gmail.com">
-        <img src="https://github.com/geershatisaxena/Healthtip-Data-Analysis/blob/main/pics/gmail.png" width="40" alt="Gmail"/><br>
-        Gmail
-      </a>
+        <img src="https://github.com/geershatisaxena/Healthtip-Data-Analysis/blob/main/pics/gmail.png" width="40" alt="Gmail"/><br></a>
     </td>
-    <td align="center">
+       
+    
+  <td align="center">
       <a href="mailto:geershatisaxena110@outlook.com">
         <img src="https://github.com/geershatisaxena/Healthtip-Data-Analysis/blob/main/pics/email.png" width="40" alt="Outlook"/><br></a>
     </td>
