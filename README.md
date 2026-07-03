@@ -346,7 +346,7 @@ I'm a **data driven developer** passionate about building systems where **design
       <a href="mailto:geershatisaxena110@outlook.com">
         <img src="https://github.com/geershatisaxena/Healthtip-Data-Analysis/blob/main/pics/email.png" width="40" alt="Outlook"/><br></a>
     </td>
-        Outlook
+       
       
   <td align="center">
       <a href="https://instagram.com/geershati_saxena" target="_blank">
