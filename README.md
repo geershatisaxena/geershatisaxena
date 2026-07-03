@@ -324,9 +324,12 @@ I'm a **data driven developer** passionate about building systems where **design
         LinkedIn
       </a>
     </td>
-    
-    
-    
+    <td align="center">
+      <a href="https://www.credly.com/users/geershati-saxena.4540b108" target="_blank">
+        <img src="https://github.com/geershatisaxena/Healthtip-Data-Analysis/blob/main/pics/github.jpg" width="40" alt="GitHub"/><br>
+        GitHub
+      </a>
+    </td>
     <td align="center">
       <a href="https://leetcode.com/u/geershati_saxena/" target="_blank">
         <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="40" alt="LeetCode"/><br>
