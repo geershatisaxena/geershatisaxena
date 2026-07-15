@@ -156,7 +156,7 @@ I'm a **data driven developer** passionate about building systems where **design
 <table align="center">
 <tr>
 <td width="50%" align="center">
-<<img src="https://github-readme-stats.vercel.app/api?username=geershatisaxena&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />>
+<img src="https://github-readme-stats.vercel.app/api?username=geershatisaxena&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="100%" />
 </td>
 <td width="50%" align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=geershatisaxena&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=00D9A3&currStreakLabel=6C63FF&sideLabels=FFD166&dates=AAAAAA" width="100%" />
