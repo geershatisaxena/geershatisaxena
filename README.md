@@ -162,14 +162,16 @@ I'm a **data driven developer** passionate about building systems where **design
 
 <td width="50%" align="center">
 
-<img src="https://streak-stats.demolab.com?user=geershatisaxena&theme=tokyonight&hide_border=true" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=geershatisaxena&theme=tokyonight" width="100%" />
 
 </td>
 </tr>
 
 <tr>
 <td colspan="2" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geershatisaxena&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&langs_count=8" width="55%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geershatisaxena&theme=tokyonight" width="55%" />
+
 </td>
 </tr>
 
