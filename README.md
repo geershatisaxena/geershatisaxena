@@ -157,7 +157,7 @@ I'm a **data driven developer** passionate about building systems where **design
 <td width="50%" align="center">
 
 ### 📈 GitHub Profile Summary
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=geershatisaxena&theme=tokyonight" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=geershatisaxena&theme=tokyonight&show_icons=true" width="100%" />
 
 </td>
 
