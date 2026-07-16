@@ -151,17 +151,20 @@ I'm a **data driven developer** passionate about building systems where **design
 
 ---
 
-##  GitHub Analytics
+# 📊 GitHub Analytics
 
+<table>
 <tr>
 <td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=geershatisaxena&show_icons=true" />
+  
+### 📈 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=geershatisaxena&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" />
 
 </td>
 
 <td width="50%" align="center">
 
+### ⏰ Productive Time
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=geershatisaxena&theme=tokyonight" width="100%" />
 
 </td>
@@ -170,6 +173,7 @@ I'm a **data driven developer** passionate about building systems where **design
 <tr>
 <td colspan="2" align="center">
 
+### 📚 Top Languages (By Repo)
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geershatisaxena&theme=tokyonight" width="55%" />
 
 </td>
@@ -177,38 +181,98 @@ I'm a **data driven developer** passionate about building systems where **design
 
 <tr>
 <td colspan="2" align="center">
-<h2>Activity Overview<h2>
+
+## 📊 Activity Overview
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geershatisaxena&theme=tokyonight" width="100%" />
+
 </td>
 </tr>
 
 <tr>
-<td align="center">
+<td align="center" width="50%">
+
+### 🗂️ Repo Languages
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geershatisaxena&theme=tokyonight" width="100%" />
+
 </td>
-<td align="center">
+<td align="center" width="50%">
+
+### 💻 Most Used Languages
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=geershatisaxena&theme=tokyonight" width="100%" />
+
 </td>
 </tr>
 
 <tr>
 <td colspan="2" align="center">
+
+### 📈 Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=geershatisaxena&theme=tokyo-night&bg_color=0D1117&color=6C63FF&line=00D9A3&point=FF6B6B&hide_border=true&area=true" width="100%" />
+
 </td>
 </tr>
 
 <tr>
 <td colspan="2" align="center">
+
+### 🏆 GitHub Trophy
 <img src="https://github-profile-trophy.vercel.app/?username=geershatisaxena&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8" width="90%" />
-</td>
-</tr>
 
-<tr>
-<td colspan="2" align="center">
 </td>
 </tr>
 </table>
 
+---
+
+## 🔗 Active API Endpoints Used
+
+| API | Endpoint | Description |
+|-----|----------|-------------|
+| **GitHub Stats** | `https://github-readme-stats.vercel.app/api?username=geershatisaxena&show_icons=true&theme=tokyonight` | Shows GitHub statistics (stars, commits, PRs, etc.) |
+| **Productive Time** | `https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=geershatisaxena&theme=tokyonight` | Shows productive time distribution |
+| **Repo Languages** | `https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geershatisaxena&theme=tokyonight` | Shows languages used across all repositories |
+| **Profile Details** | `https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geershatisaxena&theme=tokyonight` | Shows comprehensive profile summary |
+| **Most Commit Language** | `https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=geershatisaxena&theme=tokyonight` | Shows languages used in commit history |
+| **Activity Graph** | `https://github-readme-activity-graph.vercel.app/graph?username=geershatisaxena&theme=tokyo-night&bg_color=0D1117&color=6C63FF&line=00D9A3&point=FF6B6B&hide_border=true&area=true` | Shows contribution activity graph |
+| **GitHub Trophy** | `https://github-profile-trophy.vercel.app/?username=geershatisaxena&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8` | Shows GitHub achievement trophies |
+
+---
+
+## 🛠️ Customization Options
+
+### Theme Options
+Replace `theme=tokyonight` with:
+- `theme=dark`
+- `theme=radical`
+- `theme=merko`
+- `theme=gruvbox`
+- `theme=onedark`
+- `theme=cobalt`
+- `theme=synthwave`
+- `theme=highcontrast`
+- `theme=dracula`
+
+### Additional Parameters
+- `hide_border=true` - Remove border
+- `bg_color=0D1117` - Background color (hex)
+- `title_color=6C63FF` - Title color
+- `icon_color=00D9A3` - Icon color
+- `text_color=FFFFFF` - Text color
+- `ring_color=FF6B6B` - Ring color
+- `line=00D9A3` - Line graph color
+- `point=FF6B6B` - Point graph color
+- `area=true` - Show area under graph
+
+---
+
+> **Note:** Replace `geershatisaxena` with your own GitHub username to use these analytics for your profile.
+
+## 📝 Quick Copy Templates
+
+### Minimal Setup
+```markdown
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=geershatisaxena&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geershatisaxena&theme=tokyonight)
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:FF6B6B,100:00D9A3&height=3&section=header" width="80%" />
