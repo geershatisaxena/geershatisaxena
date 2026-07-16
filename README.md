@@ -1,18 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=200&section=header&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B6EE1,50:6C63FF,100:00C9A7&height=200&section=header&animation=fadeIn" alt="Header banner" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=220&section=header&text=Hi%20There%2C%20I'm%20Geershati%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Python%20Developer&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B6EE1,50:6C63FF,100:00C9A7&height=220&section=header&text=Hi%20There%2C%20I'm%20Geershati%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Python%20Developer&descAlignY=58&descSize=18" alt="Header banner" />
 </picture>
-
-<!-- Name is rendered as native markdown text, not baked into the banner image, so it
-     always inherits GitHub's own foreground color and stays readable in Light and Dark theme -->
-
-# Geershati Saxena
-
-### Data Scientist • AI Engineer • Python Developer
-
-<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=600&color=59D9C6&center=true&vCenter=true&width=700&lines=BCA+Graduate+%7C+Data+Science+%26+AI+Enthusiast;Building+intelligent+systems+from+raw+data;Exploring+Deep+Learning+%26+Neural+Architectures;Open+to+collaborations+%26+internships+%F0%9F%A4%9D" />
@@ -21,62 +12,48 @@
 
 <br/>
 
-<a href="https://geershatisaxena.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/geershati-saxena-8b915b306/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:geershatisaxena110@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hi-00C9A7?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<a href="https://geershatisaxena.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/geershati-saxena-8b915b306/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:geershatisaxena110@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-00C9A7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://leetcode.com/u/geershati_saxena/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=geershatisaxena&label=Profile+Views&color=6C63FF&style=for-the-badge" alt="Profile views" />
 
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" width="85%" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" width="100%" />
+</picture>
 
-<br/>
+## 👩‍💻 About Me
 
-## 👋 About Me
-
-<img align="right" width="290" src="https://raw.githubusercontent.com/GiscardBiamby/GiscardBiamby/main/img/coding.gif" alt="coding illustration" />
+<img align="right" width="280" src="https://raw.githubusercontent.com/GiscardBiamby/GiscardBiamby/main/img/coding.gif" alt="coding illustration" />
 
 I'm a **data-driven developer** who loves building systems where **design meets intelligence** — from predictive ML models to pixel-perfect web interfaces. I bring the same curiosity to neural architectures as I do to discovering a new indie track or anime series.
 
-- 🎓 BCA Graduate, based in India 🇮🇳
-- 🔭 Currently deepening my skills in **Machine Learning** & **Deep Learning**
-- 🌱 Exploring **Neural Architectures**, **NLP**, and **Generative AI**
-- 🎨 Side interest in **UI/UX design** and clean, thoughtful interfaces
-- 💡 Philosophy: *turn raw data into real intelligence*
-- 🤝 Open to **internships**, **collaborations**, and **open-source contributions**
-- ⚡ Fun facts: anime marathons 🎬 + music discovery 🎵 fuel my best debugging sessions
+```yaml
+name: Geershati Saxena
+role: Data Scientist | AI Engineer | Python Developer
+location: India 🇮🇳
+education: BCA Graduate
+currently_learning: [Machine Learning, Deep Learning, NLP, Generative AI]
+side_interest: UI/UX Design & clean interfaces
+philosophy: "Turn raw data into real intelligence"
+looking_for: [Internships, Collaborations, Open Source]
+fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
+```
 
 <br clear="right"/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" width="85%" />
-</div>
-
-## 🚧 Currently Building
-
-<div align="center">
-
-| Project | Stack | Progress |
-|:--|:--|:--:|
-| 🤖 AI-Powered Web App | `Python` `Streamlit` `Scikit-Learn` | ▰▰▰▰▰▰▰▰░░ 75% |
-| 📊 Interactive Dashboard | `Plotly` `Pandas` `SQL` | ▰▰▰▰▰▰▰░░░ 65% |
-| 🧠 Deep Learning Model | `TensorFlow` `NumPy` | ▰▰▰▰▰░░░░░ 50% |
-| 🌐 Portfolio Website | `HTML` `CSS` `JavaScript` | ▰▰▰▰▰▰▰▰▰░ 85% |
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" width="85%" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" width="100%" />
+</picture>
 
 ## 🛠️ Tech Stack
 
@@ -169,9 +146,28 @@ I'm a **data-driven developer** who loves building systems where **design meets 
 </tr>
 </table>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" width="100%" />
+</picture>
+
+## 🚧 Currently Building
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" width="85%" />
+
+| Project | Stack | Progress |
+|:--|:--|:--:|
+| 🤖 AI-Powered Web App | `Python` `Streamlit` `Scikit-Learn` | ▰▰▰▰▰▰▰▰░░ 75% |
+| 📊 Interactive Dashboard | `Plotly` `Pandas` `SQL` | ▰▰▰▰▰▰▰░░░ 65% |
+| 🧠 Deep Learning Model | `TensorFlow` `NumPy` | ▰▰▰▰▰░░░░░ 50% |
+| 🌐 Portfolio Website | `HTML` `CSS` `JavaScript` | ▰▰▰▰▰▰▰▰▰░ 85% |
+
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" width="100%" />
+</picture>
 
 ## 📊 GitHub Analytics
 
@@ -297,13 +293,14 @@ I'm a **data-driven developer** who loves building systems where **design meets 
 </tr>
 </table>
 
-> 📝 **Note:** `count_private=true` and `include_all_commits=true` above will only reflect private-repo activity once this README is placed in your own `<username>/<username>` profile repo — GitHub only computes these stats for the account the request is authenticated against.
+> 📝 **Note:** `count_private=true` and `include_all_commits=true` only reflect private-repo activity once this README lives in your own `<username>/<username>` profile repo — GitHub only computes these stats for the authenticated account.
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" width="85%" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" width="100%" />
+</picture>
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
@@ -313,9 +310,10 @@ I'm a **data-driven developer** who loves building systems where **design meets 
   </picture>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" width="85%" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" width="100%" />
+</picture>
 
 ## 🧠 Soft Skills
 
@@ -332,9 +330,10 @@ I'm a **data-driven developer** who loves building systems where **design meets 
 
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" width="85%" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" width="100%" />
+</picture>
 
 ## 💬 Dev Quote
 
@@ -345,9 +344,10 @@ I'm a **data-driven developer** who loves building systems where **design meets 
   </picture>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" width="85%" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" width="100%" />
+</picture>
 
 ## 🌐 Let's Connect
 
@@ -365,12 +365,6 @@ I'm a **data-driven developer** who loves building systems where **design meets 
 <a href="https://instagram.com/geershati_saxena" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://pinterest.com/geershati" target="_blank"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" /></a>
 
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=geershatisaxena&label=Profile+Views&color=6C63FF&style=for-the-badge" alt="Profile views" />
 </div>
 
 <br/>
