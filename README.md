@@ -150,22 +150,21 @@ I'm a **data driven developer** passionate about building systems where **design
 </div>
 
 ---
-
 # 📊 GitHub Analytics
 
 <table>
 <tr>
 <td width="50%" align="center">
-  
-### 📈 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=geershatisaxena&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" />
+
+### 📈 GitHub Profile Summary
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=geershatisaxena&theme=tokyonight" width="100%" />
 
 </td>
 
 <td width="50%" align="center">
 
-### ⏰ Productive Time
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=geershatisaxena&theme=tokyonight" width="100%" />
+### 🔥 Contribution Streak
+<img src="https://streak-stats.demolab.com?user=geershatisaxena&theme=tokyonight&hide_border=true" width="100%" />
 
 </td>
 </tr>
@@ -173,31 +172,23 @@ I'm a **data driven developer** passionate about building systems where **design
 <tr>
 <td colspan="2" align="center">
 
-### 📚 Top Languages (By Repo)
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geershatisaxena&theme=tokyonight" width="55%" />
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2" align="center">
-
-## 📊 Activity Overview
+### 📊 Activity Overview
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geershatisaxena&theme=tokyonight" width="100%" />
 
 </td>
 </tr>
 
 <tr>
-<td align="center" width="50%">
+<td width="50%" align="center">
 
-### 🗂️ Repo Languages
+### 🗂️ Languages by Repository
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geershatisaxena&theme=tokyonight" width="100%" />
 
 </td>
-<td align="center" width="50%">
 
-### 💻 Most Used Languages
+<td width="50%" align="center">
+
+### 💻 Languages by Commits
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=geershatisaxena&theme=tokyonight" width="100%" />
 
 </td>
@@ -207,7 +198,7 @@ I'm a **data driven developer** passionate about building systems where **design
 <td colspan="2" align="center">
 
 ### 📈 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=geershatisaxena&theme=tokyo-night&bg_color=0D1117&color=6C63FF&line=00D9A3&point=FF6B6B&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=geershatisaxena&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </td>
 </tr>
@@ -216,7 +207,7 @@ I'm a **data driven developer** passionate about building systems where **design
 <td colspan="2" align="center">
 
 ### 🏆 GitHub Trophy
-<img src="https://github-profile-trophy.vercel.app/?username=geershatisaxena&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8" width="90%" />
+<img src="https://github-profile-trophy.vercel.app/?username=geershatisaxena&theme=tokyonight&no-frame=true&no-bg=true&column=4" width="90%" />
 
 </td>
 </tr>
