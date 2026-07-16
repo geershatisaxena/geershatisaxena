@@ -1,9 +1,16 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=220&section=header&text=Geershati%20Saxena&font=Georgia&fontSize=52&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Data%20Scientist%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Python%20Developer&descAlignY=62&descSize=18&descColor=ffffffcc" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B6EE1,50:6C63FF,100:00C9A7&height=220&section=header&text=Geershati%20Saxena&font=Georgia&fontSize=52&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Data%20Scientist%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Python%20Developer&descAlignY=62&descSize=18&descColor=ffffffcc" alt="Header banner" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=200&section=header&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B6EE1,50:6C63FF,100:00C9A7&height=200&section=header&animation=fadeIn" alt="Header banner" />
 </picture>
+
+<!-- Name is rendered as native markdown text, not baked into the banner image, so it
+     always inherits GitHub's own foreground color and stays readable in Light and Dark theme -->
+
+# Geershati Saxena
+
+### Data Scientist • AI Engineer • Python Developer
 
 <br/>
 
@@ -239,6 +246,29 @@ I'm a **data-driven developer** who loves building systems where **design meets 
 </tr>
 
 <tr>
+<td width="50%" align="center">
+
+**🗂️ Repos per Language**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geershatisaxena&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geershatisaxena&theme=github_dark" width="100%" alt="Repos per language" />
+</picture>
+
+</td>
+<td width="50%" align="center">
+
+**💻 Commits per Language**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/commits-per-language?username=geershatisaxena&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commits-per-language?username=geershatisaxena&theme=github_dark" width="100%" alt="Commits per language" />
+</picture>
+
+</td>
+</tr>
+
+<tr>
 <td colspan="2" align="center">
 
 **📅 Contribution Activity Graph**
@@ -254,12 +284,14 @@ I'm a **data-driven developer** who loves building systems where **design meets 
 <tr>
 <td colspan="2" align="center">
 
-**🏆 GitHub Trophies**
+**🏆 GitHub Trophies** — *all categories*
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=geershatisaxena&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" />
-  <img src="https://github-profile-trophy.vercel.app/?username=geershatisaxena&theme=flat&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" width="90%" alt="GitHub trophies" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=geershatisaxena&theme=tokyonight&no-frame=true&no-bg=true&row=3&column=7&margin-w=8&margin-h=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=geershatisaxena&theme=flat&no-frame=true&no-bg=true&row=3&column=7&margin-w=8&margin-h=8" width="100%" alt="GitHub trophies — all categories" />
 </picture>
+
+<sub>Covers every trophy title GitHub tracks — Stars, Commits, Followers, PRs, Issues, Repositories, Reviews, Multi‑Language, Experience, and Ranking. Locked/greyed-out trophies simply mean that milestone hasn't been reached yet — they'll light up automatically as activity grows.</sub>
 
 </td>
 </tr>
