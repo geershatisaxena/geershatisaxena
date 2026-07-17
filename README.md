@@ -186,10 +186,20 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
 <td width="50%" align="center">
 
 **🔥 Contribution Streak**
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=geershatisaxena&theme=tokyonight&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=geershatisaxena&theme=default&hide_border=true" width="100%" alt="GitHub streak stats" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com?user=geershatisaxena&theme=tokyonight&hide_border=true"
+  />
+  <source
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    srcset="https://streak-stats.demolab.com?user=geershatisaxena&theme=default&hide_border=true"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=geershatisaxena&theme=default&hide_border=true"
+    alt="GitHub Streak"
+    width="100%"
+  />
 </picture>
 
 </td>
