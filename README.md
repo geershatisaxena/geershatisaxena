@@ -317,49 +317,73 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
 
 ## 🧠 Soft Skills
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center" width="120">
+<img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="50"><br>
+<b>Leadership</b>
+</td>
 
-<img src="https://img.shields.io/badge/🧩_Problem_Solving-6C63FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🧠_Critical_Thinking-00C853?style=for-the-badge" />
-<img src="https://img.shields.io/badge/⚡_Decision_Making-FF9800?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🎨_Creativity-E91E63?style=for-the-badge" />
+<td align="center" width="120">
+<img src="https://cdn-icons-png.flaticon.com/512/3281/3281289.png" width="50"><br>
+<b>Teamwork</b>
+</td>
 
-<img src="https://img.shields.io/badge/🔄_Adaptability-2196F3?style=for-the-badge" />
-<img src="https://img.shields.io/badge/💪_Resilience-9C27B0?style=for-the-badge" />
-<img src="https://img.shields.io/badge/👑_Leadership-FFC107?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🤝_Teamwork-4CAF50?style=for-the-badge" />
+<td align="center" width="120">
+<img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="50"><br>
+<b>Creativity</b>
+</td>
 
-<img src="https://img.shields.io/badge/💬_Communication-03A9F4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/❤️_Emotional_Intelligence-F44336?style=for-the-badge" />
-<img src="https://img.shields.io/badge/⏳_Time_Management-795548?style=for-the-badge" />
-<img src="https://img.shields.io/badge/📚_Continuous_Learning-00BCD4?style=for-the-badge" />
+<td align="center" width="120">
+<img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="50"><br>
+<b>Problem Solving</b>
+</td>
+</tr>
 
-<img src="https://img.shields.io/badge/🎤_Public_Speaking-673AB7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/👂_Active_Listening-009688?style=for-the-badge" />
-<img src="https://img.shields.io/badge/⚖️_Conflict_Resolution-FF5722?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🤝_Negotiation-8BC34A?style=for-the-badge" />
+<tr>
+<td align="center">
+<img src="https://cdn-icons-png.flaticon.com/512/681/681494.png" width="50"><br>
+<b>Communication</b>
+</td>
 
-<img src="https://img.shields.io/badge/🤗_Collaboration-3F51B5?style=for-the-badge" />
-<img src="https://img.shields.io/badge/✅_Accountability-4CAF50?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🏆_Work_Ethic-FF6F00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🔍_Attention_to_Detail-607D8B?style=for-the-badge" />
+<td align="center">
+<img src="https://cdn-icons-png.flaticon.com/512/4140/4140048.png" width="50"><br>
+<b>Adaptability</b>
+</td>
 
-<img src="https://img.shields.io/badge/♟️_Strategic_Thinking-9C27B0?style=for-the-badge" />
-<img src="https://img.shields.io/badge/💡_Innovation-FFEB3B?style=for-the-badge&logoColor=black" />
-<img src="https://img.shields.io/badge/🧘_Stress_Management-009688?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🚀_Self_Motivation-E91E63?style=for-the-badge" />
+<td align="center">
+<img src="https://cdn-icons-png.flaticon.com/512/3079/3079165.png" width="50"><br>
+<b>Time Management</b>
+</td>
 
-<img src="https://img.shields.io/badge/🌐_Networking-2196F3?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🎓_Mentoring-673AB7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🔗_Cross_Functional_Collaboration-00BCD4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🎯_Customer_Focus-FF5722?style=for-the-badge" />
+<td align="center">
+<img src="https://cdn-icons-png.flaticon.com/512/1534/1534959.png" width="50"><br>
+<b>Critical Thinking</b>
+</td>
+</tr>
 
-<img src="https://img.shields.io/badge/🔥_Initiative-F44336?style=for-the-badge" />
-<img src="https://img.shields.io/badge/📂_Organization-795548?style=for-the-badge" />
-<img src="https://img.shields.io/badge/💼_Professionalism-3F51B5?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🌱_Growth_Mindset-4CAF50?style=for-the-badge" />
+<tr>
+<td align="center">
+<img src="https://cdn-icons-png.flaticon.com/512/1048/1048953.png" width="50"><br>
+<b>Innovation</b>
+</td>
 
-</div>
+<td align="center">
+<img src="https://cdn-icons-png.flaticon.com/512/3135/3135768.png" width="50"><br>
+<b>Growth Mindset</b>
+</td>
+
+<td align="center">
+<img src="https://cdn-icons-png.flaticon.com/512/4727/4727424.png" width="50"><br>
+<b>Networking</b>
+</td>
+
+<td align="center">
+<img src="https://cdn-icons-png.flaticon.com/512/4712/4712035.png" width="50"><br>
+<b>Collaboration</b>
+</td>
+</tr>
+</table>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" />
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" width="100%" />
