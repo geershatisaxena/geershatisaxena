@@ -320,7 +320,7 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
 <table align="center">
 <tr>
 <td align="center" width="120">
-<img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="50"><br>
+<img src="https://github.com/geershatisaxena/my-portfoli/blob/main/Pics/leadership.gif" width="50"><br>
 <b>Leadership</b>
 </td>
 
