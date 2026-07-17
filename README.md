@@ -319,17 +319,47 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
 
 <div align="center">
 
-`Problem Solving` `Critical Thinking` `Decision Making` `Creativity`
-`Adaptability` `Resilience` `Leadership` `Teamwork`
-`Communication` `Emotional Intelligence` `Time Management` `Continuous Learning`
-`Public Speaking` `Active Listening` `Conflict Resolution` `Negotiation`
-`Collaboration` `Accountability` `Work Ethic` `Attention to Detail`
-`Strategic Thinking` `Innovation` `Stress Management` `Self Motivation`
-`Networking` `Mentoring` `Cross-Functional Collaboration` `Customer Focus`
-`Initiative` `Organization` `Professionalism` `Growth Mindset`
+<img src="https://img.shields.io/badge/🧩_Problem_Solving-6C63FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🧠_Critical_Thinking-00C853?style=for-the-badge" />
+<img src="https://img.shields.io/badge/⚡_Decision_Making-FF9800?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🎨_Creativity-E91E63?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/🔄_Adaptability-2196F3?style=for-the-badge" />
+<img src="https://img.shields.io/badge/💪_Resilience-9C27B0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/👑_Leadership-FFC107?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🤝_Teamwork-4CAF50?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/💬_Communication-03A9F4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/❤️_Emotional_Intelligence-F44336?style=for-the-badge" />
+<img src="https://img.shields.io/badge/⏳_Time_Management-795548?style=for-the-badge" />
+<img src="https://img.shields.io/badge/📚_Continuous_Learning-00BCD4?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/🎤_Public_Speaking-673AB7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/👂_Active_Listening-009688?style=for-the-badge" />
+<img src="https://img.shields.io/badge/⚖️_Conflict_Resolution-FF5722?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🤝_Negotiation-8BC34A?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/🤗_Collaboration-3F51B5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/✅_Accountability-4CAF50?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🏆_Work_Ethic-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🔍_Attention_to_Detail-607D8B?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/♟️_Strategic_Thinking-9C27B0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/💡_Innovation-FFEB3B?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/🧘_Stress_Management-009688?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🚀_Self_Motivation-E91E63?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/🌐_Networking-2196F3?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🎓_Mentoring-673AB7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🔗_Cross_Functional_Collaboration-00BCD4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🎯_Customer_Focus-FF5722?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/🔥_Initiative-F44336?style=for-the-badge" />
+<img src="https://img.shields.io/badge/📂_Organization-795548?style=for-the-badge" />
+<img src="https://img.shields.io/badge/💼_Professionalism-3F51B5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🌱_Growth_Mindset-4CAF50?style=for-the-badge" />
 
 </div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" />
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" width="100%" />
