@@ -448,3 +448,53 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B6EE1,50:6C63FF,100:00C9A7&height=140&section=footer&animation=fadeIn" alt="Footer wave" />
   </picture>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 📊 Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geershatisaxena&theme=tokyonight" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geershatisaxena&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=geershatisaxena&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=geershatisaxena&theme=tokyonight" width="32%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=geershatisaxena&theme=tokyonight&utcOffset=5.5" width="32%" />
+</p>
