@@ -325,7 +325,7 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
 </td>
 
 <td align="center" width="120">
-<img src="https://cdn-icons-png.flaticon.com/512/3281/3281289.png" width="50"><br>
+<img src="https://github.com/geershatisaxena/my-portfoli/blob/main/Pics/tw.gif" width="50"><br>
 <b>Teamwork</b>
 </td>
 
