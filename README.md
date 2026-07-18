@@ -416,21 +416,29 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
 
 ## 🌐 Let's Connect
 
-<div align="center">
+<!-- Portfolio -->
+<img src="https://cdn.simpleicons.org/vercel/ffffff" width="55" alt="Portfolio"/>
 
-<a href="https://geershatisaxena.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/geershati-saxena-8b915b306/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.credly.com/users/geershati-saxena.4540b108" target="_blank"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" /></a>
-<a href="https://leetcode.com/u/geershati_saxena/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<!-- LinkedIn -->
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="55" alt="LinkedIn"/>
 
-<br/>
+<!-- Credly -->
+<img src="https://cdn.simpleicons.org/credly/FF6B00" width="55" alt="Credly"/>
 
-<a href="mailto:geershatisaxena110@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="mailto:geershatisaxena110@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
-<a href="https://instagram.com/geershati_saxena" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://pinterest.com/geershati" target="_blank"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" /></a>
+<!-- LeetCode -->
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="55" alt="LeetCode"/>
 
-</div>
+<!-- Gmail -->
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="55" alt="Gmail"/>
+
+<!-- Outlook -->
+<img src="https://cdn.simpleicons.org/microsoftoutlook/0078D4" width="55" alt="Outlook"/>
+
+<!-- Instagram -->
+<img src="https://cdn.simpleicons.org/instagram/E4405F" width="55" alt="Instagram"/>
+
+<!-- Pinterest -->
+<img src="https://cdn.simpleicons.org/pinterest/E60023" width="55" alt="Pinterest"/>
 
 <br/>
 
