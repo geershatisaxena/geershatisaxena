@@ -429,7 +429,7 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
 <td align="center">
 <a href="https://www.linkedin.com/in/geershati-saxena-8b915b306/" target="_blank">
 <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="60" alt="LinkedIn"/><br>
-LinkedIn
+
 </a>
 </td>
 
