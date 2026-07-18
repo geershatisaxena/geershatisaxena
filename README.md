@@ -415,68 +415,73 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
 </picture>
 
 ## 🌐 Let's Connect
-
 <div align="center">
 
+<table>
+<tr>
+<td align="center">
 <a href="https://geershatisaxena.vercel.app/" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
-    <img src="https://github.com/geershatisaxena/my-portfoli/blob/main/logo.svg" />
-  </picture>
+<img src="https://cdn.simpleicons.org/vercel/ffffff" width="60" alt="Portfolio"/><br>
+Portfolio
 </a>
+</td>
 
+<td align="center">
 <a href="https://www.linkedin.com/in/geershati-saxena-8b915b306/" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </picture>
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="60" alt="LinkedIn"/><br>
+LinkedIn
 </a>
+</td>
 
+<td align="center">
 <a href="https://www.credly.com/users/geershati-saxena.4540b108" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
-    <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
-  </picture>
+<img src="https://cdn.simpleicons.org/credly/FF6B00" width="60" alt="Credly"/><br>
+Credly
 </a>
+</td>
 
+<td align="center">
 <a href="https://leetcode.com/u/geershati_saxena/" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </picture>
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="60" alt="LeetCode"/><br>
+LeetCode
 </a>
+</td>
+</tr>
 
-<br/>
-
+<tr>
+<td align="center">
 <a href="mailto:geershatisaxena110@gmail.com">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </picture>
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="60" alt="Gmail"/><br>
+Gmail
 </a>
+</td>
 
+<td align="center">
 <a href="mailto:geershatisaxena110@outlook.com">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
-  </picture>
+<img src="https://cdn.simpleicons.org/microsoftoutlook/0078D4" width="60" alt="Outlook"/><br>
+Outlook
 </a>
+</td>
 
+<td align="center">
 <a href="https://instagram.com/geershati_saxena" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </picture>
+<img src="https://cdn.simpleicons.org/instagram/E4405F" width="60" alt="Instagram"/><br>
+Instagram
 </a>
+</td>
 
+<td align="center">
 <a href="https://pinterest.com/geershati" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" />
-    <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" />
-  </picture>
+<img src="https://cdn.simpleicons.org/pinterest/E60023" width="60" alt="Pinterest"/><br>
+Pinterest
 </a>
+</td>
+</tr>
+</table>
 
 </div>
+
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=3000&pause=1000&color=59D9C6&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%E2%AD%90+Drop+a+star+if+something+resonates.;Open+to+collaborations%2C+internships+%26+meaningful+projects.;Let%27s+build+something+worthwhile+together." />
