@@ -451,7 +451,7 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
 <tr>
 <td align="center">
 <a href="mailto:geershatisaxena110@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="60" alt="Gmail"/><br>
+<img src="https://github.com/geershatisaxena/Healthtip-Data-Analysis/blob/main/pics/gmail.png" width="60" alt="Gmail"/><br>
 
 </a>
 </td>
@@ -497,38 +497,3 @@ Pinterest
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B6EE1,50:6C63FF,100:00C9A7&height=140&section=footer&animation=fadeIn" alt="Footer wave" />
   </picture>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
