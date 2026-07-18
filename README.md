@@ -473,7 +473,7 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
 <td align="center">
 <a href="https://pinterest.com/geershati" target="_blank">
 <img src="https://cdn.simpleicons.org/pinterest/E60023" width="60" alt="Pinterest"/><br>
-Pinterest
+
 </a>
 </td>
 </tr>
