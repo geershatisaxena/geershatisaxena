@@ -368,7 +368,7 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
 </td>
 
 <td align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/1534/1534959.png" width="50"><br>
+<img src="https://github.com/geershatisaxena/my-portfoli/blob/main/Pics/Critical%20Thinking.gif" width="50"><br>
 <b>Critical Thinking</b>
 </td>
 </tr>
