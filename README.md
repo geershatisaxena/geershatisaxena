@@ -381,7 +381,7 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
 
 <td align="center">
 <img src="https://cdn-icons-png.flaticon.com/512/3135/3135768.png" width="50"><br>
-<b>Growth Mindset</b>
+<b>Continuous Learning</b>
 </td>
 
 <td align="center">
