@@ -195,6 +195,11 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
     media="(prefers-color-scheme: light)"
     srcset="https://streak-stats.demolab.com?user=geershatisaxena&theme=default&hide_border=true"
   />
+    <img
+    src="https://streak-stats.demolab.com?user=geershatisaxena&theme=tokyonight&hide_border=true&background=0D1117"
+    alt="GitHub Streak"
+    width="100%"
+  />
 
 </picture>
 
