@@ -465,7 +465,7 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
 
 <td align="center">
 <a href="https://instagram.com/geershati_saxena" target="_blank">
-<img src="https://cdn.simpleicons.org/instagram/E4405F" width="60" alt="Instagram"/><br>
+<img src="http://github.com/geershatisaxena/Healthtip-Data-Analysis/blob/main/pics/email.png" width="60" alt="Instagram"/><br>
 
 </a>
 </td>
