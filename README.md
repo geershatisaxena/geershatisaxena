@@ -390,7 +390,7 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
 </td>
 
 <td align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/4712/4712035.png" width="50"><br>
+<img src="https://github.com/geershatisaxena/my-portfoli/blob/main/Pics/collaboration.gif" width="50"><br>
 <b>Collaboration</b>
 </td>
 </tr>
