@@ -436,7 +436,7 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
 <td align="center">
 <a href="https://www.credly.com/users/geershati-saxena.4540b108" target="_blank">
 <img src="https://cdn.simpleicons.org/credly/FF6B00" width="60" alt="Credly"/><br>
-Credly
+
 </a>
 </td>
 
