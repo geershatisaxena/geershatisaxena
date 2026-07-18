@@ -380,7 +380,7 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
 </td>
 
 <td align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/3135/3135768.png" width="50"><br>
+<img src="https://github.com/geershatisaxena/my-portfoli/blob/main/Pics/Continuous%20Learning.png" width="50"><br>
 <b>Continuous Learning</b>
 </td>
 
