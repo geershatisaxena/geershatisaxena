@@ -189,7 +189,7 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com?user=geershatisaxena&theme=tokyonight&hide_border=true"
+    srcset="https://streak-stats.demolab.com?user=geershatisaxena&theme=dark&hide_border=true"
   />
   <source
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
