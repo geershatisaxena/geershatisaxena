@@ -443,7 +443,7 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
 <td align="center">
 <a href="https://leetcode.com/u/geershati_saxena/" target="_blank">
 <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="60" alt="LeetCode"/><br>
-LeetCode
+
 </a>
 </td>
 </tr>
