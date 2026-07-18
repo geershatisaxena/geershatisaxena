@@ -189,19 +189,18 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com?user=geershatisaxena&theme=dark&hide_border=true"
+    srcset="https://streak-stats.demolab.com?user=geershatisaxena&theme=dark&hide_border=true&date_format=M%20j%2C%20Y&mode=weekly"
   />
   <source
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    srcset="https://streak-stats.demolab.com?user=geershatisaxena&theme=default&hide_border=true"
+    srcset="https://streak-stats.demolab.com?user=geershatisaxena&theme=default&hide_border=true&date_format=M%20j%2C%20Y&mode=weekly"
   />
   <img
-    src="https://streak-stats.demolab.com?user=geershatisaxena&theme=default&hide_border=true"
-    alt="GitHub Streak"
+    src="https://streak-stats.demolab.com?user=geershatisaxena&theme=default&hide_border=true&date_format=M%20j%2C%20Y&mode=weekly"
+    alt="GitHub Streak Stats"
     width="100%"
   />
 </picture>
-
 </td>
 </tr>
 
