@@ -346,7 +346,7 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
 </td>
 
 <td align="center" width="120">
-<img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="50"><br>
+<img src="https://github.com/geershatisaxena/my-portfoli/blob/main/Pics/problem-solving.gif" width="50"><br>
 <b>Problem Solving</b>
 </td>
 </tr>
