@@ -421,7 +421,7 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
 <a href="https://geershatisaxena.vercel.app/" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
-    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://github.com/geershatisaxena/my-portfoli/blob/main/logo.svg" />
   </picture>
 </a>
 
