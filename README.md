@@ -168,6 +168,7 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" width="100%" />
 </picture>
 
+
 ## 📊 GitHub Analytics
 
 <table>
@@ -185,22 +186,18 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
 <td width="50%" align="center">
 
 **🔥 Contribution Streak**
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com?user=geershatisaxena&theme=tokyonight&hide_border=true&background=0D1117"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://streak-stats.demolab.com?user=geershatisaxena&theme=default&hide_border=true"
-  />
-    <img
-    src="https://streak-stats.demolab.com?user=geershatisaxena&theme=tokyonight&hide_border=true&background=0D1117"
-    alt="GitHub Streak"
-    width="100%"
-  />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=geershatisaxena&theme=tokyonight&hide_border=true&background=0D1117" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=geershatisaxena&theme=default&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=geershatisaxena&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%" />
 </picture>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
 
 **🗂️ Top Languages (by repo)**
 
@@ -262,8 +259,8 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/commits-per-language?username=geershatisaxena&theme=tokyonight" />
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=geershatisaxena&theme=tokyonight" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=geershatisaxena&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=geershatisaxena&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=geershatisaxena&theme=tokyonight" width="49%" />
 </picture>
 
 </td>
@@ -281,6 +278,7 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
 
 </td>
 </tr>
+</table>
 
 <tr>
 <td colspan="2" align="center">
