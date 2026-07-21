@@ -178,8 +178,8 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
 **📈 Profile Summary**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=geershatisaxena&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-  <img src="https://github-readme-stats.vercel.app/api?username=geershatisaxena&theme=default&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="100%" alt="GitHub stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=geershatisaxena&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+  <img src="https://github-stats-extended.vercel.app/api?username=geershatisaxena&theme=default&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="100%" alt="GitHub stats" />
 </picture>
 
 </td>
@@ -188,9 +188,9 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
 **🔥 Contribution Streak**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=geershatisaxena&theme=tokyonight&hide_border=true&background=0D1117" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=geershatisaxena&theme=default&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=geershatisaxena&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app?user=geershatisaxena&theme=tokyonight&hide_border=true&background=0D1117" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-eight.vercel.app?user=geershatisaxena&theme=default&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=geershatisaxena&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%" />
 </picture>
 
 </td>
@@ -202,8 +202,8 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
 **🗂️ Top Languages (by repo)**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=geershatisaxena&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geershatisaxena&layout=compact&theme=default&hide_border=true&langs_count=10" width="100%" alt="Top languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=geershatisaxena&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=geershatisaxena&layout=compact&theme=default&hide_border=true&langs_count=10" width="100%" alt="Top languages" />
 </picture>
 
 </td>
@@ -212,8 +212,8 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
 **💻 Languages (by commits)**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=geershatisaxena&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=jupyter%20notebook&custom_title=Most%20Used%20Languages" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geershatisaxena&layout=compact&theme=default&hide_border=true&langs_count=10&hide=jupyter%20notebook&custom_title=Most%20Used%20Languages" width="100%" alt="Languages by commit" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=geershatisaxena&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=jupyter%20notebook&custom_title=Most%20Used%20Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=geershatisaxena&layout=compact&theme=default&hide_border=true&langs_count=10&hide=jupyter%20notebook&custom_title=Most%20Used%20Languages" width="100%" alt="Languages by commit" />
 </picture>
 
 </td>
@@ -275,22 +275,6 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=geershatisaxena&theme=tokyo-night&hide_border=true&area=true" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=geershatisaxena&theme=github-compact&hide_border=true&area=true" width="100%" alt="Activity graph" />
 </picture>
-
-</td>
-</tr>
-</table>
-
-<tr>
-<td colspan="2" align="center">
-
-**🏆 GitHub Trophies** — *all categories*
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=geershatisaxena&theme=tokyonight&no-frame=true&no-bg=true&row=3&column=7&margin-w=8&margin-h=8" />
-  <img src="https://github-profile-trophy.vercel.app/?username=geershatisaxena&theme=flat&no-frame=true&no-bg=true&row=3&column=7&margin-w=8&margin-h=8" width="100%" alt="GitHub trophies — all categories" />
-</picture>
-
-<sub>Covers every trophy title GitHub tracks — Stars, Commits, Followers, PRs, Issues, Repositories, Reviews, Multi‑Language, Experience, and Ranking. Locked/greyed-out trophies simply mean that milestone hasn't been reached yet — they'll light up automatically as activity grows.</sub>
 
 </td>
 </tr>
