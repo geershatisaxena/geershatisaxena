@@ -287,6 +287,15 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" width="100%" />
 </picture>
 
+## 💻 LeetCode Stats
+
+<p align="center">
+  <a href="https://leetcode.com/u/geershati_saxena/">
+    <img src="https://leetcard.jacoblin.cool/geershati_saxena?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
+  </a>
+</p>
+
+
 ## 🐍 Contribution Snake
 
 <div align="center">
