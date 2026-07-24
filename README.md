@@ -11,10 +11,10 @@
 
 <br/>
 
-<a href="https://geershatisaxena.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/geershati-saxena-8b915b306/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:geershatisaxena110@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-00C9A7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://leetcode.com/u/geershati_saxena/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://geershatisaxena.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio badge" /></a>
+<a href="https://www.linkedin.com/in/geershati-saxena-8b915b306/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" /></a>
+<a href="mailto:geershatisaxena110@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-00C9A7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge" /></a>
+<a href="https://leetcode.com/u/geershati_saxena/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode badge" /></a>
 
 <br/><br/>
 
@@ -26,16 +26,16 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" width="100%" alt="divider" />
 </picture>
 
 ## 👩‍💻 About Me
 
 <img align="right" width="280" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="coding illustration" />
 
-I'm a **data-driven developer** who loves building systems where **design meets intelligence** from predictive ML models to pixel-perfect web interfaces. I bring the same curiosity to neural architectures as I do to discovering a new indie track or anime series.
+I'm a **data-driven developer** who loves building systems where **design meets intelligence** — from predictive ML models to pixel-perfect web interfaces. I bring the same curiosity to neural architectures as I do to discovering a new indie track or anime series.
 
-````yaml
+```yaml
 name: Geershati Saxena
 role: Data Scientist | AI Engineer | Python Developer
 location: India 🇮🇳
@@ -51,7 +51,7 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" width="100%" alt="divider" />
 </picture>
 
 ## 🛠️ Tech Stack
@@ -75,24 +75,24 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
 ### 🧬 Data Science & Machine Learning
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square&logo=xgboost&logoColor=white" />
-  <img src="https://img.shields.io/badge/LightGBM-02569B?style=flat-square&logo=lightgbm&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLTK-154F3B?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Matplotlib-3670A0?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square&logo=xgboost&logoColor=white" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/LightGBM-02569B?style=flat-square&logo=lightgbm&logoColor=white" alt="LightGBM" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/NLTK-154F3B?style=flat-square&logo=python&logoColor=white" alt="NLTK" />
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" alt="spaCy" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Matplotlib-3670A0?style=flat-square&logo=python&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
 </td>
@@ -104,11 +104,11 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
 ### 📊 Visualization & BI
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dask-FC6E6B?style=flat-square&logo=dask&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/Dask-FC6E6B?style=flat-square&logo=dask&logoColor=white" alt="Dask" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow" />
 </p>
 
 </td>
@@ -117,12 +117,12 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
 ### 🗄️ Databases & DevOps
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=vscode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=vscode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
 </td>
@@ -147,7 +147,7 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" width="100%" alt="divider" />
 </picture>
 
 ## 🚧 Currently Building
@@ -165,9 +165,22 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" width="100%" alt="divider" />
 </picture>
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=geershatisaxena&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
+    <img src="https://github-profile-trophy.vercel.app/?username=geershatisaxena&theme=flat&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
+  </picture>
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" width="100%" alt="divider" />
+</picture>
 
 ## 📊 GitHub Analytics
 
@@ -259,8 +272,7 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/commits-per-language?username=geershatisaxena&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=geershatisaxena&theme=tokyonight" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=geershatisaxena&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commits-per-language?username=geershatisaxena&theme=github_dark" width="100%" alt="Commits per language" />
 </picture>
 
 </td>
@@ -284,16 +296,14 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" width="100%" alt="divider" />
 </picture>
 
 ## 💻 LeetCode Stats
 
-
-
 <p align="center">
   <a href="https://leetcode.com/u/geershati_saxena/">
-    <img src="https://leetcard.jacoblin.cool/geershati_saxena?theme=forest&font=Karma&ext=heatmap" />
+    <img src="https://leetcard.jacoblin.cool/geershati_saxena?theme=forest&font=Karma&ext=heatmap" alt="LeetCode stats card" />
   </a>
 </p>
 
@@ -309,7 +319,7 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" width="100%" alt="divider" />
 </picture>
 
 ## 🧠 Soft Skills
@@ -317,73 +327,74 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
 <table align="center">
 <tr>
 <td align="center" width="120">
-<img src="https://github.com/geershatisaxena/my-portfoli/blob/main/Pics/leadership.gif" width="50"><br>
+<img src="https://raw.githubusercontent.com/geershatisaxena/my-portfoli/main/Pics/leadership.gif" width="50" alt="Leadership"><br>
 <b>Leadership</b>
 </td>
 
 <td align="center" width="120">
-<img src="https://github.com/geershatisaxena/my-portfoli/blob/main/Pics/tw.gif" width="50"><br>
+<img src="https://raw.githubusercontent.com/geershatisaxena/my-portfoli/main/Pics/tw.gif" width="50" alt="Teamwork"><br>
 <b>Teamwork</b>
 </td>
 
 <td align="center" width="120">
-<img src="https://github.com/geershatisaxena/my-portfoli/blob/main/Pics/creative.gif" width="50"><br>
+<img src="https://raw.githubusercontent.com/geershatisaxena/my-portfoli/main/Pics/creative.gif" width="50" alt="Creativity"><br>
 <b>Creativity</b>
 </td>
 
 <td align="center" width="120">
-<img src="https://github.com/geershatisaxena/my-portfoli/blob/main/Pics/problem-solving.gif" width="50"><br>
+<img src="https://raw.githubusercontent.com/geershatisaxena/my-portfoli/main/Pics/problem-solving.gif" width="50" alt="Problem Solving"><br>
 <b>Problem Solving</b>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="https://github.com/geershatisaxena/my-portfoli/blob/main/Pics/Communication.gif" width="50"><br>
+<img src="https://raw.githubusercontent.com/geershatisaxena/my-portfoli/main/Pics/Communication.gif" width="50" alt="Communication"><br>
 <b>Communication</b>
 </td>
 
 <td align="center">
-<img src="https://github.com/geershatisaxena/my-portfoli/blob/main/Pics/Adaptability.gif" width="50"><br>
+<img src="https://raw.githubusercontent.com/geershatisaxena/my-portfoli/main/Pics/Adaptability.gif" width="50" alt="Adaptability"><br>
 <b>Adaptability</b>
 </td>
 
 <td align="center">
-<img src="https://github.com/geershatisaxena/my-portfoli/blob/main/Pics/Time%20Management.gif" width="50"><br>
+<img src="https://raw.githubusercontent.com/geershatisaxena/my-portfoli/main/Pics/Time%20Management.gif" width="50" alt="Time Management"><br>
 <b>Time Management</b>
 </td>
 
 <td align="center">
-<img src="https://github.com/geershatisaxena/my-portfoli/blob/main/Pics/Critical%20Thinking.gif" width="50"><br>
+<img src="https://raw.githubusercontent.com/geershatisaxena/my-portfoli/main/Pics/Critical%20Thinking.gif" width="50" alt="Critical Thinking"><br>
 <b>Critical Thinking</b>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="https://github.com/geershatisaxena/my-portfoli/blob/main/Pics/innovation.gif" width="50"><br>
+<img src="https://raw.githubusercontent.com/geershatisaxena/my-portfoli/main/Pics/innovation.gif" width="50" alt="Innovation"><br>
 <b>Innovation</b>
 </td>
 
 <td align="center">
-<img src="https://github.com/geershatisaxena/my-portfoli/blob/main/Pics/Continuous%20Learning.png" width="50"><br>
+<img src="https://raw.githubusercontent.com/geershatisaxena/my-portfoli/main/Pics/Continuous%20Learning.png" width="50" alt="Continuous Learning"><br>
 <b>Continuous Learning</b>
 </td>
 
 <td align="center">
-<img src="https://github.com/geershatisaxena/my-portfoli/blob/main/Pics/network.gif" width="50"><br>
+<img src="https://raw.githubusercontent.com/geershatisaxena/my-portfoli/main/Pics/network.gif" width="50" alt="Networking"><br>
 <b>Networking</b>
 </td>
 
 <td align="center">
-<img src="https://github.com/geershatisaxena/my-portfoli/blob/main/Pics/collaboration.gif" width="50"><br>
+<img src="https://raw.githubusercontent.com/geershatisaxena/my-portfoli/main/Pics/collaboration.gif" width="50" alt="Collaboration"><br>
 <b>Collaboration</b>
 </td>
 </tr>
 </table>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" width="100%" alt="divider" />
 </picture>
 
 ## 💬 Dev Quote
@@ -397,39 +408,40 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" width="100%" alt="divider" />
 </picture>
 
 ## 🌐 Let's Connect
+
 <div align="center">
 
 <table>
 <tr>
 <td align="center">
 <a href="https://geershatisaxena.vercel.app/" target="_blank">
-<img src="https://github.com/geershatisaxena/my-portfoli/blob/main/logo.svg" width="60" alt="Portfolio"/><br>
-
+<img src="https://raw.githubusercontent.com/geershatisaxena/my-portfoli/main/logo.svg" width="60" alt="Portfolio"/><br>
+<b>Portfolio</b>
 </a>
 </td>
 
 <td align="center">
 <a href="https://www.linkedin.com/in/geershati-saxena-8b915b306/" target="_blank">
-<img src="https://github.com/geershatisaxena/Healthtip-Data-Analysis/blob/main/pics/linkedin.png" width="60" alt="LinkedIn"/><br>
-
+<img src="https://raw.githubusercontent.com/geershatisaxena/Healthtip-Data-Analysis/main/pics/linkedin.png" width="60" alt="LinkedIn"/><br>
+<b>LinkedIn</b>
 </a>
 </td>
 
 <td align="center">
 <a href="https://www.credly.com/users/geershati-saxena.4540b108" target="_blank">
-<img src="https://github.com/geershatisaxena/Healthtip-Data-Analysis/blob/main/pics/Credly.png" width="60" alt="Credly"/><br>
-
+<img src="https://raw.githubusercontent.com/geershatisaxena/Healthtip-Data-Analysis/main/pics/Credly.png" width="60" alt="Credly"/><br>
+<b>Credly</b>
 </a>
 </td>
 
 <td align="center">
 <a href="https://leetcode.com/u/geershati_saxena/" target="_blank">
-<img src="https://github.com/geershatisaxena/Healthtip-Data-Analysis/blob/main/pics/LeetCode_logo_black.png" width="60" alt="LeetCode"/><br>
-
+<img src="https://raw.githubusercontent.com/geershatisaxena/Healthtip-Data-Analysis/main/pics/LeetCode_logo_black.png" width="60" alt="LeetCode"/><br>
+<b>LeetCode</b>
 </a>
 </td>
 </tr>
@@ -437,36 +449,35 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
 <tr>
 <td align="center">
 <a href="mailto:geershatisaxena110@gmail.com">
-<img src="https://github.com/geershatisaxena/Healthtip-Data-Analysis/blob/main/pics/gmail.png" width="60" alt="Gmail"/><br>
-
+<img src="https://raw.githubusercontent.com/geershatisaxena/Healthtip-Data-Analysis/main/pics/gmail.png" width="60" alt="Gmail"/><br>
+<b>Gmail</b>
 </a>
 </td>
 
 <td align="center">
 <a href="mailto:geershatisaxena110@outlook.com">
-<img src="https://github.com/geershatisaxena/Healthtip-Data-Analysis/blob/main/pics/email.png" width="60" alt="Outlook"/><br>
-
+<img src="https://raw.githubusercontent.com/geershatisaxena/Healthtip-Data-Analysis/main/pics/email.png" width="60" alt="Outlook"/><br>
+<b>Outlook</b>
 </a>
 </td>
 
 <td align="center">
 <a href="https://instagram.com/geershati_saxena" target="_blank">
-<img src="https://github.com/geershatisaxena/Healthtip-Data-Analysis/blob/main/pics/instagram.png" width="60" alt="Instagram"/><br>
-
+<img src="https://raw.githubusercontent.com/geershatisaxena/Healthtip-Data-Analysis/main/pics/instagram.png" width="60" alt="Instagram"/><br>
+<b>Instagram</b>
 </a>
 </td>
 
 <td align="center">
 <a href="https://pinterest.com/geershati" target="_blank">
 <img src="https://cdn.simpleicons.org/pinterest/E60023" width="60" alt="Pinterest"/><br>
-
+<b>Pinterest</b>
 </a>
 </td>
 </tr>
 </table>
 
 </div>
-
 
 <div align="center">
   <picture>
