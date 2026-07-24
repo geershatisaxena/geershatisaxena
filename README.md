@@ -33,7 +33,7 @@
 
 <img align="right" width="280" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="coding illustration" />
 
-I'm a **data-driven developer** who loves building systems where **design meets intelligence** — from predictive ML models to pixel-perfect web interfaces. I bring the same curiosity to neural architectures as I do to discovering a new indie track or anime series.
+I'm a **data-driven developer** who loves building systems where **design meets intelligence** from predictive ML models to pixel-perfect web interfaces. I bring the same curiosity to neural architectures as I do to discovering a new indie track or anime series.
 
 ```yaml
 name: Geershati Saxena
