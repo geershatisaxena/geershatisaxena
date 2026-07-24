@@ -35,7 +35,7 @@
 
 I'm a **data-driven developer** who loves building systems where **design meets intelligence** from predictive ML models to pixel-perfect web interfaces. I bring the same curiosity to neural architectures as I do to discovering a new indie track or anime series.
 
-
+````yaml
 name: Geershati Saxena
 role: Data Scientist | AI Engineer | Python Developer
 location: India 🇮🇳
