@@ -457,7 +457,7 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
 <td align="center">
 <a href="mailto:geershatisaxena110@outlook.com">
 <img src="https://raw.githubusercontent.com/geershatisaxena/Healthtip-Data-Analysis/main/pics/email.png" width="60" alt="Outlook"/><br>
-<b>Outlook</b>
+<b></b>
 </a>
 </td>
 
