@@ -441,7 +441,7 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
 <td align="center">
 <a href="https://leetcode.com/u/geershati_saxena/" target="_blank">
 <img src="https://raw.githubusercontent.com/geershatisaxena/Healthtip-Data-Analysis/main/pics/LeetCode_logo_black.png" width="60" alt="LeetCode"/><br>
-<b>LeetCode</b>
+<b></b>
 </a>
 </td>
 </tr>
