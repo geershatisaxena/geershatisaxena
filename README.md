@@ -292,7 +292,7 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
 </tr>
 </table>
 
-> 📝 **Note:** `count_private=true` and `include_all_commits=true` only reflect private-repo activity once this README lives in your own `<username>/<username>` profile repo — GitHub only computes these stats for the authenticated account.
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" />
