@@ -11,6 +11,8 @@
 
 <br/>
 
+
+
 <a href="https://geershatisaxena.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio badge" /></a>
 <a href="https://www.linkedin.com/in/geershati-saxena-8b915b306/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" /></a>
 <a href="mailto:geershatisaxena110@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-00C9A7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge" /></a>
