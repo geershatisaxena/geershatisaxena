@@ -422,7 +422,7 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
 <td align="center">
 <a href="https://geershatisaxena.vercel.app/" target="_blank">
 <img src="https://raw.githubusercontent.com/geershatisaxena/my-portfoli/main/logo.svg" width="60" alt="Portfolio"/><br>
-<b>Portfolio</b>
+<b></b>
 </a>
 </td>
 
