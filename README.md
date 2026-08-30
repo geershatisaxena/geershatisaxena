@@ -284,36 +284,21 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
 <td colspan="2" align="center">
 
 **📅 Contribution Activity Graph**
-
-<!-- GitHub Stats -->
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=geershatisaxena&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
-</p>
-
-<!-- Contribution Activity Graph -->
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=geershatisaxena&bg_color=0d1117&color=00C9A7&line=6C63FF&point=00C9A7&area=true&hide_border=true"
-    alt="GitHub Contribution Activity Graph"
+    src="https://github-contributions-api.deno.dev/geershatisaxena.svg?theme=github-dark"
+    alt="GitHub Contribution Activity"
     width="100%"
   />
 </p>
 
-<!-- Divider -->
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header"
-  />
+<p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header"
     width="100%"
     alt="divider"
   />
-</picture>
+</p>
 
 ## 💻 LeetCode Stats
 
