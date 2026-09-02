@@ -286,11 +286,7 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
 **📅 Contribution Activity Graph**
 
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=geershatisaxena&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=1f6feb" 
-    alt="GitHub Activity Graph" 
-    width="100%"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=geershatisaxena&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" width="100%" />
 </p>
 
 ## 💻 LeetCode Stats
