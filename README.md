@@ -285,18 +285,10 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
 
 **📅 Contribution Activity Graph**
 <p align="center">
-  <img
-    src="https://github-contributions-api.deno.dev/geershatisaxena.svg?theme=github-dark"
-    alt="GitHub Contribution Activity"
+  <img 
+    src="https://github-contributions-api.deno.dev/geershatisaxena.svg" 
+    alt="GitHub Contribution Activity" 
     width="100%"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header"
-    width="100%"
-    alt="divider"
   />
 </p>
 
