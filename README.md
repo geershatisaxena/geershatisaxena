@@ -6,7 +6,10 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=600&color=59D9C6&center=true&vCenter=true&width=700&lines=BCA+Graduate+%7C+Data+Science+%26+AI+Enthusiast;Building+intelligent+systems+from+raw+data;Exploring+Deep+Learning+%26+Neural+Architectures;Open+to+collaborations+%26+internships+%F0%9F%A4%9D" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=600&color=6C63FF&center=true&vCenter=true&width=700&lines=BCA+Graduate+%7C+Data+Science+%26+AI+Enthusiast;Building+intelligent+systems+from+raw+data;Exploring+Deep+Learning+%26+Neural+Architectures;Open+to+collaborations+%26+internships+%F0%9F%A4%9D" alt="Typing SVG" />
+ 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=600&color=6C63FF&center=true&vCenter=true&width=700&lines=BCA+Graduate+%7C+Data+Science+%26+AI+Enthusiast;Currently+Pursuing+MCA+in+Data+Science;Building+intelligent+systems+from+raw+data;Exploring+Deep+Learning+%26+Neural+Architectures;Open+to+collaborations+%26+internships+%F0%9F%A4%9D" alt="Typing SVG" />
+
+
 </picture>
 
 <br/>
