@@ -284,10 +284,11 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
 <td colspan="2" align="center">
 
 **📅 Contribution Activity Graph**
+
 <p align="center">
   <img 
-    src="https://github-contributions-api.deno.dev/geershatisaxena.svg" 
-    alt="GitHub Contribution Activity" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=geershatisaxena&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=1f6feb" 
+    alt="GitHub Activity Graph" 
     width="100%"
   />
 </p>
