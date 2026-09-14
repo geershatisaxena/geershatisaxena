@@ -287,19 +287,19 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
 <td colspan="2" align="center">
 
 **📅 Contribution Activity Graph**
+<!-- GitHub Stats Card -->
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=geershatisaxena&theme=github-compact&hide_border=true&area=true"
-    alt="GitHub Activity Graph"
-    width="100%"
+    src="https://github-readme-stats.vercel.app/api?username=geershatisaxena&show_icons=true&theme=github_compact&hide_border=true"
+    alt="GitHub Stats"
   />
 </p>
 
+<!-- Top Languages Card -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header"
-    width="100%"
-    alt="divider"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=geershatisaxena&layout=compact&theme=github_compact&hide_border=true"
+    alt="Top Languages"
   />
 </p>
 
