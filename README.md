@@ -289,16 +289,8 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
 **📅 Contribution Activity Graph**
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=geershatisaxena&show_icons=true&theme=github_compact&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api?username=geershatisaxena&show_icons=true&theme=github_compact&hide_border=true"
     alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header"
-    width="100%"
-    alt="divider"
   />
 </p>
 
