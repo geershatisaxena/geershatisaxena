@@ -289,7 +289,8 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, best debugging fuel]
 **📅 Contribution Activity Graph**
 ## 📈 Contribution Activity
 
-[![Geersha's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=geershatisaxena&theme=github-compact)](https://github.com/geershatisaxena)
+https://github-readme-activity-graph.vercel.app/graph?username=geershatisaxena&theme=github-compact)](https://github.com/geershatisaxena
+
 ## 💻 LeetCode Stats
 
 <p align="center">
