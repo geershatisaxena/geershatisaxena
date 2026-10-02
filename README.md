@@ -1,9 +1,12 @@
-<h1 align="center">Geershati Saxena</h1>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=220&section=header&text=Hi%20There%2C%20I'm%20Geershati%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Python%20Developer&descAlignY=58&descSize=18" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:6C63FF,100:0EA5A4&height=220&section=header&text=Hi%20There%2C%20I'm%20Geershati%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Python%20Developer&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:6C63FF,100:0EA5A4&height=220&section=header&text=Hi%20There%2C%20I'm%20Geershati%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Python%20Developer&descAlignY=58&descSize=18" alt="Header banner" width="100%" />
+</picture>
+</div>
 
-<p align="center">
-  <b>Data Scientist · AI Engineer · Python Developer</b><br/>
-  <i>Turning raw data into real intelligence.</i>
-</p>
+<p align="center"><i>Turning raw data into real intelligence.</i></p>
 
 <p align="center">
   <a href="https://geershatisaxena.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
@@ -185,3 +188,11 @@ If you're working on data, ML, or a product that needs a bit of intelligence, I'
 </p>
 
 <p align="center"><sub>Thanks for stopping by. A ⭐ is always appreciated.</sub></p>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=120&section=footer&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:6C63FF,100:0EA5A4&height=120&section=footer&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:6C63FF,100:0EA5A4&height=120&section=footer&animation=fadeIn" alt="Footer wave" width="100%" />
+</picture>
+</div>
