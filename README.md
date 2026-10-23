@@ -346,7 +346,7 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, coffee ☕ (best debuggi
 <tr>
 <td align="center">
 <a href="https://geershatisaxena.vercel.app/" target="_blank">
-<img src="https://cdn.simpleicons.org/vercel/6C63FF" width="48" alt="Portfolio"/><br>
+<img src="https://github.com/geershatisaxena/my-portfoli/blob/main/logo.svg" width="48" alt="Portfolio"/><br>
 <b>Portfolio</b>
 </a>
 </td>
