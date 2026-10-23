@@ -383,7 +383,7 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, coffee ☕ (best debuggi
 
 <td align="center">
 <a href="mailto:geershatisaxena110@outlook.com">
-<img src="https://cdn.simpleicons.org/microsoftoutlook/0078D4" width="48" alt="Outlook"/><br>
+<img src="https://cdn-icons-png.flaticon.com/128/11893/11893321.png" width="48" alt="Outlook"/><br>
 <b>Outlook</b>
 </a>
 </td>
