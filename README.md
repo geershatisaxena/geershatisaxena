@@ -397,7 +397,7 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, coffee ☕ (best debuggi
 <td align="center">
 <a href="https://pinterest.com/geershati" target="_blank">
 <img src="https://cdn.simpleicons.org/pinterest/E60023" width="48" alt="Pinterest"/><br>
-<b>Pinterest</b>
+<b></b>
 </a>
 </td>
 </tr>
