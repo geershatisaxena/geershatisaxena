@@ -390,7 +390,7 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, coffee ☕ (best debuggi
 <td align="center">
 <a href="https://instagram.com/geershati_saxena" target="_blank">
 <img src="https://cdn.simpleicons.org/instagram/E4405F" width="48" alt="Instagram"/><br>
-<b>Instagram</b>
+<b></b>
 </a>
 </td>
 
