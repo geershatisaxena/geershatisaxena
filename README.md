@@ -376,7 +376,7 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, coffee ☕ (best debuggi
 <td align="center">
 <a href="mailto:geershatisaxena110@gmail.com">
 <img src="https://cdn.simpleicons.org/gmail/EA4335" width="48" alt="Gmail"/><br>
-<b>Gmail</b>
+<b></b>
 </a>
 </td>
 
