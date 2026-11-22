@@ -45,7 +45,6 @@ philosophy: "Turn raw data into real intelligence"
 looking_for: [Internships, Collaborations, Open Source]
 fun_facts: [anime marathons 🎬, music discovery 🎵, coffee ☕ (best debugging fuel)]
 ```
-
 <br clear="right"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C9A7,100:6C63FF&height=3&section=header" width="100%" alt="divider" />
