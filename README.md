@@ -367,7 +367,7 @@ fun_facts: [anime marathons 🎬, music discovery 🎵, coffee ☕ (best debuggi
 <td align="center">
 <a href="https://leetcode.com/u/geershati_saxena/" target="_blank">
 <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48" alt="LeetCode"/><br>
-<b>LeetCode</b>
+<b></b>
 </a>
 </td>
 </tr>
